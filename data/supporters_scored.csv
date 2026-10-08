@@ -1,0 +1,301 @@
+﻿supporter_id,prenom,nom,age,ville,code_postal,email,date_inscription,consentement_marketing,abonne,canal_prefere,nb_matchs,nb_achats,total_depense,nb_places,taux_presence,derniere_activite,satisfaction_moyenne,nps_moyen,nb_avis,score_engagement,segment_crm
+SUP0001,Lucie,Marie,58,Saint-Denis,93200,supporter0001@example.com,2022-11-14,True,True,SMS,4.0,4.0,324.0,9.0,100.0,2026-11-13,5.0,9.5,2.0,87,VIP
+SUP0002,Nicole,Paris,26,Saint-Denis,93200,supporter0002@example.com,2023-10-22,True,False,Email,5.0,5.0,556.0,7.0,100.0,2026-12-14,4.25,8.8,4.0,77,Fidèle
+SUP0003,Maurice,Joly,55,Cergy,95000,supporter0003@example.com,2025-11-24,True,True,SMS,2.0,2.0,618.0,6.0,100.0,2026-09-19,4.0,9.0,1.0,82,Fidèle
+SUP0004,François,Labbé,50,Ivry-sur-Seine,94200,supporter0004@example.com,2025-11-30,True,True,Réseaux sociaux,4.0,4.0,686.0,7.0,100.0,2026-11-26,4.0,7.0,1.0,90,VIP
+SUP0005,Émilie,Fernandez,32,Aubervilliers,93300,supporter0005@example.com,2025-04-11,True,False,Email,2.0,2.0,136.0,3.0,50.0,2026-12-07,0.0,0.0,0.0,33,Occasionnel
+SUP0006,Audrey,David,66,Boulogne-Billancourt,92100,supporter0006@example.com,2022-11-22,True,True,SMS,4.0,4.0,264.0,6.0,75.0,2027-01-08,4.0,7.0,1.0,77,Fidèle
+SUP0007,Éric,Carpentier,31,Versailles,78000,supporter0007@example.com,2023-10-03,True,False,Application,1.0,1.0,81.0,1.0,100.0,2026-12-01,0.0,0.0,0.0,31,Occasionnel
+SUP0008,Corinne,Marion,40,Ivry-sur-Seine,94200,supporter0008@example.com,2022-11-17,True,True,Réseaux sociaux,2.0,2.0,138.0,3.0,50.0,2026-10-29,0.0,0.0,0.0,48,Occasionnel
+SUP0009,Gabrielle,Philippe,52,Saint-Denis,93200,supporter0009@example.com,2025-10-23,False,False,Application,3.0,3.0,891.0,4.0,100.0,2026-11-02,3.0,3.5,2.0,59,Régulier
+SUP0010,Manon,Boutin,58,Ivry-sur-Seine,94200,supporter0010@example.com,2025-01-30,False,False,SMS,4.0,4.0,278.0,5.0,100.0,2026-12-21,3.0,6.3,3.0,59,Régulier
+SUP0011,Astrid,Vasseur,63,Saint-Denis,93200,supporter0011@example.com,2024-09-03,True,True,Application,4.0,4.0,290.0,6.0,100.0,2026-11-24,4.5,8.0,4.0,84,Fidèle
+SUP0012,Jacqueline,Lopes,23,Montreuil,93100,supporter0012@example.com,2026-03-17,False,False,Réseaux sociaux,3.0,3.0,196.0,4.0,66.7,2026-10-22,3.5,8.0,2.0,43,Occasionnel
+SUP0013,Aimé,Thierry,58,Versailles,78000,supporter0013@example.com,2026-03-11,True,False,Application,2.0,2.0,120.0,3.0,100.0,2026-12-04,3.0,6.0,1.0,47,Occasionnel
+SUP0014,Hugues,Rocher,62,Saint-Denis,93200,supporter0014@example.com,2024-07-24,True,True,SMS,6.0,6.0,492.0,9.0,83.3,2026-11-21,2.75,5.5,4.0,84,Fidèle
+SUP0015,Zacharie,Lopes,28,Aubervilliers,93300,supporter0015@example.com,2023-06-05,True,False,SMS,4.0,4.0,264.0,5.0,100.0,2026-11-27,3.0,7.0,2.0,62,Régulier
+SUP0016,Martin,Ledoux,61,Versailles,78000,supporter0016@example.com,2024-03-12,True,False,SMS,2.0,2.0,90.0,2.0,50.0,2026-11-14,4.0,9.0,1.0,44,Occasionnel
+SUP0017,François,Morin,70,Paris,75000,supporter0017@example.com,2024-05-19,True,False,Email,4.0,4.0,458.0,5.0,100.0,2027-01-03,3.0,5.0,3.0,69,Régulier
+SUP0018,Étienne,Pelletier,31,Ivry-sur-Seine,94200,supporter0018@example.com,2026-05-15,False,True,Réseaux sociaux,6.0,6.0,527.0,10.0,100.0,2026-11-13,4.0,7.4,5.0,93,VIP
+SUP0019,Adélaïde,Texier,43,Aubervilliers,93300,supporter0019@example.com,2023-11-21,True,True,Application,3.0,3.0,232.0,5.0,33.3,2026-12-13,2.0,2.0,1.0,60,Régulier
+SUP0020,Susan,Bertrand,65,Ivry-sur-Seine,94200,supporter0020@example.com,2025-11-13,True,False,Application,1.0,1.0,284.0,2.0,100.0,2026-07-29,0.0,0.0,0.0,38,Occasionnel
+SUP0021,Céline,Regnier,32,Boulogne-Billancourt,92100,supporter0021@example.com,2023-04-18,True,True,Email,5.0,5.0,286.0,6.0,100.0,2026-12-25,4.0,8.0,1.0,80,Fidèle
+SUP0022,Alexandria,Chevalier,25,Boulogne-Billancourt,92100,supporter0022@example.com,2025-02-10,True,False,Réseaux sociaux,1.0,1.0,56.0,1.0,100.0,2026-08-25,0.0,0.0,0.0,31,Occasionnel
+SUP0023,Théodore,Techer,56,Saint-Denis,93200,supporter0023@example.com,2025-05-24,True,False,Réseaux sociaux,6.0,6.0,707.0,11.0,83.3,2027-01-06,4.33,8.3,3.0,80,Fidèle
+SUP0024,Agnès,Verdier,51,Créteil,94000,supporter0024@example.com,2023-08-01,False,False,Email,3.0,3.0,126.0,3.0,100.0,2026-11-28,4.5,9.5,2.0,47,Occasionnel
+SUP0025,Maryse,Muller,61,Saint-Denis,93200,supporter0025@example.com,2022-12-17,True,False,Application,5.0,5.0,322.0,6.0,100.0,2026-10-31,4.5,8.5,2.0,72,Fidèle
+SUP0026,Margaud,Dumas,67,Versailles,78000,supporter0026@example.com,2026-01-19,True,False,Réseaux sociaux,2.0,2.0,154.0,3.0,100.0,2026-11-26,3.0,7.0,1.0,54,Régulier
+SUP0027,Stéphane,Chevalier,18,Créteil,94000,supporter0027@example.com,2026-05-27,False,False,Email,1.0,1.0,313.0,1.0,100.0,2026-08-21,2.0,1.0,1.0,43,Occasionnel
+SUP0028,Nicolas,Roussel,58,Créteil,94000,supporter0028@example.com,2024-05-19,True,False,SMS,3.0,3.0,413.0,7.0,100.0,2026-11-02,4.0,8.0,1.0,62,Régulier
+SUP0029,Roger,De Sousa,27,Versailles,78000,supporter0029@example.com,2025-06-20,True,False,Email,3.0,3.0,548.0,8.0,100.0,2026-10-23,4.5,8.5,2.0,69,Régulier
+SUP0030,Victoire,Marchal,56,Versailles,78000,supporter0030@example.com,2023-06-16,True,True,Application,6.0,6.0,496.0,6.0,100.0,2026-12-04,3.33,6.7,3.0,90,VIP
+SUP0031,Alexandrie,Monnier,69,Créteil,94000,supporter0031@example.com,2023-08-28,True,True,Email,1.0,1.0,54.0,1.0,100.0,2026-10-10,0.0,0.0,0.0,46,Occasionnel
+SUP0032,Marguerite,Da Costa,23,Aubervilliers,93300,supporter0032@example.com,2025-10-01,True,False,SMS,4.0,4.0,151.0,4.0,100.0,2026-10-12,2.75,5.2,4.0,61,Régulier
+SUP0033,Maggie,Jourdan,26,Aubervilliers,93300,supporter0033@example.com,2023-01-25,False,True,Réseaux sociaux,1.0,1.0,45.0,1.0,100.0,2026-09-21,0.0,0.0,0.0,41,Occasionnel
+SUP0034,Julie,Bousquet,31,Nanterre,92000,supporter0034@example.com,2023-06-29,True,False,Application,3.0,3.0,238.0,3.0,66.7,2026-12-30,3.0,5.5,2.0,48,Occasionnel
+SUP0035,Élisabeth,Chauveau,43,Versailles,78000,supporter0035@example.com,2023-10-22,True,False,Email,5.0,5.0,392.0,7.0,100.0,2026-11-26,2.0,3.3,3.0,66,Régulier
+SUP0036,Isaac,Pinto,33,Montreuil,93100,supporter0036@example.com,2024-05-18,True,True,SMS,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,20,À réengager
+SUP0037,Richard,Riou,55,Montreuil,93100,supporter0037@example.com,2025-09-10,True,False,Email,3.0,3.0,292.0,4.0,100.0,2026-12-25,4.0,8.0,2.0,57,Régulier
+SUP0038,Frédérique,Vasseur,32,Saint-Denis,93200,supporter0038@example.com,2025-09-04,False,False,Email,3.0,3.0,240.0,4.0,66.7,2026-10-18,2.0,0.0,1.0,40,Occasionnel
+SUP0039,Victor,Lecoq,50,Montreuil,93100,supporter0039@example.com,2026-01-24,True,False,SMS,2.0,2.0,123.0,2.0,100.0,2026-12-03,5.0,10.0,1.0,52,Régulier
+SUP0040,Bertrand,Rolland,64,Ivry-sur-Seine,94200,supporter0040@example.com,2026-04-05,True,True,Réseaux sociaux,2.0,2.0,275.0,4.0,100.0,2026-11-28,3.0,7.0,1.0,69,Régulier
+SUP0041,Arthur,Gomes,69,Cergy,95000,supporter0041@example.com,2024-06-21,True,True,Réseaux sociaux,2.0,2.0,210.0,4.0,100.0,2026-11-11,4.0,7.5,2.0,72,Fidèle
+SUP0042,René,François,40,Cergy,95000,supporter0042@example.com,2023-08-30,True,False,Email,3.0,3.0,233.0,4.0,66.7,2026-11-10,4.0,8.0,2.0,51,Régulier
+SUP0043,Hélène,Wagner,61,Saint-Denis,93200,supporter0043@example.com,2024-02-07,True,False,Email,6.0,6.0,458.0,8.0,83.3,2026-11-05,3.75,8.2,4.0,72,Fidèle
+SUP0044,Marcel,Bègue,33,Montreuil,93100,supporter0044@example.com,2024-11-20,True,False,Réseaux sociaux,6.0,6.0,467.0,9.0,100.0,2026-12-18,4.5,8.5,2.0,78,Fidèle
+SUP0045,Anastasie,Weiss,29,Créteil,94000,supporter0045@example.com,2024-09-18,True,False,Email,2.0,2.0,117.0,2.0,100.0,2026-12-18,5.0,10.0,1.0,52,Régulier
+SUP0046,Guy,Aubry,46,Nanterre,92000,supporter0046@example.com,2023-05-11,True,False,Email,2.0,2.0,141.0,2.0,100.0,2026-10-25,4.0,7.0,1.0,50,Régulier
+SUP0047,Paul,Vallet,23,Montreuil,93100,supporter0047@example.com,2025-02-25,True,False,SMS,2.0,2.0,254.0,4.0,100.0,2026-12-14,4.0,8.0,1.0,57,Régulier
+SUP0048,Élise,Charles,43,Paris,75000,supporter0048@example.com,2025-12-10,True,True,Réseaux sociaux,4.0,4.0,452.0,5.0,100.0,2026-11-26,2.0,3.0,1.0,79,Fidèle
+SUP0049,Isabelle,Gilbert,34,Aubervilliers,93300,supporter0049@example.com,2026-08-01,True,False,Réseaux sociaux,4.0,4.0,626.0,5.0,100.0,2026-12-26,4.33,8.3,3.0,77,Fidèle
+SUP0050,Isabelle,Alexandre,27,Montreuil,93100,supporter0050@example.com,2024-04-21,True,False,Email,1.0,1.0,82.0,2.0,100.0,2026-08-11,0.0,0.0,0.0,31,Occasionnel
+SUP0051,Matthieu,Dos Santos,65,Versailles,78000,supporter0051@example.com,2024-12-06,True,False,SMS,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,5,À réengager
+SUP0052,Clémence,Robin,21,Nanterre,92000,supporter0052@example.com,2025-12-24,True,True,Email,3.0,3.0,214.0,4.0,100.0,2026-10-22,3.0,7.0,1.0,69,Régulier
+SUP0053,Benoît,Masson,61,Montreuil,93100,supporter0053@example.com,2023-06-01,True,False,SMS,2.0,2.0,358.0,5.0,100.0,2026-12-17,4.0,7.0,1.0,62,Régulier
+SUP0054,Lorraine,Leroux,55,Ivry-sur-Seine,94200,supporter0054@example.com,2026-02-18,True,True,Application,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,20,À réengager
+SUP0055,Maggie,Briand,34,Montreuil,93100,supporter0055@example.com,2025-04-20,True,True,Application,2.0,2.0,72.0,2.0,100.0,2026-11-25,4.0,9.0,1.0,65,Régulier
+SUP0056,Christophe,Collin,43,Boulogne-Billancourt,92100,supporter0056@example.com,2024-05-21,True,True,Application,2.0,2.0,100.0,3.0,100.0,2026-12-16,3.5,7.0,2.0,62,Régulier
+SUP0057,Jeannine,Bigot,66,Saint-Denis,93200,supporter0057@example.com,2025-01-05,True,False,Email,2.0,2.0,63.0,2.0,100.0,2026-08-16,0.0,0.0,0.0,39,Occasionnel
+SUP0058,Philippe,Lenoir,22,Nanterre,92000,supporter0058@example.com,2026-06-05,True,True,Application,1.0,1.0,55.0,1.0,100.0,2026-07-28,5.0,9.0,1.0,59,Régulier
+SUP0059,Alain,Bazin,22,Montreuil,93100,supporter0059@example.com,2025-10-30,True,True,Application,2.0,2.0,116.0,3.0,100.0,2026-10-21,4.5,8.0,2.0,67,Régulier
+SUP0060,Gabriel,Normand,57,Nanterre,92000,supporter0060@example.com,2026-07-12,True,False,Application,5.0,5.0,441.0,10.0,80.0,2027-01-05,5.0,9.5,2.0,69,Régulier
+SUP0061,Élise,Hamel,60,Saint-Denis,93200,supporter0061@example.com,2023-11-25,False,True,Email,2.0,2.0,63.0,2.0,100.0,2026-11-05,5.0,10.0,1.0,62,Régulier
+SUP0062,Pauline,Clerc,24,Nanterre,92000,supporter0062@example.com,2024-03-18,True,True,SMS,1.0,1.0,51.0,1.0,100.0,2026-12-13,4.0,9.0,1.0,57,Régulier
+SUP0063,Frédéric,Cousin,63,Versailles,78000,supporter0063@example.com,2024-08-12,True,False,Application,2.0,2.0,234.0,2.0,100.0,2026-09-05,4.0,9.0,2.0,57,Régulier
+SUP0064,Hugues,De Sousa,50,Aubervilliers,93300,supporter0064@example.com,2022-10-12,True,False,Email,3.0,3.0,602.0,6.0,100.0,2026-12-24,3.0,6.0,1.0,64,Régulier
+SUP0065,Michelle,Fouquet,23,Cergy,95000,supporter0065@example.com,2023-11-20,True,True,Application,2.0,2.0,134.0,3.0,100.0,2026-11-13,5.0,9.5,2.0,67,Régulier
+SUP0066,Constance,Ledoux,67,Boulogne-Billancourt,92100,supporter0066@example.com,2023-07-11,True,True,Réseaux sociaux,1.0,1.0,108.0,2.0,100.0,2026-09-21,0.0,0.0,0.0,46,Occasionnel
+SUP0067,Corinne,Gautier,53,Cergy,95000,supporter0067@example.com,2026-06-20,True,True,SMS,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,20,À réengager
+SUP0068,Lorraine,Léger,52,Paris,75000,supporter0068@example.com,2026-05-06,True,False,SMS,3.0,3.0,451.0,8.0,66.7,2027-01-10,3.0,5.0,2.0,53,Régulier
+SUP0069,Lucie,Guillou,45,Boulogne-Billancourt,92100,supporter0069@example.com,2025-05-10,True,False,Email,3.0,3.0,184.0,3.0,100.0,2026-11-18,3.5,8.0,2.0,54,Régulier
+SUP0070,Louis,Brunet,40,Montreuil,93100,supporter0070@example.com,2024-05-09,True,False,Application,1.0,1.0,233.0,1.0,100.0,2026-09-22,0.0,0.0,0.0,38,Occasionnel
+SUP0071,Paulette,Renard,67,Nanterre,92000,supporter0071@example.com,2025-01-21,False,False,SMS,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,0,À réengager
+SUP0072,Renée,Laporte,33,Boulogne-Billancourt,92100,supporter0072@example.com,2026-09-02,False,False,Réseaux sociaux,4.0,4.0,407.0,5.0,75.0,2026-12-05,4.5,9.5,2.0,64,Régulier
+SUP0073,Adrien,Joseph,19,Boulogne-Billancourt,92100,supporter0073@example.com,2024-02-22,True,True,Réseaux sociaux,3.0,3.0,652.0,5.0,100.0,2026-09-09,0.0,0.0,0.0,71,Fidèle
+SUP0074,Claudine,Moreau,69,Montreuil,93100,supporter0074@example.com,2023-03-29,True,False,Email,1.0,1.0,82.0,1.0,100.0,2026-08-01,4.0,9.0,1.0,42,Occasionnel
+SUP0075,Agnès,Le Gall,42,Paris,75000,supporter0075@example.com,2023-10-13,False,True,Réseaux sociaux,2.0,2.0,253.0,5.0,100.0,2026-11-20,5.0,9.0,1.0,69,Régulier
+SUP0076,Bertrand,Guillot,40,Créteil,94000,supporter0076@example.com,2026-07-01,True,False,SMS,2.0,2.0,276.0,2.0,100.0,2026-11-01,0.0,0.0,0.0,46,Occasionnel
+SUP0077,Hélène,Chevalier,19,Montreuil,93100,supporter0077@example.com,2023-02-17,True,True,Email,6.0,6.0,494.0,9.0,83.3,2026-11-09,4.5,9.0,2.0,90,VIP
+SUP0078,Nath,Vallée,67,Créteil,94000,supporter0078@example.com,2026-03-27,True,False,Application,4.0,4.0,357.0,5.0,75.0,2026-12-10,2.0,5.0,1.0,61,Régulier
+SUP0079,Daniel,Samson,19,Saint-Denis,93200,supporter0079@example.com,2025-01-11,False,True,Application,3.0,3.0,117.0,3.0,100.0,2026-11-05,4.5,8.5,2.0,62,Régulier
+SUP0080,Pauline,Marchand,20,Saint-Denis,93200,supporter0080@example.com,2023-04-24,True,True,Application,5.0,5.0,334.0,8.0,80.0,2026-12-11,3.33,5.3,3.0,81,Fidèle
+SUP0081,Margaux,Ollivier,45,Ivry-sur-Seine,94200,supporter0081@example.com,2025-02-07,False,True,SMS,2.0,2.0,64.0,2.0,50.0,2026-11-14,0.0,0.0,0.0,43,Occasionnel
+SUP0082,Jacques,Aubry,34,Paris,75000,supporter0082@example.com,2025-01-03,True,True,SMS,4.0,4.0,371.0,5.0,100.0,2026-10-27,4.0,7.5,2.0,85,VIP
+SUP0083,Julie,Briand,41,Cergy,95000,supporter0083@example.com,2023-09-01,True,False,Application,6.0,6.0,819.0,8.0,83.3,2027-01-04,4.0,8.0,4.0,80,Fidèle
+SUP0084,Élodie,Faivre,57,Versailles,78000,supporter0084@example.com,2025-11-13,True,True,Application,5.0,5.0,394.0,6.0,60.0,2026-10-30,4.0,8.5,2.0,79,Fidèle
+SUP0085,Marie,Bourgeois,50,Créteil,94000,supporter0085@example.com,2025-10-18,True,True,Application,3.0,3.0,136.0,4.0,100.0,2026-10-31,3.5,7.0,2.0,62,Régulier
+SUP0086,Thierry,Alexandre,53,Boulogne-Billancourt,92100,supporter0086@example.com,2025-08-15,True,False,Réseaux sociaux,3.0,3.0,437.0,4.0,100.0,2026-11-01,2.0,1.0,1.0,56,Régulier
+SUP0087,Manon,Besson,61,Boulogne-Billancourt,92100,supporter0087@example.com,2024-08-17,True,True,Email,4.0,4.0,134.0,4.0,75.0,2026-11-09,4.5,8.5,2.0,72,Fidèle
+SUP0088,Diane,Sauvage,37,Créteil,94000,supporter0088@example.com,2023-04-12,True,False,Application,1.0,1.0,346.0,1.0,100.0,2027-01-04,4.0,8.0,1.0,54,Régulier
+SUP0089,Paul,Jean,47,Aubervilliers,93300,supporter0089@example.com,2023-01-14,True,True,Réseaux sociaux,5.0,5.0,485.0,10.0,100.0,2026-11-21,4.5,9.5,2.0,87,VIP
+SUP0090,Yves,Lefebvre,68,Boulogne-Billancourt,92100,supporter0090@example.com,2025-04-07,True,True,Application,2.0,2.0,140.0,4.0,100.0,2026-12-20,0.0,0.0,0.0,54,Régulier
+SUP0091,Françoise,Rolland,23,Montreuil,93100,supporter0091@example.com,2025-04-08,True,True,SMS,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,20,À réengager
+SUP0092,Matthieu,Robert,27,Paris,75000,supporter0092@example.com,2023-01-25,True,False,Email,4.0,4.0,516.0,5.0,100.0,2026-10-05,4.67,9.7,3.0,79,Fidèle
+SUP0093,Mathilde,Lefort,47,Cergy,95000,supporter0093@example.com,2023-01-06,False,False,Réseaux sociaux,2.0,2.0,636.0,4.0,100.0,2026-12-11,4.5,9.0,2.0,64,Régulier
+SUP0094,Michel,Mercier,49,Cergy,95000,supporter0094@example.com,2026-08-13,True,False,Email,2.0,2.0,258.0,7.0,100.0,2026-11-17,2.0,3.0,1.0,51,Régulier
+SUP0095,Arthur,Rémy,66,Saint-Denis,93200,supporter0095@example.com,2023-01-25,True,True,Réseaux sociaux,1.0,1.0,34.0,1.0,100.0,2026-11-03,4.0,9.0,1.0,57,Régulier
+SUP0096,Denise,Gomez,21,Nanterre,92000,supporter0096@example.com,2023-12-13,True,False,Réseaux sociaux,1.0,1.0,58.0,2.0,100.0,2026-12-28,4.0,7.0,1.0,42,Occasionnel
+SUP0097,Marguerite,Vallée,26,Aubervilliers,93300,supporter0097@example.com,2023-09-04,True,False,Application,3.0,3.0,213.0,5.0,100.0,2026-11-17,0.0,0.0,0.0,46,Occasionnel
+SUP0098,Élodie,Payet,66,Aubervilliers,93300,supporter0098@example.com,2025-11-03,True,False,Réseaux sociaux,2.0,2.0,115.0,2.0,100.0,2026-12-04,0.0,0.0,0.0,39,Occasionnel
+SUP0099,Henriette,Verdier,53,Aubervilliers,93300,supporter0099@example.com,2024-10-10,False,False,Réseaux sociaux,3.0,3.0,236.0,7.0,100.0,2026-10-07,3.33,5.7,3.0,51,Régulier
+SUP0100,Patrick,Reynaud,46,Créteil,94000,supporter0100@example.com,2026-03-14,True,False,Application,2.0,2.0,124.0,3.0,50.0,2026-11-04,4.0,8.0,1.0,44,Occasionnel
+SUP0101,Anouk,Aubert,67,Nanterre,92000,supporter0101@example.com,2023-03-02,True,True,Réseaux sociaux,5.0,5.0,337.0,8.0,80.0,2026-12-06,2.5,4.5,2.0,76,Fidèle
+SUP0102,Étienne,Delmas,22,Créteil,94000,supporter0102@example.com,2024-08-06,True,True,Email,6.0,6.0,408.0,9.0,100.0,2026-12-01,4.4,8.2,5.0,93,VIP
+SUP0103,Adrienne,Briand,26,Boulogne-Billancourt,92100,supporter0103@example.com,2024-07-06,True,False,SMS,4.0,4.0,569.0,5.0,100.0,2027-01-06,4.0,9.0,2.0,75,Fidèle
+SUP0104,Chantal,Chauveau,22,Cergy,95000,supporter0104@example.com,2022-12-30,True,False,Réseaux sociaux,1.0,1.0,40.0,1.0,100.0,2026-10-25,0.0,0.0,0.0,31,Occasionnel
+SUP0105,Margot,Guibert,21,Montreuil,93100,supporter0105@example.com,2025-07-06,True,False,Email,1.0,1.0,40.0,1.0,0.0,2026-09-28,0.0,0.0,0.0,21,Nouveau
+SUP0106,Eugène,Bonnet,66,Ivry-sur-Seine,94200,supporter0106@example.com,2024-06-23,True,True,Application,6.0,6.0,463.0,8.0,83.3,2027-01-05,3.0,5.0,2.0,85,VIP
+SUP0107,Nathalie,Maillot,37,Cergy,95000,supporter0107@example.com,2026-03-03,False,False,Réseaux sociaux,5.0,5.0,386.0,7.0,80.0,2026-11-10,4.0,8.0,1.0,62,Régulier
+SUP0108,Franck,Menard,52,Nanterre,92000,supporter0108@example.com,2023-07-31,True,False,Réseaux sociaux,6.0,6.0,735.0,8.0,100.0,2027-01-02,3.67,7.5,6.0,80,Fidèle
+SUP0109,Laurent,Regnier,32,Créteil,94000,supporter0109@example.com,2024-09-02,True,True,Application,1.0,1.0,41.0,1.0,100.0,2026-08-06,0.0,0.0,0.0,46,Occasionnel
+SUP0110,Guillaume,Briand,60,Cergy,95000,supporter0110@example.com,2023-07-19,True,False,SMS,6.0,6.0,1221.0,10.0,83.3,2026-12-07,4.5,8.5,2.0,80,Fidèle
+SUP0111,Roger,Pinto,57,Nanterre,92000,supporter0111@example.com,2023-10-30,True,False,Email,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,5,À réengager
+SUP0112,Denis,Pichon,23,Cergy,95000,supporter0112@example.com,2026-03-15,True,False,Email,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,5,À réengager
+SUP0113,Emmanuelle,Perrin,34,Cergy,95000,supporter0113@example.com,2022-12-24,True,False,Application,1.0,1.0,54.0,1.0,100.0,2026-09-09,0.0,0.0,0.0,31,Occasionnel
+SUP0114,Manon,Gimenez,66,Cergy,95000,supporter0114@example.com,2026-04-27,True,False,Réseaux sociaux,2.0,2.0,139.0,3.0,100.0,2026-11-17,0.0,0.0,0.0,39,Occasionnel
+SUP0115,Alexandre,Morin,34,Saint-Denis,93200,supporter0115@example.com,2026-09-15,True,False,Email,1.0,1.0,28.0,1.0,100.0,2026-11-04,4.0,9.0,1.0,42,Occasionnel
+SUP0116,Odette,Gomez,40,Montreuil,93100,supporter0116@example.com,2023-06-22,True,False,Email,4.0,4.0,333.0,5.0,100.0,2026-11-25,3.5,8.0,2.0,67,Régulier
+SUP0117,Anouk,Vallée,66,Paris,75000,supporter0117@example.com,2024-10-23,False,True,Email,1.0,1.0,96.0,3.0,100.0,2026-08-04,3.0,7.0,1.0,49,Occasionnel
+SUP0118,Marcel,Maréchal,57,Boulogne-Billancourt,92100,supporter0118@example.com,2026-08-08,True,False,Email,1.0,1.0,49.0,1.0,100.0,2026-11-25,5.0,10.0,1.0,44,Occasionnel
+SUP0119,Charles,Gaillard,54,Montreuil,93100,supporter0119@example.com,2024-05-17,True,True,Application,3.0,3.0,218.0,4.0,100.0,2026-12-11,4.0,7.5,2.0,72,Fidèle
+SUP0120,Adrien,Perrier,28,Ivry-sur-Seine,94200,supporter0120@example.com,2023-11-22,True,False,Email,1.0,1.0,120.0,2.0,100.0,2026-12-04,5.0,10.0,1.0,44,Occasionnel
+SUP0121,Sabine,De Sousa,67,Boulogne-Billancourt,92100,supporter0121@example.com,2023-12-24,False,True,Email,3.0,3.0,309.0,5.0,100.0,2026-12-12,4.5,9.0,2.0,74,Fidèle
+SUP0122,Audrey,Grenier,37,Ivry-sur-Seine,94200,supporter0122@example.com,2025-11-14,True,False,Réseaux sociaux,4.0,4.0,322.0,5.0,75.0,2026-11-12,3.0,6.5,2.0,64,Régulier
+SUP0123,Sabine,Berthelot,63,Montreuil,93100,supporter0123@example.com,2025-07-31,True,False,SMS,4.0,4.0,307.0,4.0,100.0,2026-11-24,3.0,6.0,2.0,67,Régulier
+SUP0124,Michelle,Coulon,24,Créteil,94000,supporter0124@example.com,2023-06-04,False,False,Email,3.0,3.0,273.0,3.0,66.7,2026-10-25,1.0,2.0,1.0,40,Occasionnel
+SUP0125,Laurent,Collet,68,Ivry-sur-Seine,94200,supporter0125@example.com,2023-09-10,True,True,Réseaux sociaux,3.0,3.0,194.0,4.0,66.7,2026-11-08,0.0,0.0,0.0,55,Régulier
+SUP0126,Bertrand,Delorme,60,Versailles,78000,supporter0126@example.com,2025-11-22,True,False,Email,1.0,1.0,178.0,2.0,100.0,2026-07-05,5.0,10.0,1.0,51,Régulier
+SUP0127,Élodie,Bonnet,44,Aubervilliers,93300,supporter0127@example.com,2025-12-11,True,False,Réseaux sociaux,5.0,5.0,438.0,8.0,80.0,2026-11-20,3.67,6.7,3.0,66,Régulier
+SUP0128,Thomas,Boyer,63,Boulogne-Billancourt,92100,supporter0128@example.com,2022-12-23,True,False,Application,3.0,3.0,552.0,8.0,100.0,2026-12-28,5.0,9.0,1.0,69,Régulier
+SUP0129,Isabelle,Martel,57,Nanterre,92000,supporter0129@example.com,2024-11-26,True,False,Application,3.0,3.0,153.0,4.0,66.7,2026-12-05,0.0,0.0,0.0,40,Occasionnel
+SUP0130,Dominique,Laporte,38,Montreuil,93100,supporter0130@example.com,2023-06-08,True,True,Réseaux sociaux,5.0,5.0,390.0,10.0,80.0,2026-11-03,4.0,7.5,2.0,82,Fidèle
+SUP0131,Bertrand,Grégoire,33,Aubervilliers,93300,supporter0131@example.com,2023-02-08,True,False,Application,2.0,2.0,125.0,3.0,100.0,2026-10-25,3.5,7.5,2.0,47,Occasionnel
+SUP0132,Claude,Lemoine,19,Aubervilliers,93300,supporter0132@example.com,2023-01-21,False,True,SMS,3.0,3.0,249.0,4.0,66.7,2026-11-18,4.5,9.5,2.0,63,Régulier
+SUP0133,Jeannine,Mercier,40,Créteil,94000,supporter0133@example.com,2025-08-20,True,False,Application,1.0,1.0,68.0,1.0,100.0,2026-08-15,0.0,0.0,0.0,31,Occasionnel
+SUP0134,Noël,Antoine,53,Paris,75000,supporter0134@example.com,2023-04-11,True,True,SMS,1.0,1.0,64.0,2.0,100.0,2026-12-01,0.0,0.0,0.0,46,Occasionnel
+SUP0135,Hélène,Hoarau,64,Cergy,95000,supporter0135@example.com,2025-03-24,True,False,Réseaux sociaux,1.0,1.0,140.0,2.0,0.0,2026-09-16,0.0,0.0,0.0,21,Nouveau
+SUP0136,Jeannine,Fournier,59,Aubervilliers,93300,supporter0136@example.com,2025-05-26,True,True,Application,3.0,3.0,273.0,6.0,66.7,2026-11-16,2.0,4.0,1.0,60,Régulier
+SUP0137,Édouard,Humbert,32,Cergy,95000,supporter0137@example.com,2025-07-24,True,True,Application,4.0,4.0,187.0,5.0,75.0,2026-11-24,3.5,7.5,2.0,74,Fidèle
+SUP0138,Isabelle,Moreno,48,Nanterre,92000,supporter0138@example.com,2024-12-27,True,False,Application,4.0,4.0,552.0,8.0,100.0,2026-11-27,2.0,0.5,2.0,69,Régulier
+SUP0139,Thomas,Bertin,40,Aubervilliers,93300,supporter0139@example.com,2023-08-20,True,True,Email,2.0,2.0,271.0,5.0,100.0,2026-09-25,0.0,0.0,0.0,61,Régulier
+SUP0140,Marguerite,Auger,64,Montreuil,93100,supporter0140@example.com,2024-02-07,True,False,SMS,4.0,4.0,352.0,6.0,100.0,2026-10-28,4.0,8.0,2.0,70,Fidèle
+SUP0141,Olivier,Aubry,30,Montreuil,93100,supporter0141@example.com,2024-06-12,True,True,Application,3.0,3.0,106.0,3.0,100.0,2026-11-18,5.0,10.0,1.0,67,Régulier
+SUP0142,Gilles,Leconte,24,Montreuil,93100,supporter0142@example.com,2025-07-05,True,False,Application,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,5,À réengager
+SUP0143,Théophile,Albert,18,Nanterre,92000,supporter0143@example.com,2024-02-10,True,True,Email,3.0,3.0,272.0,3.0,66.7,2026-12-07,3.0,4.5,2.0,63,Régulier
+SUP0144,Odette,Legrand,53,Créteil,94000,supporter0144@example.com,2022-10-21,True,True,Réseaux sociaux,2.0,2.0,128.0,2.0,100.0,2026-11-05,3.0,6.0,2.0,62,Régulier
+SUP0145,Céline,Loiseau,24,Paris,75000,supporter0145@example.com,2025-02-27,True,False,Réseaux sociaux,4.0,4.0,426.0,4.0,100.0,2026-11-22,3.5,6.2,4.0,69,Régulier
+SUP0146,Eugène,Legrand,39,Boulogne-Billancourt,92100,supporter0146@example.com,2025-01-19,False,True,Réseaux sociaux,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,15,À réengager
+SUP0147,Marcel,Guillou,25,Saint-Denis,93200,supporter0147@example.com,2023-11-22,True,True,Email,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,20,À réengager
+SUP0148,Gilles,Lévêque,27,Boulogne-Billancourt,92100,supporter0148@example.com,2026-07-06,True,False,Email,2.0,2.0,150.0,3.0,100.0,2026-08-26,5.0,10.0,1.0,59,Régulier
+SUP0149,Daniel,Moulin,33,Saint-Denis,93200,supporter0149@example.com,2024-05-03,True,False,SMS,2.0,2.0,157.0,3.0,50.0,2026-10-14,0.0,0.0,0.0,40,Occasionnel
+SUP0150,Roland,Barbier,67,Nanterre,92000,supporter0150@example.com,2024-08-17,True,False,Application,2.0,2.0,93.0,2.0,100.0,2026-09-30,4.0,7.0,1.0,50,Régulier
+SUP0151,Victoire,Devaux,55,Cergy,95000,supporter0151@example.com,2025-10-03,True,False,Email,1.0,1.0,142.0,2.0,0.0,2026-12-17,0.0,0.0,0.0,21,Nouveau
+SUP0152,Thibaut,Raymond,66,Montreuil,93100,supporter0152@example.com,2026-03-13,True,True,Email,3.0,3.0,179.0,5.0,66.7,2026-10-21,0.0,0.0,0.0,55,Régulier
+SUP0153,Marcelle,Evrard,28,Montreuil,93100,supporter0153@example.com,2022-10-19,True,True,Email,1.0,1.0,110.0,2.0,100.0,2026-08-26,0.0,0.0,0.0,46,Occasionnel
+SUP0154,Margot,Lenoir,44,Aubervilliers,93300,supporter0154@example.com,2024-01-15,True,False,Email,3.0,3.0,580.0,4.0,100.0,2026-09-21,2.0,4.5,2.0,61,Régulier
+SUP0155,Margaud,Duval,32,Créteil,94000,supporter0155@example.com,2026-10-04,True,False,Réseaux sociaux,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,5,À réengager
+SUP0156,Grégoire,Aubry,22,Montreuil,93100,supporter0156@example.com,2023-04-04,False,False,SMS,3.0,3.0,313.0,5.0,100.0,2026-10-31,4.5,9.5,2.0,59,Régulier
+SUP0157,Franck,Bernier,45,Saint-Denis,93200,supporter0157@example.com,2025-02-12,True,False,Application,1.0,1.0,58.0,2.0,100.0,2026-10-16,0.0,0.0,0.0,31,Occasionnel
+SUP0158,Honoré,Maillard,70,Boulogne-Billancourt,92100,supporter0158@example.com,2023-12-18,True,True,Application,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,20,À réengager
+SUP0159,Josette,Lacroix,56,Ivry-sur-Seine,94200,supporter0159@example.com,2025-10-25,False,False,Réseaux sociaux,1.0,1.0,153.0,3.0,100.0,2026-11-21,4.0,9.0,1.0,44,Occasionnel
+SUP0160,Zacharie,Martins,62,Créteil,94000,supporter0160@example.com,2025-09-08,True,False,Réseaux sociaux,2.0,2.0,84.0,2.0,100.0,2026-11-28,5.0,9.0,1.0,52,Régulier
+SUP0161,Luce,Aubry,46,Saint-Denis,93200,supporter0161@example.com,2024-11-30,True,False,Application,1.0,1.0,94.0,2.0,100.0,2026-11-11,2.0,3.0,1.0,36,Occasionnel
+SUP0162,Claudine,Deschamps,56,Créteil,94000,supporter0162@example.com,2026-08-13,True,True,Email,3.0,3.0,344.0,6.0,66.7,2026-12-12,0.0,0.0,0.0,60,Régulier
+SUP0163,Camille,Roux,66,Créteil,94000,supporter0163@example.com,2023-02-27,True,False,SMS,2.0,2.0,288.0,4.0,100.0,2026-12-02,3.5,6.0,2.0,54,Régulier
+SUP0164,Luce,Briand,48,Nanterre,92000,supporter0164@example.com,2026-04-17,True,False,SMS,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,5,À réengager
+SUP0165,Robert,Bertrand,55,Cergy,95000,supporter0165@example.com,2022-10-12,True,False,Email,4.0,4.0,241.0,5.0,100.0,2026-12-22,4.0,8.0,2.0,65,Régulier
+SUP0166,Xavier,Pires,48,Versailles,78000,supporter0166@example.com,2023-04-28,True,True,Email,4.0,4.0,247.0,5.0,75.0,2027-01-11,4.0,7.5,2.0,77,Fidèle
+SUP0167,Lucie,Charles,28,Versailles,78000,supporter0167@example.com,2023-06-15,True,False,Réseaux sociaux,1.0,1.0,31.0,1.0,100.0,2026-08-01,5.0,10.0,1.0,44,Occasionnel
+SUP0168,Nicole,Pichon,70,Nanterre,92000,supporter0168@example.com,2025-02-10,True,True,Application,4.0,4.0,247.0,7.0,100.0,2026-12-30,4.5,8.0,2.0,82,Fidèle
+SUP0169,Maryse,Launay,38,Saint-Denis,93200,supporter0169@example.com,2025-02-24,False,False,Email,1.0,1.0,296.0,2.0,0.0,2026-12-29,0.0,0.0,0.0,23,Nouveau
+SUP0170,Alain,Marie,60,Nanterre,92000,supporter0170@example.com,2023-01-31,True,True,Application,4.0,4.0,195.0,5.0,100.0,2026-10-18,4.33,8.0,3.0,82,Fidèle
+SUP0171,Marie,Gérard,57,Aubervilliers,93300,supporter0171@example.com,2025-01-31,True,False,SMS,4.0,4.0,1516.0,7.0,50.0,2026-09-18,5.0,10.0,2.0,71,Fidèle
+SUP0172,Auguste,Lemaître,35,Nanterre,92000,supporter0172@example.com,2025-03-29,True,True,Réseaux sociaux,3.0,3.0,173.0,3.0,100.0,2026-11-19,4.0,7.0,1.0,72,Fidèle
+SUP0173,Françoise,Caron,25,Paris,75000,supporter0173@example.com,2024-08-04,False,False,SMS,4.0,4.0,600.0,5.0,50.0,2026-11-03,4.0,7.5,2.0,64,Régulier
+SUP0174,Gilbert,Dupont,63,Boulogne-Billancourt,92100,supporter0174@example.com,2024-01-28,True,True,Réseaux sociaux,3.0,3.0,151.0,5.0,66.7,2027-01-13,3.0,7.0,1.0,63,Régulier
+SUP0175,Aimée,Fournier,23,Montreuil,93100,supporter0175@example.com,2026-08-03,False,False,Réseaux sociaux,1.0,1.0,232.0,1.0,100.0,2026-12-02,5.0,10.0,1.0,46,Occasionnel
+SUP0176,Agathe,Lacroix,25,Boulogne-Billancourt,92100,supporter0176@example.com,2025-08-31,True,False,Application,3.0,3.0,299.0,5.0,100.0,2026-10-24,5.0,10.0,1.0,59,Régulier
+SUP0177,Paul,Martineau,44,Aubervilliers,93300,supporter0177@example.com,2023-03-15,False,True,SMS,1.0,1.0,39.0,1.0,100.0,2026-10-22,5.0,10.0,1.0,54,Régulier
+SUP0178,Adrienne,Valette,42,Montreuil,93100,supporter0178@example.com,2025-02-22,False,False,SMS,3.0,3.0,298.0,3.0,66.7,2026-11-16,0.0,0.0,0.0,35,Occasionnel
+SUP0179,Anouk,Legendre,22,Créteil,94000,supporter0179@example.com,2025-12-14,True,False,Application,3.0,3.0,303.0,5.0,100.0,2026-12-27,3.67,5.7,3.0,61,Régulier
+SUP0180,Honoré,Gomez,68,Nanterre,92000,supporter0180@example.com,2026-06-11,True,True,Application,3.0,3.0,226.0,5.0,100.0,2026-10-01,4.0,7.0,1.0,72,Fidèle
+SUP0181,Isaac,Schmitt,55,Ivry-sur-Seine,94200,supporter0181@example.com,2026-07-07,False,False,SMS,3.0,3.0,162.0,4.0,66.7,2026-10-09,4.0,7.0,1.0,46,Occasionnel
+SUP0182,Antoinette,Laurent,46,Nanterre,92000,supporter0182@example.com,2023-07-12,True,True,Réseaux sociaux,4.0,4.0,289.0,6.0,75.0,2026-12-05,0.0,0.0,0.0,66,Régulier
+SUP0183,Nathalie,Le Roux,47,Versailles,78000,supporter0183@example.com,2026-02-03,False,False,SMS,3.0,3.0,362.0,6.0,100.0,2026-08-28,4.33,8.0,3.0,59,Régulier
+SUP0184,Antoinette,Laroche,54,Cergy,95000,supporter0184@example.com,2026-06-10,True,False,Email,2.0,2.0,482.0,3.0,100.0,2026-12-14,4.0,8.0,2.0,62,Régulier
+SUP0185,Nathalie,Menard,38,Aubervilliers,93300,supporter0185@example.com,2023-11-25,True,False,Réseaux sociaux,5.0,5.0,779.0,8.0,80.0,2026-12-01,3.5,6.5,2.0,69,Régulier
+SUP0186,Hugues,Boutin,60,Boulogne-Billancourt,92100,supporter0186@example.com,2023-03-23,True,True,Application,2.0,2.0,110.0,4.0,100.0,2026-08-12,5.0,10.0,1.0,67,Régulier
+SUP0187,Alex,Morel,24,Aubervilliers,93300,supporter0187@example.com,2026-06-01,True,False,Email,4.0,4.0,163.0,4.0,100.0,2026-12-27,5.0,10.0,1.0,67,Régulier
+SUP0188,Charlotte,Louis,64,Boulogne-Billancourt,92100,supporter0188@example.com,2023-08-13,True,False,SMS,1.0,1.0,177.0,3.0,100.0,2026-08-31,0.0,0.0,0.0,38,Occasionnel
+SUP0189,Thérèse,Jacques,22,Aubervilliers,93300,supporter0189@example.com,2024-04-02,True,True,Réseaux sociaux,1.0,1.0,41.0,1.0,100.0,2026-10-06,4.0,9.0,1.0,57,Régulier
+SUP0190,Thibault,Dumas,59,Saint-Denis,93200,supporter0190@example.com,2023-09-18,False,False,Réseaux sociaux,1.0,1.0,150.0,2.0,100.0,2026-06-16,0.0,0.0,0.0,33,Occasionnel
+SUP0191,André,Delmas,38,Aubervilliers,93300,supporter0191@example.com,2023-08-03,False,True,Email,3.0,3.0,333.0,7.0,100.0,2026-09-08,3.5,5.0,2.0,69,Régulier
+SUP0192,Andrée,Boulanger,33,Créteil,94000,supporter0192@example.com,2023-12-13,False,False,Réseaux sociaux,2.0,2.0,158.0,3.0,100.0,2027-01-09,0.0,0.0,0.0,41,Occasionnel
+SUP0193,Daniel,Leleu,24,Saint-Denis,93200,supporter0193@example.com,2023-12-14,True,False,Email,2.0,2.0,79.0,2.0,100.0,2026-12-19,3.5,7.0,2.0,47,Occasionnel
+SUP0194,Adèle,Clerc,20,Versailles,78000,supporter0194@example.com,2024-12-06,True,True,Application,4.0,4.0,271.0,5.0,75.0,2026-11-24,3.0,3.5,2.0,74,Fidèle
+SUP0195,Andrée,Potier,45,Boulogne-Billancourt,92100,supporter0195@example.com,2026-05-09,True,False,SMS,4.0,4.0,857.0,6.0,75.0,2026-11-04,4.0,7.0,1.0,72,Fidèle
+SUP0196,Élise,Rémy,28,Boulogne-Billancourt,92100,supporter0196@example.com,2026-10-05,True,False,SMS,1.0,1.0,180.0,1.0,100.0,2026-08-31,2.0,3.0,1.0,43,Occasionnel
+SUP0197,Antoine,Ferreira,49,Ivry-sur-Seine,94200,supporter0197@example.com,2026-06-30,True,False,Application,3.0,3.0,277.0,7.0,100.0,2026-12-02,4.0,9.0,1.0,57,Régulier
+SUP0198,Raymond,Colin,47,Créteil,94000,supporter0198@example.com,2025-03-26,True,False,Réseaux sociaux,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,5,À réengager
+SUP0199,Rémy,Morel,36,Nanterre,92000,supporter0199@example.com,2023-03-24,True,False,Application,3.0,3.0,396.0,5.0,100.0,2026-11-18,4.0,7.0,2.0,62,Régulier
+SUP0200,Jeannine,Gay,55,Créteil,94000,supporter0200@example.com,2024-03-27,True,False,Application,3.0,3.0,297.0,6.0,66.7,2026-12-11,3.5,7.5,2.0,48,Occasionnel
+SUP0201,Nathalie,Bouvier,47,Créteil,94000,supporter0201@example.com,2024-08-14,True,False,Réseaux sociaux,2.0,2.0,297.0,4.0,100.0,2026-11-16,0.0,0.0,0.0,46,Occasionnel
+SUP0202,Julie,Gros,24,Montreuil,93100,supporter0202@example.com,2023-04-04,True,False,Application,3.0,3.0,471.0,5.0,100.0,2026-12-16,3.33,6.7,3.0,61,Régulier
+SUP0203,Alice,Verdier,62,Créteil,94000,supporter0203@example.com,2023-07-29,True,False,Réseaux sociaux,4.0,4.0,1119.0,8.0,75.0,2026-10-21,4.0,8.5,2.0,72,Fidèle
+SUP0204,Pierre,Bertrand,35,Paris,75000,supporter0204@example.com,2025-10-12,True,False,Email,2.0,2.0,233.0,2.0,100.0,2026-11-23,4.0,7.0,1.0,57,Régulier
+SUP0205,Bernadette,Martin,56,Aubervilliers,93300,supporter0205@example.com,2024-12-22,True,False,SMS,3.0,3.0,205.0,5.0,100.0,2026-12-05,2.67,4.3,3.0,53,Régulier
+SUP0206,Susan,Tanguy,56,Versailles,78000,supporter0206@example.com,2025-09-07,True,True,Application,2.0,2.0,346.0,4.0,50.0,2027-01-10,4.0,7.0,1.0,71,Fidèle
+SUP0207,Michelle,Traore,61,Boulogne-Billancourt,92100,supporter0207@example.com,2025-11-24,True,False,Email,2.0,2.0,216.0,4.0,100.0,2026-12-14,5.0,10.0,1.0,59,Régulier
+SUP0208,Marguerite,Pierre,37,Aubervilliers,93300,supporter0208@example.com,2024-04-24,True,False,SMS,1.0,1.0,32.0,1.0,100.0,2026-08-23,0.0,0.0,0.0,31,Occasionnel
+SUP0209,Aurore,Muller,23,Créteil,94000,supporter0209@example.com,2025-08-03,True,False,SMS,1.0,1.0,50.0,1.0,100.0,2026-07-26,4.0,7.0,1.0,42,Occasionnel
+SUP0210,Vincent,Ferrand,26,Nanterre,92000,supporter0210@example.com,2024-02-06,False,False,Application,1.0,1.0,81.0,1.0,100.0,2026-12-26,0.0,0.0,0.0,26,Nouveau
+SUP0211,Margaud,Denis,28,Créteil,94000,supporter0211@example.com,2025-10-29,False,False,Application,4.0,4.0,524.0,7.0,100.0,2026-12-19,2.5,4.5,2.0,64,Régulier
+SUP0212,Théophile,Guillou,65,Versailles,78000,supporter0212@example.com,2024-01-30,True,False,Email,2.0,2.0,210.0,3.0,50.0,2026-10-19,3.0,6.0,1.0,48,Occasionnel
+SUP0213,Margot,Lejeune,27,Montreuil,93100,supporter0213@example.com,2024-02-25,False,False,Réseaux sociaux,3.0,3.0,293.0,5.0,100.0,2026-08-09,4.0,8.0,2.0,52,Régulier
+SUP0214,Anne,Grenier,69,Nanterre,92000,supporter0214@example.com,2024-01-09,True,False,Email,3.0,3.0,182.0,4.0,100.0,2026-08-20,4.0,9.0,1.0,57,Régulier
+SUP0215,Françoise,Rodriguez,34,Nanterre,92000,supporter0215@example.com,2023-08-01,True,False,Application,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,5,À réengager
+SUP0216,Astrid,Chartier,55,Cergy,95000,supporter0216@example.com,2026-10-06,True,False,Email,1.0,1.0,76.0,1.0,100.0,2026-09-08,0.0,0.0,0.0,31,Occasionnel
+SUP0217,Alex,Labbé,61,Montreuil,93100,supporter0217@example.com,2025-12-12,True,False,Application,2.0,2.0,113.0,2.0,100.0,2026-09-14,0.0,0.0,0.0,39,Occasionnel
+SUP0218,Jérôme,Chauvet,57,Montreuil,93100,supporter0218@example.com,2025-03-09,True,False,Réseaux sociaux,4.0,4.0,282.0,4.0,75.0,2026-12-19,4.0,8.0,2.0,62,Régulier
+SUP0219,Thibaut,Lebon,62,Créteil,94000,supporter0219@example.com,2025-02-04,True,True,Email,6.0,6.0,257.0,6.0,50.0,2026-11-28,4.33,8.3,3.0,82,Fidèle
+SUP0220,Victoire,Martin,20,Créteil,94000,supporter0220@example.com,2024-01-22,False,True,SMS,2.0,2.0,145.0,3.0,100.0,2026-09-14,3.0,6.0,1.0,57,Régulier
+SUP0221,Sébastien,Lacroix,52,Boulogne-Billancourt,92100,supporter0221@example.com,2024-08-04,True,False,Réseaux sociaux,1.0,1.0,32.0,1.0,100.0,2026-07-17,3.0,6.0,1.0,39,Occasionnel
+SUP0222,Simone,Delorme,55,Boulogne-Billancourt,92100,supporter0222@example.com,2025-05-06,False,False,Réseaux sociaux,1.0,1.0,124.0,2.0,0.0,2026-09-11,0.0,0.0,0.0,16,Nouveau
+SUP0223,Marcelle,Lebrun,57,Cergy,95000,supporter0223@example.com,2024-09-28,False,True,Application,3.0,3.0,253.0,7.0,66.7,2026-11-19,3.0,5.0,1.0,58,Régulier
+SUP0224,Capucine,Pichon,31,Aubervilliers,93300,supporter0224@example.com,2025-08-21,True,True,Application,2.0,2.0,83.0,2.0,100.0,2026-10-31,4.5,8.5,2.0,67,Régulier
+SUP0225,Marcel,Gros,24,Versailles,78000,supporter0225@example.com,2024-10-11,True,False,Application,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,5,À réengager
+SUP0226,Stéphanie,Guyon,21,Cergy,95000,supporter0226@example.com,2023-06-27,True,False,Réseaux sociaux,3.0,3.0,239.0,4.0,100.0,2026-11-18,3.0,4.0,2.0,54,Régulier
+SUP0227,Margaux,Clément,23,Montreuil,93100,supporter0227@example.com,2023-12-21,True,False,Email,4.0,4.0,249.0,5.0,100.0,2026-10-28,4.33,9.0,3.0,67,Régulier
+SUP0228,Denise,Dupré,21,Versailles,78000,supporter0228@example.com,2025-06-16,True,True,SMS,1.0,1.0,48.0,1.0,100.0,2026-07-04,5.0,9.0,1.0,59,Régulier
+SUP0229,Laure,Daniel,22,Nanterre,92000,supporter0229@example.com,2023-03-01,True,True,SMS,2.0,2.0,127.0,3.0,100.0,2026-12-13,0.0,0.0,0.0,54,Régulier
+SUP0230,Thérèse,Hamel,39,Boulogne-Billancourt,92100,supporter0230@example.com,2023-10-06,True,False,Application,2.0,2.0,341.0,3.0,100.0,2026-12-01,0.0,0.0,0.0,51,Régulier
+SUP0231,Margot,Ruiz,27,Boulogne-Billancourt,92100,supporter0231@example.com,2023-09-20,True,False,Email,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,5,À réengager
+SUP0232,Susan,Philippe,60,Paris,75000,supporter0232@example.com,2023-05-23,True,False,SMS,4.0,4.0,344.0,4.0,100.0,2026-12-14,4.5,9.5,2.0,72,Fidèle
+SUP0233,André,Lambert,55,Versailles,78000,supporter0233@example.com,2023-10-22,True,True,SMS,1.0,1.0,40.0,1.0,100.0,2026-08-03,1.0,3.0,1.0,51,Régulier
+SUP0234,Christelle,Bourdon,65,Cergy,95000,supporter0234@example.com,2026-05-19,True,False,Réseaux sociaux,3.0,3.0,252.0,4.0,66.7,2026-11-26,2.0,1.0,1.0,45,Occasionnel
+SUP0235,Pauline,Legrand,46,Versailles,78000,supporter0235@example.com,2024-09-13,True,True,SMS,4.0,4.0,137.0,5.0,100.0,2027-01-06,4.5,8.0,2.0,75,Fidèle
+SUP0236,Arnaude,Lombard,57,Paris,75000,supporter0236@example.com,2025-03-19,True,False,Application,5.0,5.0,604.0,9.0,80.0,2026-12-15,3.5,6.5,2.0,69,Régulier
+SUP0237,Léon,Wagner,47,Paris,75000,supporter0237@example.com,2025-09-22,True,False,Réseaux sociaux,1.0,1.0,174.0,2.0,100.0,2026-10-16,5.0,9.0,1.0,51,Régulier
+SUP0238,Alice,Costa,45,Saint-Denis,93200,supporter0238@example.com,2024-06-18,True,False,Email,2.0,2.0,86.0,2.0,100.0,2026-12-04,5.0,9.0,1.0,52,Régulier
+SUP0239,Patrick,Caron,23,Versailles,78000,supporter0239@example.com,2025-07-22,True,True,Application,1.0,1.0,24.0,1.0,100.0,2026-09-01,5.0,10.0,1.0,59,Régulier
+SUP0240,Marie,Thomas,57,Ivry-sur-Seine,94200,supporter0240@example.com,2026-07-24,True,True,Application,3.0,3.0,101.0,3.0,100.0,2026-11-15,5.0,10.0,1.0,67,Régulier
+SUP0241,Odette,Pires,47,Nanterre,92000,supporter0241@example.com,2026-07-13,True,True,Email,3.0,3.0,182.0,4.0,100.0,2026-11-09,0.0,0.0,0.0,61,Régulier
+SUP0242,Franck,Merle,59,Nanterre,92000,supporter0242@example.com,2024-07-28,True,True,Réseaux sociaux,4.0,4.0,278.0,5.0,100.0,2027-01-12,3.0,6.3,3.0,79,Fidèle
+SUP0243,Matthieu,Schmitt,32,Cergy,95000,supporter0243@example.com,2026-03-09,True,False,Réseaux sociaux,2.0,2.0,143.0,2.0,100.0,2026-12-02,3.5,7.5,2.0,47,Occasionnel
+SUP0244,Marthe,Paul,64,Saint-Denis,93200,supporter0244@example.com,2024-09-27,True,True,Application,4.0,4.0,273.0,7.0,100.0,2026-11-26,5.0,9.5,2.0,82,Fidèle
+SUP0245,Benoît,Pascal,41,Boulogne-Billancourt,92100,supporter0245@example.com,2023-10-29,True,False,Email,5.0,5.0,334.0,8.0,100.0,2026-12-07,2.5,3.0,2.0,64,Régulier
+SUP0246,Claude,Rivière,23,Saint-Denis,93200,supporter0246@example.com,2024-09-15,True,False,Application,3.0,3.0,160.0,3.0,100.0,2026-11-06,5.0,9.0,1.0,59,Régulier
+SUP0247,Grégoire,Barthelemy,69,Boulogne-Billancourt,92100,supporter0247@example.com,2025-08-09,True,False,Application,4.0,4.0,589.0,8.0,100.0,2026-12-21,4.33,9.0,3.0,77,Fidèle
+SUP0248,Éléonore,Vaillant,60,Saint-Denis,93200,supporter0248@example.com,2025-04-19,True,False,Réseaux sociaux,1.0,1.0,89.0,1.0,100.0,2026-11-09,0.0,0.0,0.0,31,Occasionnel
+SUP0249,Timothée,Faivre,64,Paris,75000,supporter0249@example.com,2026-07-22,False,False,Application,6.0,6.0,726.0,8.0,100.0,2026-11-29,4.0,7.0,2.0,76,Fidèle
+SUP0250,Capucine,Raymond,24,Ivry-sur-Seine,94200,supporter0250@example.com,2026-03-26,True,True,Réseaux sociaux,2.0,2.0,74.0,2.0,100.0,2026-10-02,5.0,9.0,1.0,67,Régulier
+SUP0251,Michelle,Bodin,32,Saint-Denis,93200,supporter0251@example.com,2024-07-30,True,False,Email,3.0,3.0,351.0,3.0,100.0,2026-11-13,2.5,3.0,2.0,56,Régulier
+SUP0252,Véronique,Lévy,66,Créteil,94000,supporter0252@example.com,2024-08-29,True,False,Email,1.0,1.0,34.0,1.0,100.0,2026-12-27,0.0,0.0,0.0,31,Occasionnel
+SUP0253,Hugues,Bernier,56,Créteil,94000,supporter0253@example.com,2026-06-06,True,True,Application,4.0,4.0,199.0,5.0,100.0,2026-12-15,3.0,5.0,4.0,79,Fidèle
+SUP0254,Christelle,Lebreton,39,Versailles,78000,supporter0254@example.com,2023-11-13,True,False,Réseaux sociaux,1.0,1.0,80.0,1.0,100.0,2026-12-07,2.0,1.0,1.0,36,Occasionnel
+SUP0255,Odette,Hoarau,22,Boulogne-Billancourt,92100,supporter0255@example.com,2026-05-03,True,False,Email,1.0,1.0,80.0,1.0,0.0,2026-11-07,0.0,0.0,0.0,21,Nouveau
+SUP0256,Lucie,Baron,65,Nanterre,92000,supporter0256@example.com,2026-01-08,True,False,Application,4.0,4.0,238.0,5.0,100.0,2026-12-27,5.0,9.7,3.0,69,Régulier
+SUP0257,Renée,Dijoux,28,Versailles,78000,supporter0257@example.com,2024-10-28,True,True,Email,2.0,2.0,206.0,3.0,100.0,2026-08-12,3.0,4.5,2.0,69,Régulier
+SUP0258,Lorraine,Dupuis,21,Boulogne-Billancourt,92100,supporter0258@example.com,2023-12-07,True,False,Email,2.0,2.0,305.0,3.0,100.0,2026-09-12,5.0,10.0,1.0,64,Régulier
+SUP0259,Brigitte,Garnier,35,Aubervilliers,93300,supporter0259@example.com,2025-10-19,True,False,Réseaux sociaux,2.0,2.0,289.0,2.0,100.0,2026-11-01,5.0,10.0,1.0,59,Régulier
+SUP0260,Sébastien,Huet,44,Créteil,94000,supporter0260@example.com,2023-12-03,True,False,Application,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,5,À réengager
+SUP0261,Xavier,Julien,45,Saint-Denis,93200,supporter0261@example.com,2026-07-25,True,False,Réseaux sociaux,6.0,6.0,824.0,9.0,83.3,2026-12-01,4.33,8.3,3.0,80,Fidèle
+SUP0262,Élodie,Faure,51,Créteil,94000,supporter0262@example.com,2023-05-09,True,False,Email,2.0,2.0,161.0,3.0,100.0,2026-12-29,2.0,3.0,1.0,51,Régulier
+SUP0263,Henri,Grondin,18,Montreuil,93100,supporter0263@example.com,2024-05-24,True,True,SMS,4.0,4.0,184.0,6.0,100.0,2026-11-23,4.33,8.7,3.0,82,Fidèle
+SUP0264,Marine,Brunet,66,Créteil,94000,supporter0264@example.com,2025-10-08,True,True,Réseaux sociaux,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,20,À réengager
+SUP0265,Marcel,Andre,65,Cergy,95000,supporter0265@example.com,2024-07-12,True,False,SMS,2.0,2.0,141.0,2.0,100.0,2026-11-06,5.0,9.0,1.0,52,Régulier
+SUP0266,Anouk,Rémy,50,Nanterre,92000,supporter0266@example.com,2025-01-26,True,False,Email,6.0,6.0,920.0,12.0,83.3,2026-12-22,4.0,8.3,3.0,80,Fidèle
+SUP0267,Chantal,Legros,43,Paris,75000,supporter0267@example.com,2023-01-11,True,False,Email,5.0,5.0,485.0,7.0,80.0,2026-11-10,4.5,8.5,2.0,69,Régulier
+SUP0268,Lucas,De Oliveira,38,Ivry-sur-Seine,94200,supporter0268@example.com,2024-06-03,True,False,Réseaux sociaux,2.0,2.0,298.0,4.0,100.0,2026-11-19,0.0,0.0,0.0,46,Occasionnel
+SUP0269,Pénélope,Mary,36,Saint-Denis,93200,supporter0269@example.com,2025-09-21,True,False,SMS,3.0,3.0,130.0,3.0,100.0,2026-12-26,3.5,6.5,2.0,47,Occasionnel
+SUP0270,Alphonse,Salmon,69,Ivry-sur-Seine,94200,supporter0270@example.com,2025-03-19,True,False,Application,2.0,2.0,165.0,3.0,100.0,2026-12-13,0.0,0.0,0.0,46,Occasionnel
+SUP0271,Alex,Martel,23,Cergy,95000,supporter0271@example.com,2022-10-16,True,True,Réseaux sociaux,0.0,0.0,0.0,0.0,0.0,,0.0,0.0,0.0,20,À réengager
+SUP0272,Adrienne,Léger,51,Saint-Denis,93200,supporter0272@example.com,2025-12-20,True,True,Application,1.0,1.0,222.0,1.0,100.0,2026-07-31,4.0,7.0,1.0,64,Régulier
+SUP0273,Amélie,Humbert,32,Versailles,78000,supporter0273@example.com,2025-01-20,True,True,Email,4.0,4.0,372.0,7.0,75.0,2026-11-04,4.0,8.5,2.0,82,Fidèle
+SUP0274,Océane,Guyon,51,Nanterre,92000,supporter0274@example.com,2025-02-01,True,False,Application,3.0,3.0,147.0,4.0,66.7,2027-01-08,0.0,0.0,0.0,33,Occasionnel
+SUP0275,Susanne,Marion,64,Boulogne-Billancourt,92100,supporter0275@example.com,2026-08-01,True,True,SMS,2.0,2.0,84.0,3.0,100.0,2026-11-17,3.0,5.5,2.0,62,Régulier
+SUP0276,Matthieu,Coulon,29,Ivry-sur-Seine,94200,supporter0276@example.com,2023-09-12,True,False,Email,4.0,4.0,688.0,6.0,100.0,2026-12-15,4.5,9.5,2.0,77,Fidèle
+SUP0277,Richard,Nguyen,29,Aubervilliers,93300,supporter0277@example.com,2024-10-30,True,False,Réseaux sociaux,1.0,1.0,49.0,1.0,100.0,2026-07-02,0.0,0.0,0.0,31,Occasionnel
+SUP0278,Antoine,Perrier,61,Ivry-sur-Seine,94200,supporter0278@example.com,2024-03-12,True,False,Application,2.0,2.0,762.0,4.0,100.0,2026-12-03,0.0,0.0,0.0,56,Régulier
+SUP0279,Marguerite,Potier,58,Versailles,78000,supporter0279@example.com,2026-02-27,True,True,Réseaux sociaux,3.0,3.0,612.0,4.0,100.0,2026-10-31,3.0,6.0,1.0,79,Fidèle
+SUP0280,Anne,Ramos,58,Créteil,94000,supporter0280@example.com,2023-06-20,True,False,Application,1.0,1.0,79.0,1.0,0.0,2026-07-26,0.0,0.0,0.0,21,Nouveau
+SUP0281,Zoé,Bigot,50,Saint-Denis,93200,supporter0281@example.com,2026-09-04,True,False,Email,5.0,5.0,517.0,10.0,80.0,2026-12-24,5.0,10.0,1.0,74,Fidèle
+SUP0282,Gilbert,Loiseau,41,Créteil,94000,supporter0282@example.com,2025-01-13,True,False,Email,2.0,2.0,232.0,4.0,100.0,2026-11-11,4.0,8.0,1.0,57,Régulier
+SUP0283,André,Carlier,57,Ivry-sur-Seine,94200,supporter0283@example.com,2025-04-13,True,False,Email,1.0,1.0,136.0,2.0,100.0,2026-08-05,5.0,9.0,1.0,44,Occasionnel
+SUP0284,Geneviève,Dupré,46,Ivry-sur-Seine,94200,supporter0284@example.com,2022-11-18,True,True,Réseaux sociaux,5.0,5.0,578.0,9.0,100.0,2026-11-26,3.8,7.2,5.0,89,VIP
+SUP0285,Émile,Weiss,50,Boulogne-Billancourt,92100,supporter0285@example.com,2024-08-02,False,False,Application,2.0,2.0,198.0,3.0,50.0,2026-09-11,4.0,8.0,1.0,46,Occasionnel
+SUP0286,Grégoire,Pinto,63,Saint-Denis,93200,supporter0286@example.com,2023-07-16,True,True,SMS,5.0,5.0,579.0,13.0,60.0,2026-11-19,5.0,10.0,1.0,86,VIP
+SUP0287,Benoît,Bertin,63,Aubervilliers,93300,supporter0287@example.com,2024-05-17,False,False,SMS,2.0,2.0,106.0,2.0,100.0,2026-12-09,3.0,7.0,1.0,42,Occasionnel
+SUP0288,Victor,Lecomte,41,Versailles,78000,supporter0288@example.com,2024-09-12,False,False,Application,1.0,1.0,178.0,2.0,100.0,2026-08-15,0.0,0.0,0.0,33,Occasionnel
+SUP0289,Victor,Marques,61,Ivry-sur-Seine,94200,supporter0289@example.com,2026-01-01,True,False,Application,1.0,1.0,234.0,1.0,100.0,2026-11-13,0.0,0.0,0.0,38,Occasionnel
+SUP0290,Alex,Lopes,22,Versailles,78000,supporter0290@example.com,2025-12-18,True,False,Application,6.0,6.0,1026.0,9.0,100.0,2026-12-29,3.33,6.7,3.0,80,Fidèle
+SUP0291,Véronique,De Oliveira,34,Ivry-sur-Seine,94200,supporter0291@example.com,2023-11-02,False,True,SMS,3.0,3.0,405.0,5.0,100.0,2027-01-04,3.33,6.7,3.0,71,Fidèle
+SUP0292,Victoire,Faure,40,Créteil,94000,supporter0292@example.com,2024-10-06,False,False,Réseaux sociaux,4.0,4.0,534.0,7.0,100.0,2026-11-21,4.5,9.2,4.0,74,Fidèle
+SUP0293,Alfred,Bouvet,26,Ivry-sur-Seine,94200,supporter0293@example.com,2025-01-21,True,True,Réseaux sociaux,6.0,6.0,859.0,14.0,83.3,2026-11-26,3.5,6.8,4.0,92,VIP
+SUP0294,Bernard,Marty,59,Versailles,78000,supporter0294@example.com,2023-09-20,True,False,Email,1.0,1.0,77.0,1.0,100.0,2026-08-06,5.0,9.0,1.0,44,Occasionnel
+SUP0295,Manon,Muller,59,Cergy,95000,supporter0295@example.com,2026-02-01,True,True,Application,1.0,1.0,46.0,1.0,0.0,2026-07-05,0.0,0.0,0.0,36,Occasionnel
+SUP0296,Manon,Fournier,29,Montreuil,93100,supporter0296@example.com,2025-12-21,True,False,SMS,1.0,1.0,264.0,3.0,100.0,2026-11-29,0.0,0.0,0.0,38,Occasionnel
+SUP0297,Antoine,Hoarau,32,Boulogne-Billancourt,92100,supporter0297@example.com,2023-08-12,True,True,Email,3.0,3.0,118.0,3.0,100.0,2026-10-21,3.0,4.5,2.0,62,Régulier
+SUP0298,Virginie,Lefebvre,50,Nanterre,92000,supporter0298@example.com,2025-05-29,True,False,Email,6.0,6.0,765.0,8.0,83.3,2026-11-14,4.33,8.3,3.0,80,Fidèle
+SUP0299,Honoré,Dupuis,60,Versailles,78000,supporter0299@example.com,2023-04-21,False,False,Réseaux sociaux,3.0,3.0,201.0,4.0,100.0,2026-10-27,4.0,8.0,1.0,52,Régulier
+SUP0300,Christelle,Laroche,27,Boulogne-Billancourt,92100,supporter0300@example.com,2023-04-02,True,False,SMS,1.0,1.0,233.0,1.0,100.0,2026-09-04,0.0,0.0,0.0,38,Occasionnel
