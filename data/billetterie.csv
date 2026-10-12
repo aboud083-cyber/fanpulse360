@@ -1,0 +1,787 @@
+﻿ticket_id,supporter_id,email_supporter,match_id,match,date_achat,type_billet,tribune,quantite,prix_unitaire,montant,canal_achat,presence
+TKT00001,SUP0001,supporter0001@example.com,MAT010,Paris United - Lens,2026-11-13,Abonné,Tribune Nord,2,43,86,Guichet,True
+TKT00002,SUP0001,supporter0001@example.com,MAT003,Paris United - Lille,2026-08-08,Abonné,Tribune Est,1,30,30,Partenaire,True
+TKT00003,SUP0001,supporter0001@example.com,MAT005,Paris United - Nantes,2026-10-06,Abonné,Tribune Ouest,2,34,68,Partenaire,True
+TKT00004,SUP0001,supporter0001@example.com,MAT001,Paris United - Lyon,2026-07-20,Abonné,Tribune Ouest,4,35,140,Guichet,True
+TKT00005,SUP0002,supporter0002@example.com,MAT012,Paris United - Auxerre,2026-12-14,Standard,Tribune Sud,2,85,170,Site web,True
+TKT00006,SUP0002,supporter0002@example.com,MAT011,Paris United - Bordeaux,2026-11-07,VIP,Carré VIP,1,124,124,Partenaire,True
+TKT00007,SUP0002,supporter0002@example.com,MAT006,Paris United - Rennes,2026-10-18,Standard,Tribune Sud,1,61,61,Partenaire,True
+TKT00008,SUP0002,supporter0002@example.com,MAT003,Paris United - Lille,2026-08-04,Standard,Tribune Nord,2,88,176,Application,True
+TKT00009,SUP0002,supporter0002@example.com,MAT009,Paris United - Strasbourg,2026-11-06,Standard,Tribune Est,1,25,25,Site web,True
+TKT00010,SUP0003,supporter0003@example.com,MAT006,Paris United - Rennes,2026-09-19,VIP,Carré VIP,2,249,498,Partenaire,True
+TKT00011,SUP0003,supporter0003@example.com,MAT002,Paris United - Marseille,2026-08-10,Standard,Tribune Ouest,4,30,120,Guichet,True
+TKT00012,SUP0004,supporter0004@example.com,MAT006,Paris United - Rennes,2026-10-10,Abonné,Tribune Est,2,42,84,Partenaire,True
+TKT00013,SUP0004,supporter0004@example.com,MAT004,Paris United - Monaco,2026-08-03,VIP,Carré VIP,2,242,484,Partenaire,True
+TKT00014,SUP0004,supporter0004@example.com,MAT002,Paris United - Marseille,2026-07-01,Abonné,Tribune Nord,2,32,64,Guichet,True
+TKT00015,SUP0004,supporter0004@example.com,MAT012,Paris United - Auxerre,2026-11-26,Abonné,Tribune Ouest,1,54,54,Guichet,True
+TKT00016,SUP0005,supporter0005@example.com,MAT001,Paris United - Lyon,2026-07-18,Standard,Tribune Est,1,40,40,Partenaire,True
+TKT00017,SUP0005,supporter0005@example.com,MAT011,Paris United - Bordeaux,2026-12-07,Standard,Tribune Ouest,2,48,96,Guichet,False
+TKT00018,SUP0006,supporter0006@example.com,MAT012,Paris United - Auxerre,2027-01-08,Abonné,Tribune Est,1,31,31,Guichet,True
+TKT00019,SUP0006,supporter0006@example.com,MAT007,Paris United - Nice,2026-10-13,Abonné,Tribune Sud,2,47,94,Guichet,True
+TKT00020,SUP0006,supporter0006@example.com,MAT002,Paris United - Marseille,2026-07-07,Abonné,Tribune Est,2,47,94,Site web,False
+TKT00021,SUP0006,supporter0006@example.com,MAT011,Paris United - Bordeaux,2026-11-13,Abonné,Tribune Est,1,45,45,Site web,True
+TKT00022,SUP0007,supporter0007@example.com,MAT010,Paris United - Lens,2026-12-01,Standard,Tribune Nord,1,81,81,Guichet,True
+TKT00023,SUP0008,supporter0008@example.com,MAT010,Paris United - Lens,2026-10-29,Abonné,Tribune Est,1,48,48,Application,True
+TKT00024,SUP0008,supporter0008@example.com,MAT001,Paris United - Lyon,2026-07-28,Abonné,Tribune Est,2,45,90,Site web,False
+TKT00025,SUP0009,supporter0009@example.com,MAT008,Paris United - Toulouse,2026-11-02,VIP,Carré VIP,1,150,150,Application,True
+TKT00026,SUP0009,supporter0009@example.com,MAT009,Paris United - Strasbourg,2026-11-01,Hospitalité,Carré VIP,2,253,506,Application,True
+TKT00027,SUP0009,supporter0009@example.com,MAT007,Paris United - Nice,2026-09-20,VIP,Carré VIP,1,235,235,Site web,True
+TKT00028,SUP0010,supporter0010@example.com,MAT006,Paris United - Rennes,2026-09-06,Standard,Tribune Est,2,62,124,Application,True
+TKT00029,SUP0010,supporter0010@example.com,MAT011,Paris United - Bordeaux,2026-12-18,Standard,Tribune Sud,1,90,90,Application,True
+TKT00030,SUP0010,supporter0010@example.com,MAT012,Paris United - Auxerre,2026-12-21,Standard,Tribune Est,1,28,28,Application,True
+TKT00031,SUP0010,supporter0010@example.com,MAT002,Paris United - Marseille,2026-07-12,Standard,Tribune Nord,1,36,36,Partenaire,True
+TKT00032,SUP0011,supporter0011@example.com,MAT010,Paris United - Lens,2026-11-24,Abonné,Tribune Ouest,2,48,96,Application,True
+TKT00033,SUP0011,supporter0011@example.com,MAT002,Paris United - Marseille,2026-07-02,Standard,Tribune Ouest,1,41,41,Site web,True
+TKT00034,SUP0011,supporter0011@example.com,MAT003,Paris United - Lille,2026-07-26,Abonné,Tribune Sud,1,39,39,Guichet,True
+TKT00035,SUP0011,supporter0011@example.com,MAT006,Paris United - Rennes,2026-09-16,Standard,Tribune Sud,2,57,114,Guichet,True
+TKT00036,SUP0012,supporter0012@example.com,MAT002,Paris United - Marseille,2026-07-11,Standard,Tribune Sud,2,44,88,Guichet,False
+TKT00037,SUP0012,supporter0012@example.com,MAT009,Paris United - Strasbourg,2026-10-22,Standard,Tribune Nord,1,30,30,Guichet,True
+TKT00038,SUP0012,supporter0012@example.com,MAT003,Paris United - Lille,2026-07-31,Standard,Tribune Nord,1,78,78,Guichet,True
+TKT00039,SUP0013,supporter0013@example.com,MAT011,Paris United - Bordeaux,2026-12-04,Standard,Tribune Nord,1,34,34,Application,True
+TKT00040,SUP0013,supporter0013@example.com,MAT007,Paris United - Nice,2026-10-15,Standard,Tribune Est,2,43,86,Guichet,True
+TKT00041,SUP0014,supporter0014@example.com,MAT003,Paris United - Lille,2026-08-31,Abonné,Tribune Est,1,27,27,Guichet,True
+TKT00042,SUP0014,supporter0014@example.com,MAT006,Paris United - Rennes,2026-08-25,Standard,Tribune Sud,3,78,234,Guichet,True
+TKT00043,SUP0014,supporter0014@example.com,MAT009,Paris United - Strasbourg,2026-11-01,Standard,Tribune Sud,2,65,130,Partenaire,False
+TKT00044,SUP0014,supporter0014@example.com,MAT010,Paris United - Lens,2026-11-21,Abonné,Tribune Ouest,1,39,39,Application,True
+TKT00045,SUP0014,supporter0014@example.com,MAT002,Paris United - Marseille,2026-07-26,Abonné,Tribune Nord,1,42,42,Partenaire,True
+TKT00046,SUP0014,supporter0014@example.com,MAT012,Paris United - Auxerre,2026-11-18,Abonné,Tribune Nord,1,20,20,Guichet,True
+TKT00047,SUP0015,supporter0015@example.com,MAT006,Paris United - Rennes,2026-10-17,Standard,Tribune Est,1,49,49,Partenaire,True
+TKT00048,SUP0015,supporter0015@example.com,MAT001,Paris United - Lyon,2026-08-06,Standard,Tribune Nord,1,60,60,Guichet,True
+TKT00049,SUP0015,supporter0015@example.com,MAT007,Paris United - Nice,2026-10-03,Standard,Tribune Sud,1,71,71,Site web,True
+TKT00050,SUP0015,supporter0015@example.com,MAT011,Paris United - Bordeaux,2026-11-27,Standard,Tribune Est,2,42,84,Application,True
+TKT00051,SUP0016,supporter0016@example.com,MAT010,Paris United - Lens,2026-11-14,Standard,Tribune Est,1,63,63,Guichet,True
+TKT00052,SUP0016,supporter0016@example.com,MAT006,Paris United - Rennes,2026-10-14,Standard,Tribune Est,1,27,27,Guichet,False
+TKT00053,SUP0017,supporter0017@example.com,MAT012,Paris United - Auxerre,2027-01-03,Standard,Tribune Nord,1,54,54,Partenaire,True
+TKT00054,SUP0017,supporter0017@example.com,MAT011,Paris United - Bordeaux,2026-11-16,Standard,Tribune Nord,1,56,56,Site web,True
+TKT00055,SUP0017,supporter0017@example.com,MAT001,Paris United - Lyon,2026-07-30,Standard,Tribune Sud,1,78,78,Partenaire,True
+TKT00056,SUP0017,supporter0017@example.com,MAT008,Paris United - Toulouse,2026-10-16,VIP,Carré VIP,2,135,270,Guichet,True
+TKT00057,SUP0018,supporter0018@example.com,MAT008,Paris United - Toulouse,2026-09-24,Standard,Tribune Est,2,68,136,Guichet,True
+TKT00058,SUP0018,supporter0018@example.com,MAT009,Paris United - Strasbourg,2026-11-13,Abonné,Tribune Sud,1,32,32,Guichet,True
+TKT00059,SUP0018,supporter0018@example.com,MAT007,Paris United - Nice,2026-10-13,Standard,Tribune Ouest,1,51,51,Guichet,True
+TKT00060,SUP0018,supporter0018@example.com,MAT006,Paris United - Rennes,2026-09-26,Abonné,Tribune Ouest,2,54,108,Application,True
+TKT00061,SUP0018,supporter0018@example.com,MAT003,Paris United - Lille,2026-08-12,Abonné,Tribune Nord,1,38,38,Partenaire,True
+TKT00062,SUP0018,supporter0018@example.com,MAT004,Paris United - Monaco,2026-08-10,Abonné,Tribune Est,3,54,162,Site web,True
+TKT00063,SUP0019,supporter0019@example.com,MAT010,Paris United - Lens,2026-12-13,Abonné,Tribune Sud,2,53,106,Guichet,True
+TKT00064,SUP0019,supporter0019@example.com,MAT004,Paris United - Monaco,2026-08-19,Abonné,Tribune Sud,1,26,26,Application,False
+TKT00065,SUP0019,supporter0019@example.com,MAT011,Paris United - Bordeaux,2026-11-12,Abonné,Tribune Ouest,2,50,100,Guichet,False
+TKT00066,SUP0020,supporter0020@example.com,MAT001,Paris United - Lyon,2026-07-29,VIP,Carré VIP,2,142,284,Site web,True
+TKT00067,SUP0021,supporter0021@example.com,MAT003,Paris United - Lille,2026-09-09,Standard,Tribune Est,2,48,96,Site web,True
+TKT00068,SUP0021,supporter0021@example.com,MAT007,Paris United - Nice,2026-09-24,Standard,Tribune Est,1,67,67,Partenaire,True
+TKT00069,SUP0021,supporter0021@example.com,MAT012,Paris United - Auxerre,2026-11-23,Standard,Tribune Ouest,1,42,42,Application,True
+TKT00070,SUP0021,supporter0021@example.com,MAT001,Paris United - Lyon,2026-07-22,Abonné,Tribune Sud,1,36,36,Application,True
+TKT00071,SUP0021,supporter0021@example.com,MAT011,Paris United - Bordeaux,2026-12-25,Abonné,Tribune Ouest,1,45,45,Site web,True
+TKT00072,SUP0022,supporter0022@example.com,MAT003,Paris United - Lille,2026-08-25,Standard,Tribune Nord,1,56,56,Guichet,True
+TKT00073,SUP0023,supporter0023@example.com,MAT005,Paris United - Nantes,2026-09-08,Standard,Tribune Nord,2,55,110,Partenaire,True
+TKT00074,SUP0023,supporter0023@example.com,MAT010,Paris United - Lens,2026-11-28,Standard,Tribune Nord,2,64,128,Application,True
+TKT00075,SUP0023,supporter0023@example.com,MAT011,Paris United - Bordeaux,2026-11-13,Standard,Tribune Ouest,1,42,42,Guichet,False
+TKT00076,SUP0023,supporter0023@example.com,MAT001,Paris United - Lyon,2026-06-30,Standard,Tribune Sud,2,85,170,Site web,True
+TKT00077,SUP0023,supporter0023@example.com,MAT012,Paris United - Auxerre,2027-01-06,Standard,Tribune Nord,3,71,213,Application,True
+TKT00078,SUP0023,supporter0023@example.com,MAT006,Paris United - Rennes,2026-09-18,Standard,Tribune Sud,1,44,44,Application,True
+TKT00079,SUP0024,supporter0024@example.com,MAT008,Paris United - Toulouse,2026-10-23,Standard,Tribune Ouest,1,32,32,Site web,True
+TKT00080,SUP0024,supporter0024@example.com,MAT002,Paris United - Marseille,2026-07-05,Standard,Tribune Nord,1,64,64,Application,True
+TKT00081,SUP0024,supporter0024@example.com,MAT009,Paris United - Strasbourg,2026-11-28,Standard,Tribune Ouest,1,30,30,Site web,True
+TKT00082,SUP0025,supporter0025@example.com,MAT002,Paris United - Marseille,2026-06-30,Standard,Tribune Ouest,1,42,42,Partenaire,True
+TKT00083,SUP0025,supporter0025@example.com,MAT008,Paris United - Toulouse,2026-10-15,Standard,Tribune Est,1,42,42,Application,True
+TKT00084,SUP0025,supporter0025@example.com,MAT001,Paris United - Lyon,2026-07-24,Standard,Tribune Nord,2,53,106,Partenaire,True
+TKT00085,SUP0025,supporter0025@example.com,MAT005,Paris United - Nantes,2026-09-28,Standard,Tribune Sud,1,54,54,Site web,True
+TKT00086,SUP0025,supporter0025@example.com,MAT007,Paris United - Nice,2026-10-31,Standard,Tribune Nord,1,78,78,Site web,True
+TKT00087,SUP0026,supporter0026@example.com,MAT011,Paris United - Bordeaux,2026-11-26,Standard,Tribune Ouest,1,30,30,Site web,True
+TKT00088,SUP0026,supporter0026@example.com,MAT001,Paris United - Lyon,2026-06-27,Standard,Tribune Sud,2,62,124,Guichet,True
+TKT00089,SUP0027,supporter0027@example.com,MAT003,Paris United - Lille,2026-08-21,Hospitalité,Carré VIP,1,313,313,Application,True
+TKT00090,SUP0028,supporter0028@example.com,MAT007,Paris United - Nice,2026-10-15,Standard,Tribune Ouest,2,69,138,Partenaire,True
+TKT00091,SUP0028,supporter0028@example.com,MAT009,Paris United - Strasbourg,2026-11-02,Standard,Tribune Sud,2,73,146,Application,True
+TKT00092,SUP0028,supporter0028@example.com,MAT008,Paris United - Toulouse,2026-10-14,Standard,Tribune Ouest,3,43,129,Partenaire,True
+TKT00093,SUP0029,supporter0029@example.com,MAT003,Paris United - Lille,2026-07-17,Standard,Tribune Nord,3,67,201,Application,True
+TKT00094,SUP0029,supporter0029@example.com,MAT007,Paris United - Nice,2026-10-23,Standard,Tribune Nord,2,73,146,Application,True
+TKT00095,SUP0029,supporter0029@example.com,MAT004,Paris United - Monaco,2026-09-23,Standard,Tribune Est,3,67,201,Application,True
+TKT00096,SUP0030,supporter0030@example.com,MAT002,Paris United - Marseille,2026-07-16,Abonné,Tribune Ouest,1,38,38,Guichet,True
+TKT00097,SUP0030,supporter0030@example.com,MAT008,Paris United - Toulouse,2026-10-03,Abonné,Tribune Ouest,1,51,51,Guichet,True
+TKT00098,SUP0030,supporter0030@example.com,MAT004,Paris United - Monaco,2026-08-18,Standard,Tribune Est,1,72,72,Application,True
+TKT00099,SUP0030,supporter0030@example.com,MAT010,Paris United - Lens,2026-12-04,Abonné,Tribune Ouest,1,55,55,Partenaire,True
+TKT00100,SUP0030,supporter0030@example.com,MAT007,Paris United - Nice,2026-09-22,Abonné,Tribune Ouest,1,35,35,Partenaire,True
+TKT00101,SUP0030,supporter0030@example.com,MAT012,Paris United - Auxerre,2026-11-28,VIP,Carré VIP,1,245,245,Application,True
+TKT00102,SUP0031,supporter0031@example.com,MAT009,Paris United - Strasbourg,2026-10-10,Abonné,Tribune Nord,1,54,54,Site web,True
+TKT00103,SUP0032,supporter0032@example.com,MAT007,Paris United - Nice,2026-10-12,Standard,Tribune Sud,1,26,26,Partenaire,True
+TKT00104,SUP0032,supporter0032@example.com,MAT003,Paris United - Lille,2026-08-14,Standard,Tribune Nord,1,27,27,Guichet,True
+TKT00105,SUP0032,supporter0032@example.com,MAT004,Paris United - Monaco,2026-08-10,Standard,Tribune Nord,1,61,61,Application,True
+TKT00106,SUP0032,supporter0032@example.com,MAT002,Paris United - Marseille,2026-07-18,Standard,Tribune Sud,1,37,37,Guichet,True
+TKT00107,SUP0033,supporter0033@example.com,MAT007,Paris United - Nice,2026-09-21,Abonné,Tribune Ouest,1,45,45,Site web,True
+TKT00108,SUP0034,supporter0034@example.com,MAT011,Paris United - Bordeaux,2026-12-30,Standard,Tribune Ouest,1,73,73,Site web,True
+TKT00109,SUP0034,supporter0034@example.com,MAT001,Paris United - Lyon,2026-06-19,Standard,Tribune Est,1,80,80,Site web,False
+TKT00110,SUP0034,supporter0034@example.com,MAT002,Paris United - Marseille,2026-08-22,Standard,Tribune Est,1,85,85,Guichet,True
+TKT00111,SUP0035,supporter0035@example.com,MAT010,Paris United - Lens,2026-11-01,Standard,Tribune Sud,2,51,102,Site web,True
+TKT00112,SUP0035,supporter0035@example.com,MAT011,Paris United - Bordeaux,2026-11-26,Standard,Tribune Ouest,2,55,110,Application,True
+TKT00113,SUP0035,supporter0035@example.com,MAT001,Paris United - Lyon,2026-07-16,Standard,Tribune Est,1,35,35,Site web,True
+TKT00114,SUP0035,supporter0035@example.com,MAT003,Paris United - Lille,2026-08-23,Standard,Tribune Est,1,75,75,Partenaire,True
+TKT00115,SUP0035,supporter0035@example.com,MAT006,Paris United - Rennes,2026-09-08,Standard,Tribune Ouest,1,70,70,Partenaire,True
+TKT00116,SUP0037,supporter0037@example.com,MAT004,Paris United - Monaco,2026-09-03,Standard,Tribune Sud,2,73,146,Site web,True
+TKT00117,SUP0037,supporter0037@example.com,MAT002,Paris United - Marseille,2026-08-09,Standard,Tribune Ouest,1,64,64,Site web,True
+TKT00118,SUP0037,supporter0037@example.com,MAT011,Paris United - Bordeaux,2026-12-25,Standard,Tribune Ouest,1,82,82,Site web,True
+TKT00119,SUP0038,supporter0038@example.com,MAT006,Paris United - Rennes,2026-09-16,Standard,Tribune Nord,2,74,148,Application,False
+TKT00120,SUP0038,supporter0038@example.com,MAT007,Paris United - Nice,2026-10-18,Standard,Tribune Ouest,1,46,46,Partenaire,True
+TKT00121,SUP0038,supporter0038@example.com,MAT001,Paris United - Lyon,2026-07-24,Standard,Tribune Ouest,1,46,46,Site web,True
+TKT00122,SUP0039,supporter0039@example.com,MAT004,Paris United - Monaco,2026-09-04,Standard,Tribune Ouest,1,50,50,Partenaire,True
+TKT00123,SUP0039,supporter0039@example.com,MAT011,Paris United - Bordeaux,2026-12-03,Standard,Tribune Est,1,73,73,Application,True
+TKT00124,SUP0040,supporter0040@example.com,MAT010,Paris United - Lens,2026-11-28,Abonné,Tribune Ouest,3,31,93,Partenaire,True
+TKT00125,SUP0040,supporter0040@example.com,MAT004,Paris United - Monaco,2026-09-06,VIP,Carré VIP,1,182,182,Partenaire,True
+TKT00126,SUP0041,supporter0041@example.com,MAT010,Paris United - Lens,2026-11-11,Abonné,Tribune Sud,2,54,108,Partenaire,True
+TKT00127,SUP0041,supporter0041@example.com,MAT004,Paris United - Monaco,2026-08-01,Standard,Tribune Ouest,2,51,102,Partenaire,True
+TKT00128,SUP0042,supporter0042@example.com,MAT003,Paris United - Lille,2026-09-05,Standard,Tribune Ouest,2,44,88,Partenaire,True
+TKT00129,SUP0042,supporter0042@example.com,MAT011,Paris United - Bordeaux,2026-11-10,Standard,Tribune Ouest,1,89,89,Site web,False
+TKT00130,SUP0042,supporter0042@example.com,MAT005,Paris United - Nantes,2026-08-29,Standard,Tribune Est,1,56,56,Partenaire,True
+TKT00131,SUP0043,supporter0043@example.com,MAT006,Paris United - Rennes,2026-09-22,Standard,Tribune Ouest,1,53,53,Application,True
+TKT00132,SUP0043,supporter0043@example.com,MAT007,Paris United - Nice,2026-10-09,Standard,Tribune Ouest,1,28,28,Site web,False
+TKT00133,SUP0043,supporter0043@example.com,MAT002,Paris United - Marseille,2026-07-28,Standard,Tribune Est,1,43,43,Partenaire,True
+TKT00134,SUP0043,supporter0043@example.com,MAT001,Paris United - Lyon,2026-07-15,Standard,Tribune Ouest,2,37,74,Guichet,True
+TKT00135,SUP0043,supporter0043@example.com,MAT010,Paris United - Lens,2026-11-05,Standard,Tribune Nord,2,39,78,Application,True
+TKT00136,SUP0043,supporter0043@example.com,MAT003,Paris United - Lille,2026-08-05,VIP,Carré VIP,1,182,182,Partenaire,True
+TKT00137,SUP0044,supporter0044@example.com,MAT004,Paris United - Monaco,2026-08-30,Standard,Tribune Ouest,1,50,50,Application,True
+TKT00138,SUP0044,supporter0044@example.com,MAT007,Paris United - Nice,2026-10-01,Standard,Tribune Nord,2,33,66,Guichet,True
+TKT00139,SUP0044,supporter0044@example.com,MAT003,Paris United - Lille,2026-08-09,Standard,Tribune Est,2,39,78,Guichet,True
+TKT00140,SUP0044,supporter0044@example.com,MAT010,Paris United - Lens,2026-10-23,Standard,Tribune Nord,1,75,75,Application,True
+TKT00141,SUP0044,supporter0044@example.com,MAT011,Paris United - Bordeaux,2026-12-10,Standard,Tribune Nord,2,63,126,Guichet,True
+TKT00142,SUP0044,supporter0044@example.com,MAT012,Paris United - Auxerre,2026-12-18,Standard,Tribune Sud,1,72,72,Partenaire,True
+TKT00143,SUP0045,supporter0045@example.com,MAT008,Paris United - Toulouse,2026-11-10,Standard,Tribune Sud,1,47,47,Partenaire,True
+TKT00144,SUP0045,supporter0045@example.com,MAT011,Paris United - Bordeaux,2026-12-18,Standard,Tribune Nord,1,70,70,Partenaire,True
+TKT00145,SUP0046,supporter0046@example.com,MAT008,Paris United - Toulouse,2026-10-13,Standard,Tribune Ouest,1,81,81,Application,True
+TKT00146,SUP0046,supporter0046@example.com,MAT007,Paris United - Nice,2026-10-25,Standard,Tribune Sud,1,60,60,Partenaire,True
+TKT00147,SUP0047,supporter0047@example.com,MAT002,Paris United - Marseille,2026-07-29,Standard,Tribune Nord,2,71,142,Partenaire,True
+TKT00148,SUP0047,supporter0047@example.com,MAT010,Paris United - Lens,2026-12-14,Standard,Tribune Est,2,56,112,Guichet,True
+TKT00149,SUP0048,supporter0048@example.com,MAT002,Paris United - Marseille,2026-08-18,Abonné,Tribune Ouest,1,42,42,Application,True
+TKT00150,SUP0048,supporter0048@example.com,MAT008,Paris United - Toulouse,2026-11-08,Standard,Tribune Est,1,69,69,Guichet,True
+TKT00151,SUP0048,supporter0048@example.com,MAT012,Paris United - Auxerre,2026-11-26,Abonné,Tribune Nord,1,37,37,Site web,True
+TKT00152,SUP0048,supporter0048@example.com,MAT004,Paris United - Monaco,2026-09-15,VIP,Carré VIP,2,152,304,Guichet,True
+TKT00153,SUP0049,supporter0049@example.com,MAT011,Paris United - Bordeaux,2026-12-26,Standard,Tribune Ouest,1,59,59,Site web,True
+TKT00154,SUP0049,supporter0049@example.com,MAT007,Paris United - Nice,2026-10-04,Standard,Tribune Est,1,60,60,Site web,True
+TKT00155,SUP0049,supporter0049@example.com,MAT008,Paris United - Toulouse,2026-10-20,VIP,Carré VIP,2,143,286,Guichet,True
+TKT00156,SUP0049,supporter0049@example.com,MAT003,Paris United - Lille,2026-08-13,VIP,Carré VIP,1,221,221,Partenaire,True
+TKT00157,SUP0050,supporter0050@example.com,MAT005,Paris United - Nantes,2026-08-11,Standard,Tribune Ouest,2,41,82,Site web,True
+TKT00158,SUP0052,supporter0052@example.com,MAT008,Paris United - Toulouse,2026-10-22,Standard,Tribune Ouest,1,45,45,Application,True
+TKT00159,SUP0052,supporter0052@example.com,MAT001,Paris United - Lyon,2026-06-17,Standard,Tribune Sud,2,63,126,Guichet,True
+TKT00160,SUP0052,supporter0052@example.com,MAT002,Paris United - Marseille,2026-07-17,Abonné,Tribune Sud,1,43,43,Application,True
+TKT00161,SUP0053,supporter0053@example.com,MAT002,Paris United - Marseille,2026-08-12,Standard,Tribune Nord,1,86,86,Partenaire,True
+TKT00162,SUP0053,supporter0053@example.com,MAT012,Paris United - Auxerre,2026-12-17,Standard,Tribune Nord,4,68,272,Partenaire,True
+TKT00163,SUP0055,supporter0055@example.com,MAT012,Paris United - Auxerre,2026-11-25,Abonné,Tribune Est,1,43,43,Application,True
+TKT00164,SUP0055,supporter0055@example.com,MAT002,Paris United - Marseille,2026-08-26,Abonné,Tribune Nord,1,29,29,Application,True
+TKT00165,SUP0056,supporter0056@example.com,MAT012,Paris United - Auxerre,2026-12-16,Abonné,Tribune Ouest,2,29,58,Site web,True
+TKT00166,SUP0056,supporter0056@example.com,MAT004,Paris United - Monaco,2026-08-30,Standard,Tribune Nord,1,42,42,Partenaire,True
+TKT00167,SUP0057,supporter0057@example.com,MAT003,Paris United - Lille,2026-08-02,Standard,Tribune Sud,1,35,35,Guichet,True
+TKT00168,SUP0057,supporter0057@example.com,MAT004,Paris United - Monaco,2026-08-16,Standard,Tribune Est,1,28,28,Partenaire,True
+TKT00169,SUP0058,supporter0058@example.com,MAT001,Paris United - Lyon,2026-07-28,Standard,Tribune Ouest,1,55,55,Site web,True
+TKT00170,SUP0059,supporter0059@example.com,MAT001,Paris United - Lyon,2026-07-07,Standard,Tribune Ouest,2,41,82,Application,True
+TKT00171,SUP0059,supporter0059@example.com,MAT006,Paris United - Rennes,2026-10-21,Standard,Tribune Nord,1,34,34,Site web,True
+TKT00172,SUP0060,supporter0060@example.com,MAT007,Paris United - Nice,2026-10-01,Standard,Tribune Nord,2,76,152,Guichet,True
+TKT00173,SUP0060,supporter0060@example.com,MAT009,Paris United - Strasbourg,2026-11-23,Standard,Tribune Sud,4,35,140,Partenaire,True
+TKT00174,SUP0060,supporter0060@example.com,MAT005,Paris United - Nantes,2026-08-22,Standard,Tribune Est,2,33,66,Application,False
+TKT00175,SUP0060,supporter0060@example.com,MAT011,Paris United - Bordeaux,2026-11-21,Standard,Tribune Ouest,1,36,36,Guichet,True
+TKT00176,SUP0060,supporter0060@example.com,MAT012,Paris United - Auxerre,2027-01-05,Standard,Tribune Nord,1,47,47,Application,True
+TKT00177,SUP0061,supporter0061@example.com,MAT006,Paris United - Rennes,2026-09-04,Abonné,Tribune Sud,1,36,36,Guichet,True
+TKT00178,SUP0061,supporter0061@example.com,MAT009,Paris United - Strasbourg,2026-11-05,Abonné,Tribune Nord,1,27,27,Site web,True
+TKT00179,SUP0062,supporter0062@example.com,MAT010,Paris United - Lens,2026-12-13,Abonné,Tribune Ouest,1,51,51,Application,True
+TKT00180,SUP0063,supporter0063@example.com,MAT005,Paris United - Nantes,2026-09-05,VIP,Carré VIP,1,149,149,Site web,True
+TKT00181,SUP0063,supporter0063@example.com,MAT002,Paris United - Marseille,2026-08-17,Standard,Tribune Est,1,85,85,Site web,True
+TKT00182,SUP0064,supporter0064@example.com,MAT012,Paris United - Auxerre,2026-12-24,Standard,Tribune Ouest,3,56,168,Site web,True
+TKT00183,SUP0064,supporter0064@example.com,MAT011,Paris United - Bordeaux,2026-11-09,Standard,Tribune Nord,1,40,40,Site web,True
+TKT00184,SUP0064,supporter0064@example.com,MAT007,Paris United - Nice,2026-09-10,Hospitalité,Carré VIP,2,197,394,Guichet,True
+TKT00185,SUP0065,supporter0065@example.com,MAT009,Paris United - Strasbourg,2026-11-13,Abonné,Tribune Est,1,32,32,Application,True
+TKT00186,SUP0065,supporter0065@example.com,MAT008,Paris United - Toulouse,2026-10-15,Abonné,Tribune Sud,2,51,102,Application,True
+TKT00187,SUP0066,supporter0066@example.com,MAT007,Paris United - Nice,2026-09-21,Abonné,Tribune Est,2,54,108,Guichet,True
+TKT00188,SUP0068,supporter0068@example.com,MAT012,Paris United - Auxerre,2027-01-10,Standard,Tribune Ouest,1,55,55,Application,False
+TKT00189,SUP0068,supporter0068@example.com,MAT005,Paris United - Nantes,2026-08-11,Standard,Tribune Nord,3,36,108,Partenaire,True
+TKT00190,SUP0068,supporter0068@example.com,MAT002,Paris United - Marseille,2026-08-21,Standard,Tribune Ouest,4,72,288,Application,True
+TKT00191,SUP0069,supporter0069@example.com,MAT007,Paris United - Nice,2026-10-19,Standard,Tribune Sud,1,80,80,Partenaire,True
+TKT00192,SUP0069,supporter0069@example.com,MAT002,Paris United - Marseille,2026-08-12,Standard,Tribune Est,1,66,66,Application,True
+TKT00193,SUP0069,supporter0069@example.com,MAT010,Paris United - Lens,2026-11-18,Standard,Tribune Sud,1,38,38,Partenaire,True
+TKT00194,SUP0070,supporter0070@example.com,MAT006,Paris United - Rennes,2026-09-22,Hospitalité,Carré VIP,1,233,233,Site web,True
+TKT00195,SUP0072,supporter0072@example.com,MAT005,Paris United - Nantes,2026-09-22,Standard,Tribune Sud,1,66,66,Partenaire,False
+TKT00196,SUP0072,supporter0072@example.com,MAT010,Paris United - Lens,2026-12-05,Standard,Tribune Est,2,63,126,Partenaire,True
+TKT00197,SUP0072,supporter0072@example.com,MAT001,Paris United - Lyon,2026-08-06,VIP,Carré VIP,1,183,183,Application,True
+TKT00198,SUP0072,supporter0072@example.com,MAT004,Paris United - Monaco,2026-08-02,Standard,Tribune Sud,1,32,32,Site web,True
+TKT00199,SUP0073,supporter0073@example.com,MAT005,Paris United - Nantes,2026-09-09,VIP,Carré VIP,3,170,510,Site web,True
+TKT00200,SUP0073,supporter0073@example.com,MAT002,Paris United - Marseille,2026-07-28,Standard,Tribune Nord,1,67,67,Partenaire,True
+TKT00201,SUP0073,supporter0073@example.com,MAT001,Paris United - Lyon,2026-06-30,Standard,Tribune Ouest,1,75,75,Guichet,True
+TKT00202,SUP0074,supporter0074@example.com,MAT003,Paris United - Lille,2026-08-01,Standard,Tribune Sud,1,82,82,Guichet,True
+TKT00203,SUP0075,supporter0075@example.com,MAT009,Paris United - Strasbourg,2026-11-20,Abonné,Tribune Ouest,1,37,37,Application,True
+TKT00204,SUP0075,supporter0075@example.com,MAT008,Paris United - Toulouse,2026-09-29,Abonné,Tribune Nord,4,54,216,Partenaire,True
+TKT00205,SUP0076,supporter0076@example.com,MAT008,Paris United - Toulouse,2026-11-01,VIP,Carré VIP,1,248,248,Guichet,True
+TKT00206,SUP0076,supporter0076@example.com,MAT006,Paris United - Rennes,2026-09-21,Standard,Tribune Est,1,28,28,Application,True
+TKT00207,SUP0077,supporter0077@example.com,MAT002,Paris United - Marseille,2026-07-06,VIP,Carré VIP,1,176,176,Application,True
+TKT00208,SUP0077,supporter0077@example.com,MAT004,Paris United - Monaco,2026-09-22,Abonné,Tribune Est,3,40,120,Guichet,True
+TKT00209,SUP0077,supporter0077@example.com,MAT011,Paris United - Bordeaux,2026-11-09,Standard,Tribune Sud,2,43,86,Partenaire,False
+TKT00210,SUP0077,supporter0077@example.com,MAT005,Paris United - Nantes,2026-10-04,Abonné,Tribune Ouest,1,31,31,Application,True
+TKT00211,SUP0077,supporter0077@example.com,MAT001,Paris United - Lyon,2026-07-04,Abonné,Tribune Nord,1,50,50,Application,True
+TKT00212,SUP0077,supporter0077@example.com,MAT007,Paris United - Nice,2026-10-26,Abonné,Tribune Est,1,31,31,Application,True
+TKT00213,SUP0078,supporter0078@example.com,MAT009,Paris United - Strasbourg,2026-11-12,Standard,Tribune Nord,1,75,75,Application,True
+TKT00214,SUP0078,supporter0078@example.com,MAT006,Paris United - Rennes,2026-10-10,Standard,Tribune Ouest,2,80,160,Guichet,True
+TKT00215,SUP0078,supporter0078@example.com,MAT002,Paris United - Marseille,2026-07-13,Standard,Tribune Ouest,1,47,47,Application,True
+TKT00216,SUP0078,supporter0078@example.com,MAT011,Paris United - Bordeaux,2026-12-10,Standard,Tribune Nord,1,75,75,Application,False
+TKT00217,SUP0079,supporter0079@example.com,MAT002,Paris United - Marseille,2026-08-06,Abonné,Tribune Sud,1,24,24,Site web,True
+TKT00218,SUP0079,supporter0079@example.com,MAT008,Paris United - Toulouse,2026-11-05,Standard,Tribune Ouest,1,67,67,Site web,True
+TKT00219,SUP0079,supporter0079@example.com,MAT003,Paris United - Lille,2026-08-12,Abonné,Tribune Nord,1,26,26,Application,True
+TKT00220,SUP0080,supporter0080@example.com,MAT008,Paris United - Toulouse,2026-11-14,Abonné,Tribune Sud,1,50,50,Site web,True
+TKT00221,SUP0080,supporter0080@example.com,MAT007,Paris United - Nice,2026-10-31,Abonné,Tribune Est,3,40,120,Partenaire,True
+TKT00222,SUP0080,supporter0080@example.com,MAT006,Paris United - Rennes,2026-09-12,Abonné,Tribune Nord,1,24,24,Site web,False
+TKT00223,SUP0080,supporter0080@example.com,MAT009,Paris United - Strasbourg,2026-11-26,Abonné,Tribune Ouest,1,30,30,Application,True
+TKT00224,SUP0080,supporter0080@example.com,MAT011,Paris United - Bordeaux,2026-12-11,Abonné,Tribune Est,2,55,110,Site web,True
+TKT00225,SUP0081,supporter0081@example.com,MAT009,Paris United - Strasbourg,2026-11-14,Abonné,Tribune Nord,1,43,43,Partenaire,True
+TKT00226,SUP0081,supporter0081@example.com,MAT008,Paris United - Toulouse,2026-10-31,Abonné,Tribune Sud,1,21,21,Partenaire,False
+TKT00227,SUP0082,supporter0082@example.com,MAT005,Paris United - Nantes,2026-09-13,Standard,Tribune Nord,2,58,116,Partenaire,True
+TKT00228,SUP0082,supporter0082@example.com,MAT007,Paris United - Nice,2026-10-06,Abonné,Tribune Nord,1,48,48,Guichet,True
+TKT00229,SUP0082,supporter0082@example.com,MAT008,Paris United - Toulouse,2026-10-27,Abonné,Tribune Nord,1,29,29,Partenaire,True
+TKT00230,SUP0082,supporter0082@example.com,MAT010,Paris United - Lens,2026-10-24,VIP,Carré VIP,1,178,178,Partenaire,True
+TKT00231,SUP0083,supporter0083@example.com,MAT011,Paris United - Bordeaux,2026-11-12,Standard,Tribune Sud,1,29,29,Application,True
+TKT00232,SUP0083,supporter0083@example.com,MAT008,Paris United - Toulouse,2026-10-22,Hospitalité,Carré VIP,1,229,229,Partenaire,True
+TKT00233,SUP0083,supporter0083@example.com,MAT010,Paris United - Lens,2026-10-31,Standard,Tribune Est,1,43,43,Site web,False
+TKT00234,SUP0083,supporter0083@example.com,MAT004,Paris United - Monaco,2026-08-21,Standard,Tribune Est,2,75,150,Site web,True
+TKT00235,SUP0083,supporter0083@example.com,MAT012,Paris United - Auxerre,2027-01-04,Standard,Tribune Nord,1,78,78,Site web,True
+TKT00236,SUP0083,supporter0083@example.com,MAT003,Paris United - Lille,2026-07-16,VIP,Carré VIP,2,145,290,Guichet,True
+TKT00237,SUP0084,supporter0084@example.com,MAT005,Paris United - Nantes,2026-08-25,Abonné,Tribune Sud,2,45,90,Site web,True
+TKT00238,SUP0084,supporter0084@example.com,MAT007,Paris United - Nice,2026-10-05,Abonné,Tribune Sud,1,41,41,Guichet,False
+TKT00239,SUP0084,supporter0084@example.com,MAT008,Paris United - Toulouse,2026-10-18,Abonné,Tribune Est,1,39,39,Site web,True
+TKT00240,SUP0084,supporter0084@example.com,MAT010,Paris United - Lens,2026-10-30,VIP,Carré VIP,1,178,178,Guichet,True
+TKT00241,SUP0084,supporter0084@example.com,MAT001,Paris United - Lyon,2026-07-30,Abonné,Tribune Nord,1,46,46,Partenaire,False
+TKT00242,SUP0085,supporter0085@example.com,MAT009,Paris United - Strasbourg,2026-10-31,Abonné,Tribune Nord,1,30,30,Site web,True
+TKT00243,SUP0085,supporter0085@example.com,MAT006,Paris United - Rennes,2026-09-22,Abonné,Tribune Nord,1,32,32,Guichet,True
+TKT00244,SUP0085,supporter0085@example.com,MAT001,Paris United - Lyon,2026-07-11,Abonné,Tribune Est,2,37,74,Site web,True
+TKT00245,SUP0086,supporter0086@example.com,MAT004,Paris United - Monaco,2026-09-01,Standard,Tribune Ouest,1,47,47,Guichet,True
+TKT00246,SUP0086,supporter0086@example.com,MAT006,Paris United - Rennes,2026-10-18,Standard,Tribune Est,1,36,36,Application,True
+TKT00247,SUP0086,supporter0086@example.com,MAT008,Paris United - Toulouse,2026-11-01,VIP,Carré VIP,2,177,354,Site web,True
+TKT00248,SUP0087,supporter0087@example.com,MAT011,Paris United - Bordeaux,2026-11-09,Abonné,Tribune Sud,1,20,20,Guichet,False
+TKT00249,SUP0087,supporter0087@example.com,MAT001,Paris United - Lyon,2026-07-30,Abonné,Tribune Est,1,44,44,Partenaire,True
+TKT00250,SUP0087,supporter0087@example.com,MAT008,Paris United - Toulouse,2026-10-11,Abonné,Tribune Est,1,20,20,Guichet,True
+TKT00251,SUP0087,supporter0087@example.com,MAT003,Paris United - Lille,2026-08-23,Abonné,Tribune Nord,1,50,50,Guichet,True
+TKT00252,SUP0088,supporter0088@example.com,MAT012,Paris United - Auxerre,2027-01-04,Hospitalité,Carré VIP,1,346,346,Application,True
+TKT00253,SUP0089,supporter0089@example.com,MAT010,Paris United - Lens,2026-11-21,Abonné,Tribune Est,3,38,114,Site web,True
+TKT00254,SUP0089,supporter0089@example.com,MAT007,Paris United - Nice,2026-10-21,Abonné,Tribune Est,2,32,64,Partenaire,True
+TKT00255,SUP0089,supporter0089@example.com,MAT006,Paris United - Rennes,2026-08-29,Standard,Tribune Est,2,70,140,Application,True
+TKT00256,SUP0089,supporter0089@example.com,MAT003,Paris United - Lille,2026-07-25,Abonné,Tribune Sud,2,50,100,Application,True
+TKT00257,SUP0089,supporter0089@example.com,MAT001,Paris United - Lyon,2026-07-29,Standard,Tribune Nord,1,67,67,Guichet,True
+TKT00258,SUP0090,supporter0090@example.com,MAT006,Paris United - Rennes,2026-09-21,Abonné,Tribune Ouest,2,38,76,Site web,True
+TKT00259,SUP0090,supporter0090@example.com,MAT012,Paris United - Auxerre,2026-12-20,Abonné,Tribune Nord,2,32,64,Partenaire,True
+TKT00260,SUP0092,supporter0092@example.com,MAT003,Paris United - Lille,2026-07-16,Hospitalité,Carré VIP,1,297,297,Site web,True
+TKT00261,SUP0092,supporter0092@example.com,MAT004,Paris United - Monaco,2026-09-23,Standard,Tribune Est,2,47,94,Application,True
+TKT00262,SUP0092,supporter0092@example.com,MAT006,Paris United - Rennes,2026-09-03,Standard,Tribune Sud,1,46,46,Application,True
+TKT00263,SUP0092,supporter0092@example.com,MAT007,Paris United - Nice,2026-10-05,Standard,Tribune Ouest,1,79,79,Site web,True
+TKT00264,SUP0093,supporter0093@example.com,MAT012,Paris United - Auxerre,2026-12-11,Hospitalité,Carré VIP,2,262,524,Site web,True
+TKT00265,SUP0093,supporter0093@example.com,MAT006,Paris United - Rennes,2026-09-29,Standard,Tribune Sud,2,56,112,Site web,True
+TKT00266,SUP0094,supporter0094@example.com,MAT010,Paris United - Lens,2026-11-17,Standard,Tribune Est,3,30,90,Guichet,True
+TKT00267,SUP0094,supporter0094@example.com,MAT005,Paris United - Nantes,2026-09-06,Standard,Tribune Est,4,42,168,Application,True
+TKT00268,SUP0095,supporter0095@example.com,MAT007,Paris United - Nice,2026-11-03,Abonné,Tribune Sud,1,34,34,Application,True
+TKT00269,SUP0096,supporter0096@example.com,MAT012,Paris United - Auxerre,2026-12-28,Standard,Tribune Ouest,2,29,58,Site web,True
+TKT00270,SUP0097,supporter0097@example.com,MAT001,Paris United - Lyon,2026-07-17,Standard,Tribune Nord,2,27,54,Site web,True
+TKT00271,SUP0097,supporter0097@example.com,MAT011,Paris United - Bordeaux,2026-11-17,Standard,Tribune Sud,1,85,85,Guichet,True
+TKT00272,SUP0097,supporter0097@example.com,MAT002,Paris United - Marseille,2026-07-13,Standard,Tribune Est,2,37,74,Site web,True
+TKT00273,SUP0098,supporter0098@example.com,MAT010,Paris United - Lens,2026-12-04,Standard,Tribune Ouest,1,38,38,Application,True
+TKT00274,SUP0098,supporter0098@example.com,MAT002,Paris United - Marseille,2026-07-22,Standard,Tribune Est,1,77,77,Application,True
+TKT00275,SUP0099,supporter0099@example.com,MAT008,Paris United - Toulouse,2026-10-07,Standard,Tribune Nord,2,36,72,Site web,True
+TKT00276,SUP0099,supporter0099@example.com,MAT006,Paris United - Rennes,2026-09-10,Standard,Tribune Nord,3,34,102,Guichet,True
+TKT00277,SUP0099,supporter0099@example.com,MAT004,Paris United - Monaco,2026-07-30,Standard,Tribune Nord,2,31,62,Guichet,True
+TKT00278,SUP0100,supporter0100@example.com,MAT011,Paris United - Bordeaux,2026-11-04,Standard,Tribune Nord,2,39,78,Application,True
+TKT00279,SUP0100,supporter0100@example.com,MAT006,Paris United - Rennes,2026-09-23,Standard,Tribune Est,1,46,46,Guichet,False
+TKT00280,SUP0101,supporter0101@example.com,MAT002,Paris United - Marseille,2026-07-13,Abonné,Tribune Est,2,49,98,Partenaire,True
+TKT00281,SUP0101,supporter0101@example.com,MAT006,Paris United - Rennes,2026-09-05,Abonné,Tribune Nord,1,30,30,Application,True
+TKT00282,SUP0101,supporter0101@example.com,MAT011,Paris United - Bordeaux,2026-12-06,Abonné,Tribune Ouest,1,50,50,Site web,True
+TKT00283,SUP0101,supporter0101@example.com,MAT003,Paris United - Lille,2026-09-02,Standard,Tribune Ouest,3,41,123,Partenaire,False
+TKT00284,SUP0101,supporter0101@example.com,MAT012,Paris United - Auxerre,2026-11-19,Abonné,Tribune Est,1,36,36,Application,True
+TKT00285,SUP0102,supporter0102@example.com,MAT011,Paris United - Bordeaux,2026-11-17,Abonné,Tribune Ouest,1,35,35,Application,True
+TKT00286,SUP0102,supporter0102@example.com,MAT006,Paris United - Rennes,2026-10-11,Standard,Tribune Nord,2,31,62,Partenaire,True
+TKT00287,SUP0102,supporter0102@example.com,MAT009,Paris United - Strasbourg,2026-11-12,Standard,Tribune Nord,2,46,92,Guichet,True
+TKT00288,SUP0102,supporter0102@example.com,MAT010,Paris United - Lens,2026-12-01,Abonné,Tribune Ouest,1,34,34,Partenaire,True
+TKT00289,SUP0102,supporter0102@example.com,MAT002,Paris United - Marseille,2026-07-29,Standard,Tribune Nord,2,82,164,Partenaire,True
+TKT00290,SUP0102,supporter0102@example.com,MAT004,Paris United - Monaco,2026-09-21,Abonné,Tribune Nord,1,21,21,Site web,True
+TKT00291,SUP0103,supporter0103@example.com,MAT010,Paris United - Lens,2026-12-13,Standard,Tribune Est,1,83,83,Partenaire,True
+TKT00292,SUP0103,supporter0103@example.com,MAT012,Paris United - Auxerre,2027-01-06,Standard,Tribune Est,2,85,170,Application,True
+TKT00293,SUP0103,supporter0103@example.com,MAT005,Paris United - Nantes,2026-09-14,Standard,Tribune Est,1,70,70,Site web,True
+TKT00294,SUP0103,supporter0103@example.com,MAT009,Paris United - Strasbourg,2026-10-18,VIP,Carré VIP,1,246,246,Partenaire,True
+TKT00295,SUP0104,supporter0104@example.com,MAT010,Paris United - Lens,2026-10-25,Standard,Tribune Ouest,1,40,40,Guichet,True
+TKT00296,SUP0105,supporter0105@example.com,MAT007,Paris United - Nice,2026-09-28,Standard,Tribune Ouest,1,40,40,Application,False
+TKT00297,SUP0106,supporter0106@example.com,MAT001,Paris United - Lyon,2026-08-01,Abonné,Tribune Sud,2,52,104,Application,True
+TKT00298,SUP0106,supporter0106@example.com,MAT009,Paris United - Strasbourg,2026-10-25,Abonné,Tribune Ouest,1,40,40,Application,False
+TKT00299,SUP0106,supporter0106@example.com,MAT012,Paris United - Auxerre,2027-01-05,Abonné,Tribune Est,1,41,41,Guichet,True
+TKT00300,SUP0106,supporter0106@example.com,MAT011,Paris United - Bordeaux,2026-11-21,Standard,Tribune Sud,1,65,65,Guichet,True
+TKT00301,SUP0106,supporter0106@example.com,MAT007,Paris United - Nice,2026-09-21,Standard,Tribune Sud,1,41,41,Site web,True
+TKT00302,SUP0106,supporter0106@example.com,MAT008,Paris United - Toulouse,2026-09-22,Standard,Tribune Ouest,2,86,172,Guichet,True
+TKT00303,SUP0107,supporter0107@example.com,MAT007,Paris United - Nice,2026-09-17,Standard,Tribune Nord,1,31,31,Guichet,True
+TKT00304,SUP0107,supporter0107@example.com,MAT001,Paris United - Lyon,2026-07-25,Standard,Tribune Nord,2,43,86,Site web,True
+TKT00305,SUP0107,supporter0107@example.com,MAT009,Paris United - Strasbourg,2026-10-20,Standard,Tribune Nord,2,82,164,Application,True
+TKT00306,SUP0107,supporter0107@example.com,MAT002,Paris United - Marseille,2026-07-07,Standard,Tribune Sud,1,74,74,Guichet,True
+TKT00307,SUP0107,supporter0107@example.com,MAT011,Paris United - Bordeaux,2026-11-10,Standard,Tribune Ouest,1,31,31,Guichet,False
+TKT00308,SUP0108,supporter0108@example.com,MAT001,Paris United - Lyon,2026-07-31,Standard,Tribune Sud,2,72,144,Application,True
+TKT00309,SUP0108,supporter0108@example.com,MAT012,Paris United - Auxerre,2027-01-02,Hospitalité,Carré VIP,1,199,199,Site web,True
+TKT00310,SUP0108,supporter0108@example.com,MAT005,Paris United - Nantes,2026-09-29,Standard,Tribune Est,1,79,79,Guichet,True
+TKT00311,SUP0108,supporter0108@example.com,MAT004,Paris United - Monaco,2026-09-03,Standard,Tribune Sud,1,84,84,Guichet,True
+TKT00312,SUP0108,supporter0108@example.com,MAT008,Paris United - Toulouse,2026-10-29,Standard,Tribune Nord,2,70,140,Application,True
+TKT00313,SUP0108,supporter0108@example.com,MAT007,Paris United - Nice,2026-10-01,Standard,Tribune Sud,1,89,89,Guichet,True
+TKT00314,SUP0109,supporter0109@example.com,MAT004,Paris United - Monaco,2026-08-06,Abonné,Tribune Est,1,41,41,Partenaire,True
+TKT00315,SUP0110,supporter0110@example.com,MAT011,Paris United - Bordeaux,2026-11-17,VIP,Carré VIP,3,182,546,Partenaire,False
+TKT00316,SUP0110,supporter0110@example.com,MAT001,Paris United - Lyon,2026-07-09,VIP,Carré VIP,1,149,149,Site web,True
+TKT00317,SUP0110,supporter0110@example.com,MAT002,Paris United - Marseille,2026-07-25,VIP,Carré VIP,1,215,215,Site web,True
+TKT00318,SUP0110,supporter0110@example.com,MAT006,Paris United - Rennes,2026-10-15,Standard,Tribune Est,1,49,49,Site web,True
+TKT00319,SUP0110,supporter0110@example.com,MAT008,Paris United - Toulouse,2026-10-22,Standard,Tribune Sud,2,51,102,Application,True
+TKT00320,SUP0110,supporter0110@example.com,MAT010,Paris United - Lens,2026-12-07,Standard,Tribune Nord,2,80,160,Guichet,True
+TKT00321,SUP0113,supporter0113@example.com,MAT005,Paris United - Nantes,2026-09-09,Standard,Tribune Est,1,54,54,Partenaire,True
+TKT00322,SUP0114,supporter0114@example.com,MAT007,Paris United - Nice,2026-09-28,Standard,Tribune Nord,2,25,50,Site web,True
+TKT00323,SUP0114,supporter0114@example.com,MAT011,Paris United - Bordeaux,2026-11-17,Standard,Tribune Nord,1,89,89,Site web,True
+TKT00324,SUP0115,supporter0115@example.com,MAT008,Paris United - Toulouse,2026-11-04,Standard,Tribune Ouest,1,28,28,Partenaire,True
+TKT00325,SUP0116,supporter0116@example.com,MAT009,Paris United - Strasbourg,2026-10-28,Standard,Tribune Nord,1,72,72,Site web,True
+TKT00326,SUP0116,supporter0116@example.com,MAT005,Paris United - Nantes,2026-08-21,Standard,Tribune Nord,1,75,75,Guichet,True
+TKT00327,SUP0116,supporter0116@example.com,MAT003,Paris United - Lille,2026-08-26,Standard,Tribune Sud,1,90,90,Guichet,True
+TKT00328,SUP0116,supporter0116@example.com,MAT011,Paris United - Bordeaux,2026-11-25,Standard,Tribune Nord,2,48,96,Site web,True
+TKT00329,SUP0117,supporter0117@example.com,MAT002,Paris United - Marseille,2026-08-04,Abonné,Tribune Ouest,3,32,96,Application,True
+TKT00330,SUP0118,supporter0118@example.com,MAT010,Paris United - Lens,2026-11-25,Standard,Tribune Est,1,49,49,Guichet,True
+TKT00331,SUP0119,supporter0119@example.com,MAT003,Paris United - Lille,2026-08-20,Abonné,Tribune Ouest,1,40,40,Application,True
+TKT00332,SUP0119,supporter0119@example.com,MAT010,Paris United - Lens,2026-12-08,Abonné,Tribune Est,2,47,94,Guichet,True
+TKT00333,SUP0119,supporter0119@example.com,MAT011,Paris United - Bordeaux,2026-12-11,Standard,Tribune Ouest,1,84,84,Site web,True
+TKT00334,SUP0120,supporter0120@example.com,MAT010,Paris United - Lens,2026-12-04,Standard,Tribune Sud,2,60,120,Site web,True
+TKT00335,SUP0121,supporter0121@example.com,MAT001,Paris United - Lyon,2026-07-08,Standard,Tribune Sud,3,76,228,Partenaire,True
+TKT00336,SUP0121,supporter0121@example.com,MAT009,Paris United - Strasbourg,2026-10-06,Abonné,Tribune Est,1,29,29,Guichet,True
+TKT00337,SUP0121,supporter0121@example.com,MAT012,Paris United - Auxerre,2026-12-12,Abonné,Tribune Nord,1,52,52,Application,True
+TKT00338,SUP0122,supporter0122@example.com,MAT010,Paris United - Lens,2026-11-10,Standard,Tribune Sud,1,45,45,Application,True
+TKT00339,SUP0122,supporter0122@example.com,MAT011,Paris United - Bordeaux,2026-11-12,Standard,Tribune Est,1,86,86,Site web,True
+TKT00340,SUP0122,supporter0122@example.com,MAT003,Paris United - Lille,2026-08-07,Standard,Tribune Nord,2,54,108,Guichet,False
+TKT00341,SUP0122,supporter0122@example.com,MAT009,Paris United - Strasbourg,2026-10-22,Standard,Tribune Nord,1,83,83,Guichet,True
+TKT00342,SUP0123,supporter0123@example.com,MAT005,Paris United - Nantes,2026-08-11,Standard,Tribune Est,1,73,73,Guichet,True
+TKT00343,SUP0123,supporter0123@example.com,MAT010,Paris United - Lens,2026-10-22,Standard,Tribune Ouest,1,53,53,Partenaire,True
+TKT00344,SUP0123,supporter0123@example.com,MAT009,Paris United - Strasbourg,2026-11-24,VIP,Carré VIP,1,121,121,Application,True
+TKT00345,SUP0123,supporter0123@example.com,MAT003,Paris United - Lille,2026-08-30,Standard,Tribune Sud,1,60,60,Site web,True
+TKT00346,SUP0124,supporter0124@example.com,MAT007,Paris United - Nice,2026-10-25,Standard,Tribune Ouest,1,86,86,Partenaire,True
+TKT00347,SUP0124,supporter0124@example.com,MAT006,Paris United - Rennes,2026-10-11,Standard,Tribune Sud,1,30,30,Site web,True
+TKT00348,SUP0124,supporter0124@example.com,MAT002,Paris United - Marseille,2026-08-10,VIP,Carré VIP,1,157,157,Partenaire,False
+TKT00349,SUP0125,supporter0125@example.com,MAT010,Paris United - Lens,2026-11-08,Standard,Tribune Nord,1,61,61,Partenaire,False
+TKT00350,SUP0125,supporter0125@example.com,MAT011,Paris United - Bordeaux,2026-11-08,Abonné,Tribune Sud,2,46,92,Guichet,True
+TKT00351,SUP0125,supporter0125@example.com,MAT001,Paris United - Lyon,2026-08-08,Abonné,Tribune Ouest,1,41,41,Partenaire,True
+TKT00352,SUP0126,supporter0126@example.com,MAT001,Paris United - Lyon,2026-07-05,Standard,Tribune Ouest,2,89,178,Partenaire,True
+TKT00353,SUP0127,supporter0127@example.com,MAT010,Paris United - Lens,2026-10-28,Standard,Tribune Nord,2,41,82,Partenaire,True
+TKT00354,SUP0127,supporter0127@example.com,MAT001,Paris United - Lyon,2026-07-16,Standard,Tribune Nord,2,72,144,Partenaire,True
+TKT00355,SUP0127,supporter0127@example.com,MAT009,Paris United - Strasbourg,2026-10-16,Standard,Tribune Est,1,73,73,Site web,False
+TKT00356,SUP0127,supporter0127@example.com,MAT012,Paris United - Auxerre,2026-11-20,Standard,Tribune Ouest,2,57,114,Partenaire,True
+TKT00357,SUP0127,supporter0127@example.com,MAT002,Paris United - Marseille,2026-08-19,Standard,Tribune Nord,1,25,25,Partenaire,True
+TKT00358,SUP0128,supporter0128@example.com,MAT012,Paris United - Auxerre,2026-12-28,Standard,Tribune Ouest,2,44,88,Partenaire,True
+TKT00359,SUP0128,supporter0128@example.com,MAT006,Paris United - Rennes,2026-09-25,Standard,Tribune Ouest,2,60,120,Partenaire,True
+TKT00360,SUP0128,supporter0128@example.com,MAT007,Paris United - Nice,2026-09-29,Standard,Tribune Est,4,86,344,Partenaire,True
+TKT00361,SUP0129,supporter0129@example.com,MAT011,Paris United - Bordeaux,2026-12-05,Standard,Tribune Nord,1,45,45,Site web,True
+TKT00362,SUP0129,supporter0129@example.com,MAT002,Paris United - Marseille,2026-07-27,Standard,Tribune Nord,2,25,50,Partenaire,False
+TKT00363,SUP0129,supporter0129@example.com,MAT004,Paris United - Monaco,2026-08-16,Standard,Tribune Sud,1,58,58,Partenaire,True
+TKT00364,SUP0130,supporter0130@example.com,MAT007,Paris United - Nice,2026-10-23,Standard,Tribune Ouest,1,47,47,Guichet,True
+TKT00365,SUP0130,supporter0130@example.com,MAT010,Paris United - Lens,2026-11-03,Abonné,Tribune Sud,2,52,104,Application,True
+TKT00366,SUP0130,supporter0130@example.com,MAT009,Paris United - Strasbourg,2026-10-14,Abonné,Tribune Nord,4,30,120,Partenaire,True
+TKT00367,SUP0130,supporter0130@example.com,MAT005,Paris United - Nantes,2026-10-03,Abonné,Tribune Nord,2,32,64,Guichet,False
+TKT00368,SUP0130,supporter0130@example.com,MAT001,Paris United - Lyon,2026-06-21,Abonné,Tribune Est,1,55,55,Application,True
+TKT00369,SUP0131,supporter0131@example.com,MAT007,Paris United - Nice,2026-09-30,Standard,Tribune Ouest,1,47,47,Guichet,True
+TKT00370,SUP0131,supporter0131@example.com,MAT010,Paris United - Lens,2026-10-25,Standard,Tribune Est,2,39,78,Guichet,True
+TKT00371,SUP0132,supporter0132@example.com,MAT007,Paris United - Nice,2026-09-08,Standard,Tribune Ouest,2,68,136,Site web,True
+TKT00372,SUP0132,supporter0132@example.com,MAT010,Paris United - Lens,2026-10-27,Abonné,Tribune Nord,1,36,36,Application,False
+TKT00373,SUP0132,supporter0132@example.com,MAT008,Paris United - Toulouse,2026-11-18,Standard,Tribune Est,1,77,77,Guichet,True
+TKT00374,SUP0133,supporter0133@example.com,MAT002,Paris United - Marseille,2026-08-15,Standard,Tribune Nord,1,68,68,Guichet,True
+TKT00375,SUP0134,supporter0134@example.com,MAT010,Paris United - Lens,2026-12-01,Abonné,Tribune Ouest,2,32,64,Guichet,True
+TKT00376,SUP0135,supporter0135@example.com,MAT004,Paris United - Monaco,2026-09-16,Standard,Tribune Sud,2,70,140,Partenaire,False
+TKT00377,SUP0136,supporter0136@example.com,MAT009,Paris United - Strasbourg,2026-10-07,Abonné,Tribune Ouest,2,40,80,Guichet,False
+TKT00378,SUP0136,supporter0136@example.com,MAT001,Paris United - Lyon,2026-06-25,Abonné,Tribune Est,1,52,52,Site web,True
+TKT00379,SUP0136,supporter0136@example.com,MAT008,Paris United - Toulouse,2026-11-16,Abonné,Tribune Ouest,3,47,141,Partenaire,True
+TKT00380,SUP0137,supporter0137@example.com,MAT003,Paris United - Lille,2026-08-16,Abonné,Tribune Nord,2,20,40,Guichet,True
+TKT00381,SUP0137,supporter0137@example.com,MAT008,Paris United - Toulouse,2026-11-03,Abonné,Tribune Sud,1,36,36,Guichet,True
+TKT00382,SUP0137,supporter0137@example.com,MAT002,Paris United - Marseille,2026-07-13,Abonné,Tribune Ouest,1,51,51,Guichet,True
+TKT00383,SUP0137,supporter0137@example.com,MAT009,Paris United - Strasbourg,2026-11-24,Standard,Tribune Ouest,1,60,60,Application,False
+TKT00384,SUP0138,supporter0138@example.com,MAT012,Paris United - Auxerre,2026-11-27,Standard,Tribune Sud,1,73,73,Site web,True
+TKT00385,SUP0138,supporter0138@example.com,MAT005,Paris United - Nantes,2026-08-14,Standard,Tribune Sud,4,88,352,Guichet,True
+TKT00386,SUP0138,supporter0138@example.com,MAT004,Paris United - Monaco,2026-08-18,Standard,Tribune Est,1,63,63,Site web,True
+TKT00387,SUP0138,supporter0138@example.com,MAT009,Paris United - Strasbourg,2026-11-02,Standard,Tribune Sud,2,32,64,Site web,True
+TKT00388,SUP0139,supporter0139@example.com,MAT006,Paris United - Rennes,2026-09-25,Abonné,Tribune Est,1,55,55,Application,True
+TKT00389,SUP0139,supporter0139@example.com,MAT005,Paris United - Nantes,2026-09-19,Abonné,Tribune Sud,4,54,216,Partenaire,True
+TKT00390,SUP0140,supporter0140@example.com,MAT008,Paris United - Toulouse,2026-10-28,Standard,Tribune Sud,2,43,86,Partenaire,True
+TKT00391,SUP0140,supporter0140@example.com,MAT002,Paris United - Marseille,2026-08-12,Standard,Tribune Nord,1,34,34,Guichet,True
+TKT00392,SUP0140,supporter0140@example.com,MAT007,Paris United - Nice,2026-09-16,Standard,Tribune Est,2,75,150,Guichet,True
+TKT00393,SUP0140,supporter0140@example.com,MAT005,Paris United - Nantes,2026-08-14,Standard,Tribune Ouest,1,82,82,Application,True
+TKT00394,SUP0141,supporter0141@example.com,MAT012,Paris United - Auxerre,2026-11-18,Abonné,Tribune Nord,1,26,26,Site web,True
+TKT00395,SUP0141,supporter0141@example.com,MAT002,Paris United - Marseille,2026-07-18,Abonné,Tribune Nord,1,45,45,Partenaire,True
+TKT00396,SUP0141,supporter0141@example.com,MAT004,Paris United - Monaco,2026-09-15,Abonné,Tribune Est,1,35,35,Application,True
+TKT00397,SUP0143,supporter0143@example.com,MAT006,Paris United - Rennes,2026-10-13,VIP,Carré VIP,1,189,189,Application,False
+TKT00398,SUP0143,supporter0143@example.com,MAT008,Paris United - Toulouse,2026-10-09,Abonné,Tribune Ouest,1,49,49,Guichet,True
+TKT00399,SUP0143,supporter0143@example.com,MAT011,Paris United - Bordeaux,2026-12-07,Abonné,Tribune Nord,1,34,34,Application,True
+TKT00400,SUP0144,supporter0144@example.com,MAT001,Paris United - Lyon,2026-07-09,Standard,Tribune Est,1,42,42,Partenaire,True
+TKT00401,SUP0144,supporter0144@example.com,MAT009,Paris United - Strasbourg,2026-11-05,Standard,Tribune Est,1,86,86,Application,True
+TKT00402,SUP0145,supporter0145@example.com,MAT009,Paris United - Strasbourg,2026-11-22,VIP,Carré VIP,1,231,231,Partenaire,True
+TKT00403,SUP0145,supporter0145@example.com,MAT006,Paris United - Rennes,2026-09-11,Standard,Tribune Est,1,53,53,Guichet,True
+TKT00404,SUP0145,supporter0145@example.com,MAT004,Paris United - Monaco,2026-09-19,Standard,Tribune Ouest,1,59,59,Guichet,True
+TKT00405,SUP0145,supporter0145@example.com,MAT007,Paris United - Nice,2026-09-26,Standard,Tribune Ouest,1,83,83,Guichet,True
+TKT00406,SUP0148,supporter0148@example.com,MAT003,Paris United - Lille,2026-08-26,Standard,Tribune Ouest,2,41,82,Site web,True
+TKT00407,SUP0148,supporter0148@example.com,MAT002,Paris United - Marseille,2026-07-06,Standard,Tribune Ouest,1,68,68,Guichet,True
+TKT00408,SUP0149,supporter0149@example.com,MAT001,Paris United - Lyon,2026-07-18,Standard,Tribune Nord,1,43,43,Partenaire,True
+TKT00409,SUP0149,supporter0149@example.com,MAT006,Paris United - Rennes,2026-10-14,Standard,Tribune Ouest,2,57,114,Application,False
+TKT00410,SUP0150,supporter0150@example.com,MAT008,Paris United - Toulouse,2026-09-30,Standard,Tribune Sud,1,29,29,Application,True
+TKT00411,SUP0150,supporter0150@example.com,MAT004,Paris United - Monaco,2026-08-08,Standard,Tribune Est,1,64,64,Site web,True
+TKT00412,SUP0151,supporter0151@example.com,MAT011,Paris United - Bordeaux,2026-12-17,Standard,Tribune Nord,2,71,142,Application,False
+TKT00413,SUP0152,supporter0152@example.com,MAT006,Paris United - Rennes,2026-10-21,Standard,Tribune Ouest,2,40,80,Partenaire,False
+TKT00414,SUP0152,supporter0152@example.com,MAT001,Paris United - Lyon,2026-07-28,Abonné,Tribune Est,2,29,58,Site web,True
+TKT00415,SUP0152,supporter0152@example.com,MAT003,Paris United - Lille,2026-07-30,Abonné,Tribune Nord,1,41,41,Site web,True
+TKT00416,SUP0153,supporter0153@example.com,MAT004,Paris United - Monaco,2026-08-26,Abonné,Tribune Est,2,55,110,Site web,True
+TKT00417,SUP0154,supporter0154@example.com,MAT006,Paris United - Rennes,2026-09-16,VIP,Carré VIP,2,244,488,Partenaire,True
+TKT00418,SUP0154,supporter0154@example.com,MAT003,Paris United - Lille,2026-08-11,Standard,Tribune Est,1,48,48,Application,True
+TKT00419,SUP0154,supporter0154@example.com,MAT005,Paris United - Nantes,2026-09-21,Standard,Tribune Ouest,1,44,44,Partenaire,True
+TKT00420,SUP0156,supporter0156@example.com,MAT007,Paris United - Nice,2026-10-31,Standard,Tribune Sud,1,71,71,Partenaire,True
+TKT00421,SUP0156,supporter0156@example.com,MAT003,Paris United - Lille,2026-08-20,Standard,Tribune Sud,2,88,176,Guichet,True
+TKT00422,SUP0156,supporter0156@example.com,MAT001,Paris United - Lyon,2026-08-04,Standard,Tribune Nord,2,33,66,Site web,True
+TKT00423,SUP0157,supporter0157@example.com,MAT008,Paris United - Toulouse,2026-10-16,Standard,Tribune Ouest,2,29,58,Guichet,True
+TKT00424,SUP0159,supporter0159@example.com,MAT012,Paris United - Auxerre,2026-11-21,Standard,Tribune Ouest,3,51,153,Site web,True
+TKT00425,SUP0160,supporter0160@example.com,MAT012,Paris United - Auxerre,2026-11-28,Standard,Tribune Est,1,32,32,Guichet,True
+TKT00426,SUP0160,supporter0160@example.com,MAT007,Paris United - Nice,2026-10-21,Standard,Tribune Nord,1,52,52,Application,True
+TKT00427,SUP0161,supporter0161@example.com,MAT011,Paris United - Bordeaux,2026-11-11,Standard,Tribune Ouest,2,47,94,Guichet,True
+TKT00428,SUP0162,supporter0162@example.com,MAT012,Paris United - Auxerre,2026-12-12,Standard,Tribune Sud,1,46,46,Application,True
+TKT00429,SUP0162,supporter0162@example.com,MAT011,Paris United - Bordeaux,2026-11-25,Abonné,Tribune Est,3,48,144,Guichet,False
+TKT00430,SUP0162,supporter0162@example.com,MAT007,Paris United - Nice,2026-10-15,Standard,Tribune Ouest,2,77,154,Application,True
+TKT00431,SUP0163,supporter0163@example.com,MAT009,Paris United - Strasbourg,2026-12-02,Standard,Tribune Ouest,3,82,246,Guichet,True
+TKT00432,SUP0163,supporter0163@example.com,MAT005,Paris United - Nantes,2026-09-23,Standard,Tribune Est,1,42,42,Guichet,True
+TKT00433,SUP0165,supporter0165@example.com,MAT012,Paris United - Auxerre,2026-12-22,Standard,Tribune Nord,1,44,44,Guichet,True
+TKT00434,SUP0165,supporter0165@example.com,MAT005,Paris United - Nantes,2026-09-18,Standard,Tribune Sud,1,56,56,Partenaire,True
+TKT00435,SUP0165,supporter0165@example.com,MAT009,Paris United - Strasbourg,2026-10-13,Standard,Tribune Nord,2,52,104,Partenaire,True
+TKT00436,SUP0165,supporter0165@example.com,MAT010,Paris United - Lens,2026-10-26,Standard,Tribune Est,1,37,37,Site web,True
+TKT00437,SUP0166,supporter0166@example.com,MAT006,Paris United - Rennes,2026-08-28,Standard,Tribune Sud,2,40,80,Site web,True
+TKT00438,SUP0166,supporter0166@example.com,MAT012,Paris United - Auxerre,2027-01-11,Abonné,Tribune Nord,1,44,44,Application,True
+TKT00439,SUP0166,supporter0166@example.com,MAT007,Paris United - Nice,2026-09-19,Abonné,Tribune Sud,1,34,34,Partenaire,False
+TKT00440,SUP0166,supporter0166@example.com,MAT010,Paris United - Lens,2026-11-28,Standard,Tribune Nord,1,89,89,Application,True
+TKT00441,SUP0167,supporter0167@example.com,MAT002,Paris United - Marseille,2026-08-01,Standard,Tribune Ouest,1,31,31,Application,True
+TKT00442,SUP0168,supporter0168@example.com,MAT008,Paris United - Toulouse,2026-11-01,Abonné,Tribune Sud,1,32,32,Guichet,True
+TKT00443,SUP0168,supporter0168@example.com,MAT009,Paris United - Strasbourg,2026-11-05,Abonné,Tribune Nord,2,25,50,Application,True
+TKT00444,SUP0168,supporter0168@example.com,MAT004,Paris United - Monaco,2026-09-01,Abonné,Tribune Est,1,21,21,Partenaire,True
+TKT00445,SUP0168,supporter0168@example.com,MAT012,Paris United - Auxerre,2026-12-30,Abonné,Tribune Nord,3,48,144,Guichet,True
+TKT00446,SUP0169,supporter0169@example.com,MAT012,Paris United - Auxerre,2026-12-29,VIP,Carré VIP,2,148,296,Application,False
+TKT00447,SUP0170,supporter0170@example.com,MAT005,Paris United - Nantes,2026-08-21,Abonné,Tribune Nord,1,50,50,Application,True
+TKT00448,SUP0170,supporter0170@example.com,MAT001,Paris United - Lyon,2026-08-03,Abonné,Tribune Ouest,2,36,72,Site web,True
+TKT00449,SUP0170,supporter0170@example.com,MAT006,Paris United - Rennes,2026-10-18,Abonné,Tribune Nord,1,53,53,Guichet,True
+TKT00450,SUP0170,supporter0170@example.com,MAT002,Paris United - Marseille,2026-08-09,Abonné,Tribune Nord,1,20,20,Guichet,True
+TKT00451,SUP0171,supporter0171@example.com,MAT001,Paris United - Lyon,2026-08-06,Hospitalité,Carré VIP,4,310,1240,Partenaire,False
+TKT00452,SUP0171,supporter0171@example.com,MAT005,Paris United - Nantes,2026-09-05,VIP,Carré VIP,1,142,142,Site web,False
+TKT00453,SUP0171,supporter0171@example.com,MAT007,Paris United - Nice,2026-09-18,Standard,Tribune Est,1,64,64,Guichet,True
+TKT00454,SUP0171,supporter0171@example.com,MAT004,Paris United - Monaco,2026-08-22,Standard,Tribune Est,1,70,70,Site web,True
+TKT00455,SUP0172,supporter0172@example.com,MAT007,Paris United - Nice,2026-10-10,Standard,Tribune Sud,1,53,53,Site web,True
+TKT00456,SUP0172,supporter0172@example.com,MAT001,Paris United - Lyon,2026-07-07,Abonné,Tribune Sud,1,53,53,Guichet,True
+TKT00457,SUP0172,supporter0172@example.com,MAT009,Paris United - Strasbourg,2026-11-19,Standard,Tribune Ouest,1,67,67,Application,True
+TKT00458,SUP0173,supporter0173@example.com,MAT005,Paris United - Nantes,2026-09-01,Hospitalité,Carré VIP,2,217,434,Guichet,False
+TKT00459,SUP0173,supporter0173@example.com,MAT009,Paris United - Strasbourg,2026-10-07,Standard,Tribune Sud,1,40,40,Site web,True
+TKT00460,SUP0173,supporter0173@example.com,MAT003,Paris United - Lille,2026-07-24,Standard,Tribune Ouest,1,77,77,Guichet,False
+TKT00461,SUP0173,supporter0173@example.com,MAT007,Paris United - Nice,2026-11-03,Standard,Tribune Nord,1,49,49,Guichet,True
+TKT00462,SUP0174,supporter0174@example.com,MAT010,Paris United - Lens,2026-10-28,Abonné,Tribune Est,1,21,21,Partenaire,True
+TKT00463,SUP0174,supporter0174@example.com,MAT004,Paris United - Monaco,2026-08-23,Abonné,Tribune Sud,2,43,86,Application,True
+TKT00464,SUP0174,supporter0174@example.com,MAT012,Paris United - Auxerre,2027-01-13,Abonné,Tribune Ouest,2,22,44,Partenaire,False
+TKT00465,SUP0175,supporter0175@example.com,MAT011,Paris United - Bordeaux,2026-12-02,Hospitalité,Carré VIP,1,232,232,Partenaire,True
+TKT00466,SUP0176,supporter0176@example.com,MAT008,Paris United - Toulouse,2026-10-24,Standard,Tribune Ouest,2,30,60,Site web,True
+TKT00467,SUP0176,supporter0176@example.com,MAT004,Paris United - Monaco,2026-09-21,Standard,Tribune Ouest,2,82,164,Application,True
+TKT00468,SUP0176,supporter0176@example.com,MAT007,Paris United - Nice,2026-10-02,Standard,Tribune Nord,1,75,75,Site web,True
+TKT00469,SUP0177,supporter0177@example.com,MAT008,Paris United - Toulouse,2026-10-22,Abonné,Tribune Est,1,39,39,Site web,True
+TKT00470,SUP0178,supporter0178@example.com,MAT003,Paris United - Lille,2026-08-03,Standard,Tribune Nord,1,89,89,Application,False
+TKT00471,SUP0178,supporter0178@example.com,MAT008,Paris United - Toulouse,2026-10-20,Standard,Tribune Ouest,1,66,66,Application,True
+TKT00472,SUP0178,supporter0178@example.com,MAT011,Paris United - Bordeaux,2026-11-16,VIP,Carré VIP,1,143,143,Application,True
+TKT00473,SUP0179,supporter0179@example.com,MAT002,Paris United - Marseille,2026-08-02,Standard,Tribune Nord,1,71,71,Application,True
+TKT00474,SUP0179,supporter0179@example.com,MAT012,Paris United - Auxerre,2026-12-23,Standard,Tribune Nord,2,73,146,Application,True
+TKT00475,SUP0179,supporter0179@example.com,MAT011,Paris United - Bordeaux,2026-12-27,Standard,Tribune Sud,2,43,86,Guichet,True
+TKT00476,SUP0180,supporter0180@example.com,MAT008,Paris United - Toulouse,2026-10-01,Abonné,Tribune Sud,1,28,28,Partenaire,True
+TKT00477,SUP0180,supporter0180@example.com,MAT005,Paris United - Nantes,2026-09-06,Abonné,Tribune Nord,2,51,102,Partenaire,True
+TKT00478,SUP0180,supporter0180@example.com,MAT003,Paris United - Lille,2026-09-09,Abonné,Tribune Nord,2,48,96,Guichet,True
+TKT00479,SUP0181,supporter0181@example.com,MAT009,Paris United - Strasbourg,2026-10-09,Standard,Tribune Est,1,32,32,Guichet,True
+TKT00480,SUP0181,supporter0181@example.com,MAT004,Paris United - Monaco,2026-09-12,Standard,Tribune Nord,1,36,36,Guichet,True
+TKT00481,SUP0181,supporter0181@example.com,MAT001,Paris United - Lyon,2026-07-20,Standard,Tribune Ouest,2,47,94,Site web,False
+TKT00482,SUP0182,supporter0182@example.com,MAT006,Paris United - Rennes,2026-10-14,Standard,Tribune Est,1,33,33,Guichet,True
+TKT00483,SUP0182,supporter0182@example.com,MAT012,Paris United - Auxerre,2026-12-05,Abonné,Tribune Sud,2,46,92,Site web,True
+TKT00484,SUP0182,supporter0182@example.com,MAT007,Paris United - Nice,2026-10-15,Abonné,Tribune Ouest,2,38,76,Guichet,True
+TKT00485,SUP0182,supporter0182@example.com,MAT002,Paris United - Marseille,2026-08-15,Standard,Tribune Ouest,1,88,88,Application,False
+TKT00486,SUP0183,supporter0183@example.com,MAT004,Paris United - Monaco,2026-08-28,Standard,Tribune Sud,2,40,80,Guichet,True
+TKT00487,SUP0183,supporter0183@example.com,MAT001,Paris United - Lyon,2026-06-29,Standard,Tribune Nord,2,52,104,Site web,True
+TKT00488,SUP0183,supporter0183@example.com,MAT002,Paris United - Marseille,2026-08-19,Standard,Tribune Est,2,89,178,Guichet,True
+TKT00489,SUP0184,supporter0184@example.com,MAT010,Paris United - Lens,2026-10-24,Hospitalité,Carré VIP,1,224,224,Partenaire,True
+TKT00490,SUP0184,supporter0184@example.com,MAT012,Paris United - Auxerre,2026-12-14,VIP,Carré VIP,2,129,258,Partenaire,True
+TKT00491,SUP0185,supporter0185@example.com,MAT009,Paris United - Strasbourg,2026-12-01,Standard,Tribune Est,1,63,63,Guichet,True
+TKT00492,SUP0185,supporter0185@example.com,MAT006,Paris United - Rennes,2026-10-04,Standard,Tribune Nord,3,70,210,Guichet,True
+TKT00493,SUP0185,supporter0185@example.com,MAT008,Paris United - Toulouse,2026-11-08,Hospitalité,Carré VIP,1,340,340,Partenaire,True
+TKT00494,SUP0185,supporter0185@example.com,MAT007,Paris United - Nice,2026-10-15,Standard,Tribune Est,2,39,78,Guichet,True
+TKT00495,SUP0185,supporter0185@example.com,MAT001,Paris United - Lyon,2026-06-20,Standard,Tribune Sud,1,88,88,Application,False
+TKT00496,SUP0186,supporter0186@example.com,MAT003,Paris United - Lille,2026-08-12,Abonné,Tribune Sud,3,22,66,Partenaire,True
+TKT00497,SUP0186,supporter0186@example.com,MAT002,Paris United - Marseille,2026-07-27,Standard,Tribune Sud,1,44,44,Guichet,True
+TKT00498,SUP0187,supporter0187@example.com,MAT003,Paris United - Lille,2026-07-16,Standard,Tribune Ouest,1,29,29,Site web,True
+TKT00499,SUP0187,supporter0187@example.com,MAT002,Paris United - Marseille,2026-07-01,Standard,Tribune Nord,1,30,30,Guichet,True
+TKT00500,SUP0187,supporter0187@example.com,MAT009,Paris United - Strasbourg,2026-11-20,Standard,Tribune Sud,1,64,64,Guichet,True
+TKT00501,SUP0187,supporter0187@example.com,MAT012,Paris United - Auxerre,2026-12-27,Standard,Tribune Est,1,40,40,Site web,True
+TKT00502,SUP0188,supporter0188@example.com,MAT006,Paris United - Rennes,2026-08-31,Standard,Tribune Sud,3,59,177,Application,True
+TKT00503,SUP0189,supporter0189@example.com,MAT005,Paris United - Nantes,2026-10-06,Abonné,Tribune Ouest,1,41,41,Site web,True
+TKT00504,SUP0190,supporter0190@example.com,MAT001,Paris United - Lyon,2026-06-16,Standard,Tribune Sud,2,75,150,Partenaire,True
+TKT00505,SUP0191,supporter0191@example.com,MAT005,Paris United - Nantes,2026-08-20,Abonné,Tribune Nord,4,54,216,Application,True
+TKT00506,SUP0191,supporter0191@example.com,MAT006,Paris United - Rennes,2026-09-08,Abonné,Tribune Nord,1,49,49,Partenaire,True
+TKT00507,SUP0191,supporter0191@example.com,MAT004,Paris United - Monaco,2026-08-15,Abonné,Tribune Sud,2,34,68,Guichet,True
+TKT00508,SUP0192,supporter0192@example.com,MAT012,Paris United - Auxerre,2027-01-09,Standard,Tribune Ouest,1,66,66,Guichet,True
+TKT00509,SUP0192,supporter0192@example.com,MAT011,Paris United - Bordeaux,2026-11-22,Standard,Tribune Est,2,46,92,Site web,True
+TKT00510,SUP0193,supporter0193@example.com,MAT012,Paris United - Auxerre,2026-12-19,Standard,Tribune Est,1,34,34,Application,True
+TKT00511,SUP0193,supporter0193@example.com,MAT002,Paris United - Marseille,2026-08-05,Standard,Tribune Ouest,1,45,45,Partenaire,True
+TKT00512,SUP0194,supporter0194@example.com,MAT007,Paris United - Nice,2026-09-20,Abonné,Tribune Nord,2,31,62,Partenaire,True
+TKT00513,SUP0194,supporter0194@example.com,MAT010,Paris United - Lens,2026-10-25,Abonné,Tribune Est,1,49,49,Guichet,True
+TKT00514,SUP0194,supporter0194@example.com,MAT006,Paris United - Rennes,2026-09-08,VIP,Carré VIP,1,137,137,Partenaire,True
+TKT00515,SUP0194,supporter0194@example.com,MAT009,Paris United - Strasbourg,2026-11-24,Abonné,Tribune Nord,1,23,23,Site web,False
+TKT00516,SUP0195,supporter0195@example.com,MAT011,Paris United - Bordeaux,2026-11-04,Standard,Tribune Sud,1,82,82,Guichet,True
+TKT00517,SUP0195,supporter0195@example.com,MAT003,Paris United - Lille,2026-08-18,VIP,Carré VIP,2,231,462,Site web,False
+TKT00518,SUP0195,supporter0195@example.com,MAT008,Paris United - Toulouse,2026-09-25,Standard,Tribune Ouest,2,90,180,Guichet,True
+TKT00519,SUP0195,supporter0195@example.com,MAT009,Paris United - Strasbourg,2026-10-28,VIP,Carré VIP,1,133,133,Guichet,True
+TKT00520,SUP0196,supporter0196@example.com,MAT005,Paris United - Nantes,2026-08-31,VIP,Carré VIP,1,180,180,Guichet,True
+TKT00521,SUP0197,supporter0197@example.com,MAT007,Paris United - Nice,2026-09-30,Standard,Tribune Ouest,1,47,47,Guichet,True
+TKT00522,SUP0197,supporter0197@example.com,MAT012,Paris United - Auxerre,2026-12-02,Standard,Tribune Est,4,44,176,Site web,True
+TKT00523,SUP0197,supporter0197@example.com,MAT011,Paris United - Bordeaux,2026-11-29,Standard,Tribune Sud,2,27,54,Application,True
+TKT00524,SUP0199,supporter0199@example.com,MAT007,Paris United - Nice,2026-10-08,VIP,Carré VIP,1,166,166,Partenaire,True
+TKT00525,SUP0199,supporter0199@example.com,MAT008,Paris United - Toulouse,2026-11-18,Standard,Tribune Sud,1,53,53,Application,True
+TKT00526,SUP0199,supporter0199@example.com,MAT010,Paris United - Lens,2026-11-10,Standard,Tribune Ouest,3,59,177,Site web,True
+TKT00527,SUP0200,supporter0200@example.com,MAT012,Paris United - Auxerre,2026-12-11,Standard,Tribune Sud,2,35,70,Guichet,False
+TKT00528,SUP0200,supporter0200@example.com,MAT006,Paris United - Rennes,2026-09-11,Standard,Tribune Nord,1,35,35,Site web,True
+TKT00529,SUP0200,supporter0200@example.com,MAT002,Paris United - Marseille,2026-07-23,Standard,Tribune Nord,3,64,192,Partenaire,True
+TKT00530,SUP0201,supporter0201@example.com,MAT008,Paris United - Toulouse,2026-09-28,Standard,Tribune Est,3,78,234,Application,True
+TKT00531,SUP0201,supporter0201@example.com,MAT010,Paris United - Lens,2026-11-16,Standard,Tribune Est,1,63,63,Site web,True
+TKT00532,SUP0202,supporter0202@example.com,MAT005,Paris United - Nantes,2026-08-14,Standard,Tribune Sud,1,35,35,Guichet,True
+TKT00533,SUP0202,supporter0202@example.com,MAT010,Paris United - Lens,2026-12-16,Standard,Tribune Est,2,60,120,Application,True
+TKT00534,SUP0202,supporter0202@example.com,MAT001,Paris United - Lyon,2026-07-20,VIP,Carré VIP,2,158,316,Guichet,True
+TKT00535,SUP0203,supporter0203@example.com,MAT004,Paris United - Monaco,2026-09-14,VIP,Carré VIP,4,207,828,Application,True
+TKT00536,SUP0203,supporter0203@example.com,MAT008,Paris United - Toulouse,2026-10-21,Standard,Tribune Ouest,1,77,77,Application,True
+TKT00537,SUP0203,supporter0203@example.com,MAT003,Paris United - Lille,2026-07-23,Standard,Tribune Nord,2,69,138,Site web,True
+TKT00538,SUP0203,supporter0203@example.com,MAT009,Paris United - Strasbourg,2026-10-16,Standard,Tribune Ouest,1,76,76,Application,False
+TKT00539,SUP0204,supporter0204@example.com,MAT012,Paris United - Auxerre,2026-11-23,Standard,Tribune Ouest,1,43,43,Guichet,True
+TKT00540,SUP0204,supporter0204@example.com,MAT007,Paris United - Nice,2026-10-01,Hospitalité,Carré VIP,1,190,190,Partenaire,True
+TKT00541,SUP0205,supporter0205@example.com,MAT011,Paris United - Bordeaux,2026-12-05,Standard,Tribune Est,2,37,74,Application,True
+TKT00542,SUP0205,supporter0205@example.com,MAT005,Paris United - Nantes,2026-09-26,Standard,Tribune Est,2,49,98,Site web,True
+TKT00543,SUP0205,supporter0205@example.com,MAT006,Paris United - Rennes,2026-09-18,Standard,Tribune Nord,1,33,33,Partenaire,True
+TKT00544,SUP0206,supporter0206@example.com,MAT012,Paris United - Auxerre,2027-01-10,Abonné,Tribune Nord,2,22,44,Application,False
+TKT00545,SUP0206,supporter0206@example.com,MAT005,Paris United - Nantes,2026-09-30,VIP,Carré VIP,2,151,302,Application,True
+TKT00546,SUP0207,supporter0207@example.com,MAT011,Paris United - Bordeaux,2026-12-14,Standard,Tribune Nord,2,48,96,Site web,True
+TKT00547,SUP0207,supporter0207@example.com,MAT010,Paris United - Lens,2026-11-04,Standard,Tribune Ouest,2,60,120,Guichet,True
+TKT00548,SUP0208,supporter0208@example.com,MAT002,Paris United - Marseille,2026-08-23,Standard,Tribune Ouest,1,32,32,Guichet,True
+TKT00549,SUP0209,supporter0209@example.com,MAT002,Paris United - Marseille,2026-07-26,Standard,Tribune Ouest,1,50,50,Partenaire,True
+TKT00550,SUP0210,supporter0210@example.com,MAT011,Paris United - Bordeaux,2026-12-26,Standard,Tribune Est,1,81,81,Guichet,True
+TKT00551,SUP0211,supporter0211@example.com,MAT001,Paris United - Lyon,2026-06-29,VIP,Carré VIP,1,219,219,Partenaire,True
+TKT00552,SUP0211,supporter0211@example.com,MAT008,Paris United - Toulouse,2026-10-24,Standard,Tribune Ouest,1,90,90,Site web,True
+TKT00553,SUP0211,supporter0211@example.com,MAT003,Paris United - Lille,2026-07-19,Standard,Tribune Ouest,3,25,75,Site web,True
+TKT00554,SUP0211,supporter0211@example.com,MAT012,Paris United - Auxerre,2026-12-19,Standard,Tribune Est,2,70,140,Site web,True
+TKT00555,SUP0212,supporter0212@example.com,MAT006,Paris United - Rennes,2026-10-19,Standard,Tribune Sud,1,62,62,Application,False
+TKT00556,SUP0212,supporter0212@example.com,MAT002,Paris United - Marseille,2026-08-04,Standard,Tribune Nord,2,74,148,Partenaire,True
+TKT00557,SUP0213,supporter0213@example.com,MAT003,Paris United - Lille,2026-07-21,Standard,Tribune Ouest,1,55,55,Guichet,True
+TKT00558,SUP0213,supporter0213@example.com,MAT001,Paris United - Lyon,2026-08-09,Standard,Tribune Nord,1,82,82,Site web,True
+TKT00559,SUP0213,supporter0213@example.com,MAT004,Paris United - Monaco,2026-07-30,Standard,Tribune Ouest,3,52,156,Application,True
+TKT00560,SUP0214,supporter0214@example.com,MAT004,Paris United - Monaco,2026-08-15,Standard,Tribune Nord,1,87,87,Application,True
+TKT00561,SUP0214,supporter0214@example.com,MAT002,Paris United - Marseille,2026-08-20,Standard,Tribune Est,2,31,62,Application,True
+TKT00562,SUP0214,supporter0214@example.com,MAT001,Paris United - Lyon,2026-07-05,Standard,Tribune Nord,1,33,33,Application,True
+TKT00563,SUP0216,supporter0216@example.com,MAT006,Paris United - Rennes,2026-09-08,Standard,Tribune Est,1,76,76,Application,True
+TKT00564,SUP0217,supporter0217@example.com,MAT004,Paris United - Monaco,2026-09-14,Standard,Tribune Nord,1,67,67,Application,True
+TKT00565,SUP0217,supporter0217@example.com,MAT001,Paris United - Lyon,2026-07-06,Standard,Tribune Ouest,1,46,46,Site web,True
+TKT00566,SUP0218,supporter0218@example.com,MAT011,Paris United - Bordeaux,2026-12-19,Standard,Tribune Nord,1,87,87,Guichet,False
+TKT00567,SUP0218,supporter0218@example.com,MAT010,Paris United - Lens,2026-11-06,Standard,Tribune Sud,1,85,85,Partenaire,True
+TKT00568,SUP0218,supporter0218@example.com,MAT007,Paris United - Nice,2026-09-20,Standard,Tribune Nord,1,47,47,Site web,True
+TKT00569,SUP0218,supporter0218@example.com,MAT003,Paris United - Lille,2026-08-05,Standard,Tribune Est,1,63,63,Site web,True
+TKT00570,SUP0219,supporter0219@example.com,MAT002,Paris United - Marseille,2026-08-19,Standard,Tribune Est,1,51,51,Partenaire,True
+TKT00571,SUP0219,supporter0219@example.com,MAT010,Paris United - Lens,2026-11-23,Abonné,Tribune Nord,1,30,30,Partenaire,True
+TKT00572,SUP0219,supporter0219@example.com,MAT006,Paris United - Rennes,2026-10-18,Abonné,Tribune Nord,1,49,49,Application,False
+TKT00573,SUP0219,supporter0219@example.com,MAT009,Paris United - Strasbourg,2026-11-28,Abonné,Tribune Ouest,1,21,21,Partenaire,False
+TKT00574,SUP0219,supporter0219@example.com,MAT004,Paris United - Monaco,2026-08-11,Abonné,Tribune Ouest,1,40,40,Application,False
+TKT00575,SUP0219,supporter0219@example.com,MAT008,Paris United - Toulouse,2026-10-02,Standard,Tribune Sud,1,66,66,Application,True
+TKT00576,SUP0220,supporter0220@example.com,MAT004,Paris United - Monaco,2026-09-14,Abonné,Tribune Nord,2,51,102,Partenaire,True
+TKT00577,SUP0220,supporter0220@example.com,MAT002,Paris United - Marseille,2026-08-14,Abonné,Tribune Sud,1,43,43,Guichet,True
+TKT00578,SUP0221,supporter0221@example.com,MAT003,Paris United - Lille,2026-07-17,Standard,Tribune Est,1,32,32,Partenaire,True
+TKT00579,SUP0222,supporter0222@example.com,MAT006,Paris United - Rennes,2026-09-11,Standard,Tribune Sud,2,62,124,Application,False
+TKT00580,SUP0223,supporter0223@example.com,MAT009,Paris United - Strasbourg,2026-11-19,Abonné,Tribune Ouest,2,53,106,Partenaire,True
+TKT00581,SUP0223,supporter0223@example.com,MAT004,Paris United - Monaco,2026-08-27,Abonné,Tribune Sud,1,47,47,Application,True
+TKT00582,SUP0223,supporter0223@example.com,MAT002,Paris United - Marseille,2026-08-24,Standard,Tribune Ouest,4,25,100,Site web,False
+TKT00583,SUP0224,supporter0224@example.com,MAT007,Paris United - Nice,2026-10-30,Standard,Tribune Ouest,1,37,37,Site web,True
+TKT00584,SUP0224,supporter0224@example.com,MAT008,Paris United - Toulouse,2026-10-31,Abonné,Tribune Sud,1,46,46,Site web,True
+TKT00585,SUP0226,supporter0226@example.com,MAT003,Paris United - Lille,2026-09-01,Standard,Tribune Ouest,1,28,28,Partenaire,True
+TKT00586,SUP0226,supporter0226@example.com,MAT008,Paris United - Toulouse,2026-11-18,Standard,Tribune Ouest,2,72,144,Site web,True
+TKT00587,SUP0226,supporter0226@example.com,MAT010,Paris United - Lens,2026-10-29,Standard,Tribune Nord,1,67,67,Application,True
+TKT00588,SUP0227,supporter0227@example.com,MAT002,Paris United - Marseille,2026-08-03,Standard,Tribune Nord,1,71,71,Site web,True
+TKT00589,SUP0227,supporter0227@example.com,MAT010,Paris United - Lens,2026-10-28,Standard,Tribune Nord,1,47,47,Guichet,True
+TKT00590,SUP0227,supporter0227@example.com,MAT006,Paris United - Rennes,2026-09-03,Standard,Tribune Ouest,2,39,78,Application,True
+TKT00591,SUP0227,supporter0227@example.com,MAT001,Paris United - Lyon,2026-07-26,Standard,Tribune Est,1,53,53,Partenaire,True
+TKT00592,SUP0228,supporter0228@example.com,MAT002,Paris United - Marseille,2026-07-04,Abonné,Tribune Ouest,1,48,48,Guichet,True
+TKT00593,SUP0229,supporter0229@example.com,MAT006,Paris United - Rennes,2026-09-22,Standard,Tribune Sud,2,33,66,Partenaire,True
+TKT00594,SUP0229,supporter0229@example.com,MAT011,Paris United - Bordeaux,2026-12-13,Standard,Tribune Nord,1,61,61,Application,True
+TKT00595,SUP0230,supporter0230@example.com,MAT004,Paris United - Monaco,2026-08-11,Hospitalité,Carré VIP,1,185,185,Application,True
+TKT00596,SUP0230,supporter0230@example.com,MAT009,Paris United - Strasbourg,2026-12-01,Standard,Tribune Ouest,2,78,156,Site web,True
+TKT00597,SUP0232,supporter0232@example.com,MAT009,Paris United - Strasbourg,2026-10-19,Standard,Tribune Ouest,1,66,66,Partenaire,True
+TKT00598,SUP0232,supporter0232@example.com,MAT011,Paris United - Bordeaux,2026-12-14,Standard,Tribune Est,1,41,41,Guichet,True
+TKT00599,SUP0232,supporter0232@example.com,MAT006,Paris United - Rennes,2026-10-03,Hospitalité,Carré VIP,1,192,192,Application,True
+TKT00600,SUP0232,supporter0232@example.com,MAT007,Paris United - Nice,2026-10-24,Standard,Tribune Est,1,45,45,Application,True
+TKT00601,SUP0233,supporter0233@example.com,MAT002,Paris United - Marseille,2026-08-03,Abonné,Tribune Sud,1,40,40,Site web,True
+TKT00602,SUP0234,supporter0234@example.com,MAT006,Paris United - Rennes,2026-10-20,Standard,Tribune Est,1,45,45,Partenaire,True
+TKT00603,SUP0234,supporter0234@example.com,MAT003,Paris United - Lille,2026-07-24,Standard,Tribune Est,1,83,83,Guichet,True
+TKT00604,SUP0234,supporter0234@example.com,MAT012,Paris United - Auxerre,2026-11-26,Standard,Tribune Ouest,2,62,124,Application,False
+TKT00605,SUP0235,supporter0235@example.com,MAT012,Paris United - Auxerre,2027-01-06,Abonné,Tribune Sud,2,22,44,Partenaire,True
+TKT00606,SUP0235,supporter0235@example.com,MAT008,Paris United - Toulouse,2026-10-29,Abonné,Tribune Ouest,1,34,34,Application,True
+TKT00607,SUP0235,supporter0235@example.com,MAT006,Paris United - Rennes,2026-10-16,Abonné,Tribune Est,1,34,34,Partenaire,True
+TKT00608,SUP0235,supporter0235@example.com,MAT002,Paris United - Marseille,2026-08-06,Abonné,Tribune Ouest,1,25,25,Site web,True
+TKT00609,SUP0236,supporter0236@example.com,MAT006,Paris United - Rennes,2026-10-02,Standard,Tribune Est,1,26,26,Site web,False
+TKT00610,SUP0236,supporter0236@example.com,MAT007,Paris United - Nice,2026-10-17,Standard,Tribune Ouest,2,81,162,Partenaire,True
+TKT00611,SUP0236,supporter0236@example.com,MAT003,Paris United - Lille,2026-08-02,Standard,Tribune Sud,2,78,156,Application,True
+TKT00612,SUP0236,supporter0236@example.com,MAT011,Paris United - Bordeaux,2026-11-23,Standard,Tribune Nord,3,67,201,Site web,True
+TKT00613,SUP0236,supporter0236@example.com,MAT012,Paris United - Auxerre,2026-12-15,Standard,Tribune Ouest,1,59,59,Application,True
+TKT00614,SUP0237,supporter0237@example.com,MAT007,Paris United - Nice,2026-10-16,Standard,Tribune Nord,2,87,174,Guichet,True
+TKT00615,SUP0238,supporter0238@example.com,MAT012,Paris United - Auxerre,2026-12-04,Standard,Tribune Sud,1,25,25,Partenaire,True
+TKT00616,SUP0238,supporter0238@example.com,MAT008,Paris United - Toulouse,2026-10-05,Standard,Tribune Ouest,1,61,61,Site web,True
+TKT00617,SUP0239,supporter0239@example.com,MAT005,Paris United - Nantes,2026-09-01,Abonné,Tribune Est,1,24,24,Guichet,True
+TKT00618,SUP0240,supporter0240@example.com,MAT008,Paris United - Toulouse,2026-11-15,Abonné,Tribune Est,1,21,21,Partenaire,True
+TKT00619,SUP0240,supporter0240@example.com,MAT002,Paris United - Marseille,2026-08-09,Standard,Tribune Est,1,42,42,Guichet,True
+TKT00620,SUP0240,supporter0240@example.com,MAT006,Paris United - Rennes,2026-09-02,Abonné,Tribune Nord,1,38,38,Site web,True
+TKT00621,SUP0241,supporter0241@example.com,MAT003,Paris United - Lille,2026-07-27,Standard,Tribune Est,2,63,126,Guichet,True
+TKT00622,SUP0241,supporter0241@example.com,MAT009,Paris United - Strasbourg,2026-11-09,Standard,Tribune Sud,1,26,26,Partenaire,True
+TKT00623,SUP0241,supporter0241@example.com,MAT006,Paris United - Rennes,2026-09-19,Abonné,Tribune Nord,1,30,30,Application,True
+TKT00624,SUP0242,supporter0242@example.com,MAT009,Paris United - Strasbourg,2026-11-28,Abonné,Tribune Ouest,1,27,27,Application,True
+TKT00625,SUP0242,supporter0242@example.com,MAT010,Paris United - Lens,2026-11-23,Standard,Tribune Est,1,86,86,Partenaire,True
+TKT00626,SUP0242,supporter0242@example.com,MAT012,Paris United - Auxerre,2027-01-12,Standard,Tribune Sud,2,68,136,Site web,True
+TKT00627,SUP0242,supporter0242@example.com,MAT011,Paris United - Bordeaux,2026-12-17,Abonné,Tribune Sud,1,29,29,Site web,True
+TKT00628,SUP0243,supporter0243@example.com,MAT002,Paris United - Marseille,2026-08-20,Standard,Tribune Ouest,1,86,86,Site web,True
+TKT00629,SUP0243,supporter0243@example.com,MAT012,Paris United - Auxerre,2026-12-02,Standard,Tribune Nord,1,57,57,Site web,True
+TKT00630,SUP0244,supporter0244@example.com,MAT010,Paris United - Lens,2026-10-23,Abonné,Tribune Nord,1,42,42,Guichet,True
+TKT00631,SUP0244,supporter0244@example.com,MAT004,Paris United - Monaco,2026-08-22,Standard,Tribune Est,1,69,69,Application,True
+TKT00632,SUP0244,supporter0244@example.com,MAT012,Paris United - Auxerre,2026-11-26,Abonné,Tribune Nord,2,24,48,Application,True
+TKT00633,SUP0244,supporter0244@example.com,MAT011,Paris United - Bordeaux,2026-11-26,Abonné,Tribune Sud,3,38,114,Site web,True
+TKT00634,SUP0245,supporter0245@example.com,MAT009,Paris United - Strasbourg,2026-11-08,Standard,Tribune Sud,2,38,76,Application,True
+TKT00635,SUP0245,supporter0245@example.com,MAT008,Paris United - Toulouse,2026-10-16,Standard,Tribune Nord,1,65,65,Guichet,True
+TKT00636,SUP0245,supporter0245@example.com,MAT006,Paris United - Rennes,2026-10-14,Standard,Tribune Nord,1,30,30,Partenaire,True
+TKT00637,SUP0245,supporter0245@example.com,MAT003,Paris United - Lille,2026-08-14,Standard,Tribune Ouest,1,64,64,Partenaire,True
+TKT00638,SUP0245,supporter0245@example.com,MAT011,Paris United - Bordeaux,2026-12-07,Standard,Tribune Ouest,3,33,99,Partenaire,True
+TKT00639,SUP0246,supporter0246@example.com,MAT007,Paris United - Nice,2026-10-10,Standard,Tribune Nord,1,35,35,Site web,True
+TKT00640,SUP0246,supporter0246@example.com,MAT008,Paris United - Toulouse,2026-11-06,Standard,Tribune Nord,1,46,46,Partenaire,True
+TKT00641,SUP0246,supporter0246@example.com,MAT009,Paris United - Strasbourg,2026-10-18,Standard,Tribune Ouest,1,79,79,Guichet,True
+TKT00642,SUP0247,supporter0247@example.com,MAT011,Paris United - Bordeaux,2026-12-21,Standard,Tribune Ouest,1,76,76,Site web,True
+TKT00643,SUP0247,supporter0247@example.com,MAT007,Paris United - Nice,2026-10-27,Standard,Tribune Ouest,1,87,87,Site web,True
+TKT00644,SUP0247,supporter0247@example.com,MAT006,Paris United - Rennes,2026-09-27,Standard,Tribune Nord,4,88,352,Guichet,True
+TKT00645,SUP0247,supporter0247@example.com,MAT008,Paris United - Toulouse,2026-10-16,Standard,Tribune Nord,2,37,74,Partenaire,True
+TKT00646,SUP0248,supporter0248@example.com,MAT011,Paris United - Bordeaux,2026-11-09,Standard,Tribune Est,1,89,89,Site web,True
+TKT00647,SUP0249,supporter0249@example.com,MAT001,Paris United - Lyon,2026-08-10,VIP,Carré VIP,1,233,233,Guichet,True
+TKT00648,SUP0249,supporter0249@example.com,MAT007,Paris United - Nice,2026-10-27,VIP,Carré VIP,1,162,162,Partenaire,True
+TKT00649,SUP0249,supporter0249@example.com,MAT002,Paris United - Marseille,2026-07-14,Standard,Tribune Ouest,2,39,78,Partenaire,True
+TKT00650,SUP0249,supporter0249@example.com,MAT011,Paris United - Bordeaux,2026-11-29,Standard,Tribune Nord,1,45,45,Partenaire,True
+TKT00651,SUP0249,supporter0249@example.com,MAT008,Paris United - Toulouse,2026-11-17,Standard,Tribune Est,1,70,70,Application,True
+TKT00652,SUP0249,supporter0249@example.com,MAT003,Paris United - Lille,2026-07-31,Standard,Tribune Nord,2,69,138,Site web,True
+TKT00653,SUP0250,supporter0250@example.com,MAT006,Paris United - Rennes,2026-10-02,Abonné,Tribune Sud,1,35,35,Site web,True
+TKT00654,SUP0250,supporter0250@example.com,MAT007,Paris United - Nice,2026-10-01,Standard,Tribune Est,1,39,39,Partenaire,True
+TKT00655,SUP0251,supporter0251@example.com,MAT007,Paris United - Nice,2026-10-05,VIP,Carré VIP,1,188,188,Guichet,True
+TKT00656,SUP0251,supporter0251@example.com,MAT010,Paris United - Lens,2026-10-26,Standard,Tribune Est,1,74,74,Application,True
+TKT00657,SUP0251,supporter0251@example.com,MAT009,Paris United - Strasbourg,2026-11-13,Standard,Tribune Est,1,89,89,Partenaire,True
+TKT00658,SUP0252,supporter0252@example.com,MAT011,Paris United - Bordeaux,2026-12-27,Standard,Tribune Sud,1,34,34,Partenaire,True
+TKT00659,SUP0253,supporter0253@example.com,MAT010,Paris United - Lens,2026-11-13,Abonné,Tribune Nord,1,37,37,Application,True
+TKT00660,SUP0253,supporter0253@example.com,MAT002,Paris United - Marseille,2026-08-07,Abonné,Tribune Est,1,24,24,Guichet,True
+TKT00661,SUP0253,supporter0253@example.com,MAT012,Paris United - Auxerre,2026-12-15,Abonné,Tribune Est,2,45,90,Application,True
+TKT00662,SUP0253,supporter0253@example.com,MAT011,Paris United - Bordeaux,2026-11-08,Standard,Tribune Ouest,1,48,48,Partenaire,True
+TKT00663,SUP0254,supporter0254@example.com,MAT011,Paris United - Bordeaux,2026-12-07,Standard,Tribune Nord,1,80,80,Application,True
+TKT00664,SUP0255,supporter0255@example.com,MAT011,Paris United - Bordeaux,2026-11-07,Standard,Tribune Ouest,1,80,80,Application,False
+TKT00665,SUP0256,supporter0256@example.com,MAT005,Paris United - Nantes,2026-09-28,Standard,Tribune Ouest,1,55,55,Application,True
+TKT00666,SUP0256,supporter0256@example.com,MAT012,Paris United - Auxerre,2026-12-17,Standard,Tribune Ouest,1,64,64,Site web,True
+TKT00667,SUP0256,supporter0256@example.com,MAT003,Paris United - Lille,2026-07-21,Standard,Tribune Sud,1,59,59,Application,True
+TKT00668,SUP0256,supporter0256@example.com,MAT011,Paris United - Bordeaux,2026-12-27,Standard,Tribune Ouest,2,30,60,Site web,True
+TKT00669,SUP0257,supporter0257@example.com,MAT005,Paris United - Nantes,2026-08-12,Standard,Tribune Est,2,77,154,Application,True
+TKT00670,SUP0257,supporter0257@example.com,MAT002,Paris United - Marseille,2026-07-04,Abonné,Tribune Nord,1,52,52,Guichet,True
+TKT00671,SUP0258,supporter0258@example.com,MAT002,Paris United - Marseille,2026-07-10,Standard,Tribune Est,2,65,130,Application,True
+TKT00672,SUP0258,supporter0258@example.com,MAT004,Paris United - Monaco,2026-09-12,VIP,Carré VIP,1,175,175,Guichet,True
+TKT00673,SUP0259,supporter0259@example.com,MAT005,Paris United - Nantes,2026-09-10,Standard,Tribune Nord,1,72,72,Application,True
+TKT00674,SUP0259,supporter0259@example.com,MAT010,Paris United - Lens,2026-11-01,Hospitalité,Carré VIP,1,217,217,Guichet,True
+TKT00675,SUP0261,supporter0261@example.com,MAT010,Paris United - Lens,2026-12-01,Standard,Tribune Nord,1,71,71,Partenaire,True
+TKT00676,SUP0261,supporter0261@example.com,MAT001,Paris United - Lyon,2026-06-21,Standard,Tribune Est,1,75,75,Guichet,True
+TKT00677,SUP0261,supporter0261@example.com,MAT011,Paris United - Bordeaux,2026-11-04,Standard,Tribune Ouest,2,45,90,Partenaire,True
+TKT00678,SUP0261,supporter0261@example.com,MAT004,Paris United - Monaco,2026-08-23,Standard,Tribune Nord,2,60,120,Partenaire,True
+TKT00679,SUP0261,supporter0261@example.com,MAT005,Paris United - Nantes,2026-08-12,VIP,Carré VIP,2,205,410,Site web,False
+TKT00680,SUP0261,supporter0261@example.com,MAT008,Paris United - Toulouse,2026-10-11,Standard,Tribune Nord,1,58,58,Guichet,True
+TKT00681,SUP0262,supporter0262@example.com,MAT001,Paris United - Lyon,2026-08-04,Standard,Tribune Ouest,2,48,96,Application,True
+TKT00682,SUP0262,supporter0262@example.com,MAT012,Paris United - Auxerre,2026-12-29,Standard,Tribune Nord,1,65,65,Application,True
+TKT00683,SUP0263,supporter0263@example.com,MAT011,Paris United - Bordeaux,2026-11-23,Abonné,Tribune Est,1,28,28,Guichet,True
+TKT00684,SUP0263,supporter0263@example.com,MAT007,Paris United - Nice,2026-09-09,Abonné,Tribune Est,1,46,46,Application,True
+TKT00685,SUP0263,supporter0263@example.com,MAT006,Paris United - Rennes,2026-09-22,Abonné,Tribune Sud,3,21,63,Application,True
+TKT00686,SUP0263,supporter0263@example.com,MAT008,Paris United - Toulouse,2026-10-26,Abonné,Tribune Est,1,47,47,Site web,True
+TKT00687,SUP0265,supporter0265@example.com,MAT008,Paris United - Toulouse,2026-09-24,Standard,Tribune Sud,1,53,53,Guichet,True
+TKT00688,SUP0265,supporter0265@example.com,MAT011,Paris United - Bordeaux,2026-11-06,Standard,Tribune Ouest,1,88,88,Application,True
+TKT00689,SUP0266,supporter0266@example.com,MAT005,Paris United - Nantes,2026-09-22,Standard,Tribune Est,4,28,112,Application,True
+TKT00690,SUP0266,supporter0266@example.com,MAT011,Paris United - Bordeaux,2026-12-22,Standard,Tribune Nord,1,83,83,Partenaire,True
+TKT00691,SUP0266,supporter0266@example.com,MAT004,Paris United - Monaco,2026-09-07,Standard,Tribune Ouest,2,74,148,Site web,True
+TKT00692,SUP0266,supporter0266@example.com,MAT007,Paris United - Nice,2026-09-27,Standard,Tribune Ouest,3,55,165,Site web,False
+TKT00693,SUP0266,supporter0266@example.com,MAT003,Paris United - Lille,2026-08-15,Standard,Tribune Ouest,1,89,89,Application,True
+TKT00694,SUP0266,supporter0266@example.com,MAT010,Paris United - Lens,2026-12-05,Hospitalité,Carré VIP,1,323,323,Partenaire,True
+TKT00695,SUP0267,supporter0267@example.com,MAT008,Paris United - Toulouse,2026-11-10,Standard,Tribune Est,1,39,39,Guichet,True
+TKT00696,SUP0267,supporter0267@example.com,MAT003,Paris United - Lille,2026-08-24,Standard,Tribune Est,3,80,240,Guichet,True
+TKT00697,SUP0267,supporter0267@example.com,MAT002,Paris United - Marseille,2026-07-26,Standard,Tribune Sud,1,80,80,Application,True
+TKT00698,SUP0267,supporter0267@example.com,MAT006,Paris United - Rennes,2026-10-18,Standard,Tribune Nord,1,81,81,Site web,True
+TKT00699,SUP0267,supporter0267@example.com,MAT007,Paris United - Nice,2026-09-08,Standard,Tribune Ouest,1,45,45,Site web,False
+TKT00700,SUP0268,supporter0268@example.com,MAT012,Paris United - Auxerre,2026-11-19,Standard,Tribune Nord,2,88,176,Guichet,True
+TKT00701,SUP0268,supporter0268@example.com,MAT009,Paris United - Strasbourg,2026-10-16,Standard,Tribune Sud,2,61,122,Guichet,True
+TKT00702,SUP0269,supporter0269@example.com,MAT011,Paris United - Bordeaux,2026-12-26,Standard,Tribune Sud,1,25,25,Partenaire,True
+TKT00703,SUP0269,supporter0269@example.com,MAT010,Paris United - Lens,2026-11-03,Standard,Tribune Nord,1,67,67,Guichet,True
+TKT00704,SUP0269,supporter0269@example.com,MAT004,Paris United - Monaco,2026-09-18,Standard,Tribune Est,1,38,38,Partenaire,True
+TKT00705,SUP0270,supporter0270@example.com,MAT005,Paris United - Nantes,2026-09-09,Standard,Tribune Nord,2,67,134,Application,True
+TKT00706,SUP0270,supporter0270@example.com,MAT010,Paris United - Lens,2026-12-13,Standard,Tribune Est,1,31,31,Partenaire,True
+TKT00707,SUP0272,supporter0272@example.com,MAT004,Paris United - Monaco,2026-07-31,VIP,Carré VIP,1,222,222,Partenaire,True
+TKT00708,SUP0273,supporter0273@example.com,MAT005,Paris United - Nantes,2026-08-30,Abonné,Tribune Est,3,47,141,Site web,True
+TKT00709,SUP0273,supporter0273@example.com,MAT011,Paris United - Bordeaux,2026-11-04,Standard,Tribune Sud,1,90,90,Guichet,True
+TKT00710,SUP0273,supporter0273@example.com,MAT003,Paris United - Lille,2026-07-20,Abonné,Tribune Nord,2,47,94,Application,True
+TKT00711,SUP0273,supporter0273@example.com,MAT002,Paris United - Marseille,2026-08-05,Abonné,Tribune Nord,1,47,47,Application,False
+TKT00712,SUP0274,supporter0274@example.com,MAT012,Paris United - Auxerre,2027-01-08,Standard,Tribune Est,1,35,35,Partenaire,False
+TKT00713,SUP0274,supporter0274@example.com,MAT003,Paris United - Lille,2026-08-07,Standard,Tribune Est,2,41,82,Site web,True
+TKT00714,SUP0274,supporter0274@example.com,MAT008,Paris United - Toulouse,2026-10-23,Standard,Tribune Nord,1,30,30,Guichet,True
+TKT00715,SUP0275,supporter0275@example.com,MAT010,Paris United - Lens,2026-11-17,Standard,Tribune Nord,2,27,54,Application,True
+TKT00716,SUP0275,supporter0275@example.com,MAT002,Paris United - Marseille,2026-07-12,Standard,Tribune Nord,1,30,30,Partenaire,True
+TKT00717,SUP0276,supporter0276@example.com,MAT008,Paris United - Toulouse,2026-11-13,Hospitalité,Carré VIP,1,227,227,Guichet,True
+TKT00718,SUP0276,supporter0276@example.com,MAT010,Paris United - Lens,2026-12-15,VIP,Carré VIP,1,147,147,Site web,True
+TKT00719,SUP0276,supporter0276@example.com,MAT005,Paris United - Nantes,2026-08-13,Standard,Tribune Ouest,2,86,172,Partenaire,True
+TKT00720,SUP0276,supporter0276@example.com,MAT006,Paris United - Rennes,2026-10-16,Standard,Tribune Ouest,2,71,142,Site web,True
+TKT00721,SUP0277,supporter0277@example.com,MAT001,Paris United - Lyon,2026-07-02,Standard,Tribune Nord,1,49,49,Application,True
+TKT00722,SUP0278,supporter0278@example.com,MAT011,Paris United - Bordeaux,2026-12-03,Standard,Tribune Ouest,1,63,63,Application,True
+TKT00723,SUP0278,supporter0278@example.com,MAT009,Paris United - Strasbourg,2026-11-02,VIP,Carré VIP,3,233,699,Partenaire,True
+TKT00724,SUP0279,supporter0279@example.com,MAT004,Paris United - Monaco,2026-09-17,Standard,Tribune Nord,1,75,75,Partenaire,True
+TKT00725,SUP0279,supporter0279@example.com,MAT005,Paris United - Nantes,2026-08-30,VIP,Carré VIP,2,246,492,Guichet,True
+TKT00726,SUP0279,supporter0279@example.com,MAT010,Paris United - Lens,2026-10-31,Abonné,Tribune Ouest,1,45,45,Partenaire,True
+TKT00727,SUP0280,supporter0280@example.com,MAT001,Paris United - Lyon,2026-07-26,Standard,Tribune Est,1,79,79,Partenaire,False
+TKT00728,SUP0281,supporter0281@example.com,MAT002,Paris United - Marseille,2026-08-14,Standard,Tribune Sud,1,27,27,Partenaire,True
+TKT00729,SUP0281,supporter0281@example.com,MAT008,Paris United - Toulouse,2026-09-25,Standard,Tribune Est,3,53,159,Partenaire,True
+TKT00730,SUP0281,supporter0281@example.com,MAT010,Paris United - Lens,2026-10-24,Standard,Tribune Ouest,3,62,186,Guichet,False
+TKT00731,SUP0281,supporter0281@example.com,MAT006,Paris United - Rennes,2026-09-04,Standard,Tribune Sud,1,45,45,Partenaire,True
+TKT00732,SUP0281,supporter0281@example.com,MAT011,Paris United - Bordeaux,2026-12-24,Standard,Tribune Sud,2,50,100,Partenaire,True
+TKT00733,SUP0282,supporter0282@example.com,MAT004,Paris United - Monaco,2026-09-01,Standard,Tribune Est,2,27,54,Application,True
+TKT00734,SUP0282,supporter0282@example.com,MAT009,Paris United - Strasbourg,2026-11-11,Standard,Tribune Nord,2,89,178,Application,True
+TKT00735,SUP0283,supporter0283@example.com,MAT004,Paris United - Monaco,2026-08-05,Standard,Tribune Est,2,68,136,Guichet,True
+TKT00736,SUP0284,supporter0284@example.com,MAT012,Paris United - Auxerre,2026-11-26,Standard,Tribune Ouest,3,81,243,Site web,True
+TKT00737,SUP0284,supporter0284@example.com,MAT009,Paris United - Strasbourg,2026-11-22,Standard,Tribune Nord,1,38,38,Application,True
+TKT00738,SUP0284,supporter0284@example.com,MAT010,Paris United - Lens,2026-10-29,Standard,Tribune Est,2,45,90,Site web,True
+TKT00739,SUP0284,supporter0284@example.com,MAT002,Paris United - Marseille,2026-08-19,Abonné,Tribune Est,2,43,86,Partenaire,True
+TKT00740,SUP0284,supporter0284@example.com,MAT001,Paris United - Lyon,2026-06-22,VIP,Carré VIP,1,121,121,Guichet,True
+TKT00741,SUP0285,supporter0285@example.com,MAT002,Paris United - Marseille,2026-08-11,Standard,Tribune Est,2,78,156,Partenaire,True
+TKT00742,SUP0285,supporter0285@example.com,MAT005,Paris United - Nantes,2026-09-11,Standard,Tribune Ouest,1,42,42,Guichet,False
+TKT00743,SUP0286,supporter0286@example.com,MAT008,Paris United - Toulouse,2026-11-08,Abonné,Tribune Ouest,4,40,160,Partenaire,True
+TKT00744,SUP0286,supporter0286@example.com,MAT003,Paris United - Lille,2026-07-26,Standard,Tribune Nord,4,44,176,Guichet,True
+TKT00745,SUP0286,supporter0286@example.com,MAT001,Paris United - Lyon,2026-07-23,Abonné,Tribune Est,2,55,110,Site web,False
+TKT00746,SUP0286,supporter0286@example.com,MAT009,Paris United - Strasbourg,2026-11-19,Standard,Tribune Ouest,1,43,43,Partenaire,False
+TKT00747,SUP0286,supporter0286@example.com,MAT002,Paris United - Marseille,2026-08-21,Abonné,Tribune Sud,2,45,90,Guichet,True
+TKT00748,SUP0287,supporter0287@example.com,MAT012,Paris United - Auxerre,2026-12-09,Standard,Tribune Sud,1,61,61,Guichet,True
+TKT00749,SUP0287,supporter0287@example.com,MAT003,Paris United - Lille,2026-07-21,Standard,Tribune Nord,1,45,45,Guichet,True
+TKT00750,SUP0288,supporter0288@example.com,MAT005,Paris United - Nantes,2026-08-15,Standard,Tribune Nord,2,89,178,Guichet,True
+TKT00751,SUP0289,supporter0289@example.com,MAT011,Paris United - Bordeaux,2026-11-13,VIP,Carré VIP,1,234,234,Guichet,True
+TKT00752,SUP0290,supporter0290@example.com,MAT012,Paris United - Auxerre,2026-12-29,Standard,Tribune Ouest,1,42,42,Application,True
+TKT00753,SUP0290,supporter0290@example.com,MAT010,Paris United - Lens,2026-11-01,Standard,Tribune Ouest,1,71,71,Partenaire,True
+TKT00754,SUP0290,supporter0290@example.com,MAT011,Paris United - Bordeaux,2026-11-30,Standard,Tribune Ouest,2,32,64,Site web,True
+TKT00755,SUP0290,supporter0290@example.com,MAT009,Paris United - Strasbourg,2026-10-26,Standard,Tribune Ouest,2,76,152,Partenaire,True
+TKT00756,SUP0290,supporter0290@example.com,MAT004,Paris United - Monaco,2026-08-28,Hospitalité,Carré VIP,2,305,610,Application,True
+TKT00757,SUP0290,supporter0290@example.com,MAT003,Paris United - Lille,2026-07-26,Standard,Tribune Ouest,1,87,87,Site web,True
+TKT00758,SUP0291,supporter0291@example.com,MAT008,Paris United - Toulouse,2026-11-11,Abonné,Tribune Est,3,55,165,Partenaire,True
+TKT00759,SUP0291,supporter0291@example.com,MAT012,Paris United - Auxerre,2027-01-04,Abonné,Tribune Est,1,43,43,Guichet,True
+TKT00760,SUP0291,supporter0291@example.com,MAT001,Paris United - Lyon,2026-08-11,VIP,Carré VIP,1,197,197,Application,True
+TKT00761,SUP0292,supporter0292@example.com,MAT007,Paris United - Nice,2026-10-13,Standard,Tribune Nord,1,87,87,Site web,True
+TKT00762,SUP0292,supporter0292@example.com,MAT001,Paris United - Lyon,2026-06-23,Standard,Tribune Ouest,3,64,192,Application,True
+TKT00763,SUP0292,supporter0292@example.com,MAT005,Paris United - Nantes,2026-08-26,Standard,Tribune Ouest,2,89,178,Guichet,True
+TKT00764,SUP0292,supporter0292@example.com,MAT010,Paris United - Lens,2026-11-21,Standard,Tribune Ouest,1,77,77,Site web,True
+TKT00765,SUP0293,supporter0293@example.com,MAT008,Paris United - Toulouse,2026-11-13,Abonné,Tribune Nord,2,39,78,Site web,True
+TKT00766,SUP0293,supporter0293@example.com,MAT005,Paris United - Nantes,2026-09-05,VIP,Carré VIP,2,168,336,Site web,False
+TKT00767,SUP0293,supporter0293@example.com,MAT002,Paris United - Marseille,2026-08-09,Abonné,Tribune Sud,3,54,162,Application,True
+TKT00768,SUP0293,supporter0293@example.com,MAT003,Paris United - Lille,2026-08-02,Standard,Tribune Nord,2,81,162,Site web,True
+TKT00769,SUP0293,supporter0293@example.com,MAT001,Paris United - Lyon,2026-07-17,Abonné,Tribune Est,1,21,21,Guichet,True
+TKT00770,SUP0293,supporter0293@example.com,MAT011,Paris United - Bordeaux,2026-11-26,Abonné,Tribune Nord,4,25,100,Application,True
+TKT00771,SUP0294,supporter0294@example.com,MAT002,Paris United - Marseille,2026-08-06,Standard,Tribune Sud,1,77,77,Site web,True
+TKT00772,SUP0295,supporter0295@example.com,MAT002,Paris United - Marseille,2026-07-05,Abonné,Tribune Est,1,46,46,Site web,False
+TKT00773,SUP0296,supporter0296@example.com,MAT010,Paris United - Lens,2026-11-29,Standard,Tribune Ouest,3,88,264,Partenaire,True
+TKT00774,SUP0297,supporter0297@example.com,MAT002,Paris United - Marseille,2026-07-20,Abonné,Tribune Nord,1,34,34,Application,True
+TKT00775,SUP0297,supporter0297@example.com,MAT008,Paris United - Toulouse,2026-10-21,Standard,Tribune Est,1,41,41,Application,True
+TKT00776,SUP0297,supporter0297@example.com,MAT001,Paris United - Lyon,2026-08-02,Standard,Tribune Est,1,43,43,Partenaire,True
+TKT00777,SUP0298,supporter0298@example.com,MAT009,Paris United - Strasbourg,2026-11-02,Standard,Tribune Nord,1,46,46,Guichet,True
+TKT00778,SUP0298,supporter0298@example.com,MAT008,Paris United - Toulouse,2026-11-05,Standard,Tribune Est,2,73,146,Guichet,True
+TKT00779,SUP0298,supporter0298@example.com,MAT001,Paris United - Lyon,2026-06-29,Standard,Tribune Est,1,33,33,Application,True
+TKT00780,SUP0298,supporter0298@example.com,MAT010,Paris United - Lens,2026-11-14,Standard,Tribune Ouest,1,60,60,Guichet,False
+TKT00781,SUP0298,supporter0298@example.com,MAT011,Paris United - Bordeaux,2026-11-12,VIP,Carré VIP,2,207,414,Guichet,True
+TKT00782,SUP0298,supporter0298@example.com,MAT007,Paris United - Nice,2026-09-27,Standard,Tribune Est,1,66,66,Application,True
+TKT00783,SUP0299,supporter0299@example.com,MAT001,Paris United - Lyon,2026-06-16,Standard,Tribune Sud,1,26,26,Partenaire,True
+TKT00784,SUP0299,supporter0299@example.com,MAT010,Paris United - Lens,2026-10-20,Standard,Tribune Nord,1,35,35,Partenaire,True
+TKT00785,SUP0299,supporter0299@example.com,MAT008,Paris United - Toulouse,2026-10-27,Standard,Tribune Ouest,2,70,140,Site web,True
+TKT00786,SUP0300,supporter0300@example.com,MAT006,Paris United - Rennes,2026-09-04,VIP,Carré VIP,1,233,233,Guichet,True

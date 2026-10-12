@@ -1,0 +1,13 @@
+﻿match_id,match,date,adversaire,competition,stade,capacite,spectateurs,taux_remplissage
+MAT001,Paris United - Lyon,2026-08-15,Lyon,Championnat,FanPulse Arena,25000,22170,88.68
+MAT002,Paris United - Marseille,2026-08-29,Marseille,Championnat,FanPulse Arena,25000,21731,86.92
+MAT003,Paris United - Lille,2026-09-12,Lille,Coupe,FanPulse Arena,25000,18891,75.56
+MAT004,Paris United - Monaco,2026-09-26,Monaco,Coupe,FanPulse Arena,25000,19668,78.67
+MAT005,Paris United - Nantes,2026-10-10,Nantes,Europe,FanPulse Arena,25000,18833,75.33
+MAT006,Paris United - Rennes,2026-10-24,Rennes,Championnat,FanPulse Arena,25000,18918,75.67
+MAT007,Paris United - Nice,2026-11-07,Nice,Championnat,FanPulse Arena,25000,22684,90.74
+MAT008,Paris United - Toulouse,2026-11-21,Toulouse,Europe,FanPulse Arena,25000,21026,84.1
+MAT009,Paris United - Strasbourg,2026-12-05,Strasbourg,Coupe,FanPulse Arena,25000,22218,88.87
+MAT010,Paris United - Lens,2026-12-19,Lens,Coupe,FanPulse Arena,25000,19616,78.46
+MAT011,Paris United - Bordeaux,2027-01-02,Bordeaux,Europe,FanPulse Arena,25000,23239,92.96
+MAT012,Paris United - Auxerre,2027-01-16,Auxerre,Championnat,FanPulse Arena,25000,21859,87.44

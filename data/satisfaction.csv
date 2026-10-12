@@ -1,0 +1,397 @@
+﻿avis_id,supporter_id,email_supporter,match_id,match,date_reponse,note_globale,accueil,billetterie,ambiance,restauration,nps,commentaire,a_recontacter
+SAT00001,SUP0001,supporter0001@example.com,MAT005,Paris United - Nantes,2026-10-12,5,5,5,5,5,9,Entrée rapide et personnel accueillant.,False
+SAT00002,SUP0001,supporter0001@example.com,MAT001,Paris United - Lyon,2026-08-18,5,5,4,5,5,10,Très bonne ambiance dans le stade.,False
+SAT00003,SUP0002,supporter0002@example.com,MAT012,Paris United - Auxerre,2027-01-17,3,3,3,3,4,7,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00004,SUP0002,supporter0002@example.com,MAT011,Paris United - Bordeaux,2027-01-05,5,5,5,5,3,10,Ambiance exceptionnelle.,False
+SAT00005,SUP0002,supporter0002@example.com,MAT003,Paris United - Lille,2026-09-15,5,4,5,5,5,9,Entrée rapide et personnel accueillant.,False
+SAT00006,SUP0002,supporter0002@example.com,MAT009,Paris United - Strasbourg,2026-12-07,4,3,4,4,4,9,Très bonne organisation du match.,False
+SAT00007,SUP0003,supporter0003@example.com,MAT006,Paris United - Rennes,2026-10-26,4,4,3,5,2,9,"Super expérience, je reviendrai.",False
+SAT00008,SUP0004,supporter0004@example.com,MAT004,Paris United - Monaco,2026-09-29,4,3,3,4,4,7,Très bonne organisation du match.,False
+SAT00009,SUP0006,supporter0006@example.com,MAT012,Paris United - Auxerre,2027-01-19,4,4,3,4,5,7,"Super expérience, je reviendrai.",False
+SAT00010,SUP0009,supporter0009@example.com,MAT008,Paris United - Toulouse,2026-11-23,2,1,3,2,1,0,La restauration était trop lente.,True
+SAT00011,SUP0009,supporter0009@example.com,MAT009,Paris United - Strasbourg,2026-12-07,4,5,3,4,2,7,Ambiance exceptionnelle.,False
+SAT00012,SUP0010,supporter0010@example.com,MAT006,Paris United - Rennes,2026-10-26,4,5,4,5,5,8,Très bonne ambiance dans le stade.,False
+SAT00013,SUP0010,supporter0010@example.com,MAT011,Paris United - Bordeaux,2027-01-04,4,3,4,5,2,9,Très bonne organisation du match.,False
+SAT00014,SUP0010,supporter0010@example.com,MAT002,Paris United - Marseille,2026-08-31,1,1,1,2,1,2,Expérience décevante au niveau de l'accueil.,True
+SAT00015,SUP0011,supporter0011@example.com,MAT010,Paris United - Lens,2026-12-20,5,5,5,5,4,9,Très bonne ambiance dans le stade.,False
+SAT00016,SUP0011,supporter0011@example.com,MAT002,Paris United - Marseille,2026-08-31,4,4,4,5,5,7,"Super expérience, je reviendrai.",False
+SAT00017,SUP0011,supporter0011@example.com,MAT003,Paris United - Lille,2026-09-13,4,4,3,5,5,7,"Super expérience, je reviendrai.",False
+SAT00018,SUP0011,supporter0011@example.com,MAT006,Paris United - Rennes,2026-10-25,5,4,5,5,4,9,"Super expérience, je reviendrai.",False
+SAT00019,SUP0012,supporter0012@example.com,MAT009,Paris United - Strasbourg,2026-12-07,4,5,4,5,5,9,Entrée rapide et personnel accueillant.,False
+SAT00020,SUP0012,supporter0012@example.com,MAT003,Paris United - Lille,2026-09-13,3,4,2,3,2,7,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00021,SUP0013,supporter0013@example.com,MAT007,Paris United - Nice,2026-11-08,3,4,3,4,3,6,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00022,SUP0014,supporter0014@example.com,MAT006,Paris United - Rennes,2026-10-26,1,1,1,2,1,2,La restauration était trop lente.,True
+SAT00023,SUP0014,supporter0014@example.com,MAT010,Paris United - Lens,2026-12-20,4,4,3,4,3,8,"Super expérience, je reviendrai.",False
+SAT00024,SUP0014,supporter0014@example.com,MAT002,Paris United - Marseille,2026-08-30,3,3,3,4,2,5,Ambiance sympa mais accès au stade à améliorer.,True
+SAT00025,SUP0014,supporter0014@example.com,MAT012,Paris United - Auxerre,2027-01-17,3,2,2,4,2,7,Expérience correcte dans l'ensemble.,False
+SAT00026,SUP0015,supporter0015@example.com,MAT006,Paris United - Rennes,2026-10-27,3,4,3,3,3,7,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00027,SUP0015,supporter0015@example.com,MAT011,Paris United - Bordeaux,2027-01-04,3,3,3,3,4,7,Expérience correcte dans l'ensemble.,False
+SAT00028,SUP0016,supporter0016@example.com,MAT010,Paris United - Lens,2026-12-21,4,4,3,5,5,9,"Super expérience, je reviendrai.",False
+SAT00029,SUP0017,supporter0017@example.com,MAT011,Paris United - Bordeaux,2027-01-05,2,2,2,3,3,1,Files d'attente beaucoup trop longues.,True
+SAT00030,SUP0017,supporter0017@example.com,MAT001,Paris United - Lyon,2026-08-17,4,3,4,5,4,8,Ambiance exceptionnelle.,False
+SAT00031,SUP0017,supporter0017@example.com,MAT008,Paris United - Toulouse,2026-11-24,3,3,4,4,3,6,Expérience correcte dans l'ensemble.,False
+SAT00032,SUP0018,supporter0018@example.com,MAT008,Paris United - Toulouse,2026-11-23,5,4,5,5,4,9,Très bonne organisation du match.,False
+SAT00033,SUP0018,supporter0018@example.com,MAT009,Paris United - Strasbourg,2026-12-06,4,5,4,4,4,7,Ambiance exceptionnelle.,False
+SAT00034,SUP0018,supporter0018@example.com,MAT006,Paris United - Rennes,2026-10-26,4,4,3,4,5,8,Ambiance exceptionnelle.,False
+SAT00035,SUP0018,supporter0018@example.com,MAT003,Paris United - Lille,2026-09-13,4,4,5,4,4,7,Très bonne organisation du match.,False
+SAT00036,SUP0018,supporter0018@example.com,MAT004,Paris United - Monaco,2026-09-27,3,2,3,3,3,6,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00037,SUP0019,supporter0019@example.com,MAT010,Paris United - Lens,2026-12-21,2,1,2,2,1,2,Signalétique difficile à comprendre.,True
+SAT00038,SUP0021,supporter0021@example.com,MAT012,Paris United - Auxerre,2027-01-18,4,4,4,4,4,8,Entrée rapide et personnel accueillant.,False
+SAT00039,SUP0023,supporter0023@example.com,MAT005,Paris United - Nantes,2026-10-11,4,4,5,4,3,8,"Super expérience, je reviendrai.",False
+SAT00040,SUP0023,supporter0023@example.com,MAT010,Paris United - Lens,2026-12-21,5,5,5,5,3,9,Entrée rapide et personnel accueillant.,False
+SAT00041,SUP0023,supporter0023@example.com,MAT006,Paris United - Rennes,2026-10-27,4,3,4,4,5,8,"Super expérience, je reviendrai.",False
+SAT00042,SUP0024,supporter0024@example.com,MAT008,Paris United - Toulouse,2026-11-24,5,5,5,5,5,10,Très bonne organisation du match.,False
+SAT00043,SUP0024,supporter0024@example.com,MAT002,Paris United - Marseille,2026-09-01,4,3,3,4,3,9,Entrée rapide et personnel accueillant.,False
+SAT00044,SUP0025,supporter0025@example.com,MAT001,Paris United - Lyon,2026-08-16,4,5,3,5,4,8,"Super expérience, je reviendrai.",False
+SAT00045,SUP0025,supporter0025@example.com,MAT005,Paris United - Nantes,2026-10-11,5,5,4,5,3,9,Ambiance exceptionnelle.,False
+SAT00046,SUP0026,supporter0026@example.com,MAT001,Paris United - Lyon,2026-08-18,3,4,3,3,2,7,Bon match mais restauration trop chère.,False
+SAT00047,SUP0027,supporter0027@example.com,MAT003,Paris United - Lille,2026-09-13,2,1,2,2,2,1,Files d'attente beaucoup trop longues.,True
+SAT00048,SUP0028,supporter0028@example.com,MAT007,Paris United - Nice,2026-11-09,4,3,5,4,3,8,"Super expérience, je reviendrai.",False
+SAT00049,SUP0029,supporter0029@example.com,MAT003,Paris United - Lille,2026-09-13,4,4,4,5,4,7,Entrée rapide et personnel accueillant.,False
+SAT00050,SUP0029,supporter0029@example.com,MAT004,Paris United - Monaco,2026-09-29,5,5,5,5,5,10,Très bonne organisation du match.,False
+SAT00051,SUP0030,supporter0030@example.com,MAT002,Paris United - Marseille,2026-08-30,2,3,2,3,2,4,Files d'attente beaucoup trop longues.,True
+SAT00052,SUP0030,supporter0030@example.com,MAT008,Paris United - Toulouse,2026-11-24,3,4,4,3,2,6,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00053,SUP0030,supporter0030@example.com,MAT010,Paris United - Lens,2026-12-21,5,5,5,5,3,10,"Super expérience, je reviendrai.",False
+SAT00054,SUP0032,supporter0032@example.com,MAT007,Paris United - Nice,2026-11-10,3,3,4,3,2,5,Bon match mais restauration trop chère.,True
+SAT00055,SUP0032,supporter0032@example.com,MAT003,Paris United - Lille,2026-09-13,1,2,2,1,1,3,La restauration était trop lente.,True
+SAT00056,SUP0032,supporter0032@example.com,MAT004,Paris United - Monaco,2026-09-27,3,3,3,4,3,6,Expérience correcte dans l'ensemble.,False
+SAT00057,SUP0032,supporter0032@example.com,MAT002,Paris United - Marseille,2026-08-30,4,5,4,4,4,7,"Super expérience, je reviendrai.",False
+SAT00058,SUP0034,supporter0034@example.com,MAT011,Paris United - Bordeaux,2027-01-04,3,4,3,3,1,5,Bon match mais restauration trop chère.,True
+SAT00059,SUP0034,supporter0034@example.com,MAT002,Paris United - Marseille,2026-09-01,3,2,3,3,1,6,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00060,SUP0035,supporter0035@example.com,MAT010,Paris United - Lens,2026-12-20,2,1,1,2,1,2,La restauration était trop lente.,True
+SAT00061,SUP0035,supporter0035@example.com,MAT011,Paris United - Bordeaux,2027-01-03,1,1,1,1,1,1,Trop d'attente à l'entrée du stade.,True
+SAT00062,SUP0035,supporter0035@example.com,MAT006,Paris United - Rennes,2026-10-25,3,4,2,3,3,7,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00063,SUP0037,supporter0037@example.com,MAT002,Paris United - Marseille,2026-08-30,4,4,4,4,4,7,Entrée rapide et personnel accueillant.,False
+SAT00064,SUP0037,supporter0037@example.com,MAT011,Paris United - Bordeaux,2027-01-04,4,5,4,4,3,9,Très bonne ambiance dans le stade.,False
+SAT00065,SUP0038,supporter0038@example.com,MAT001,Paris United - Lyon,2026-08-18,2,2,3,2,3,0,Files d'attente beaucoup trop longues.,True
+SAT00066,SUP0039,supporter0039@example.com,MAT004,Paris United - Monaco,2026-09-29,5,5,5,5,5,10,Entrée rapide et personnel accueillant.,False
+SAT00067,SUP0040,supporter0040@example.com,MAT004,Paris United - Monaco,2026-09-29,3,3,4,3,3,7,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00068,SUP0041,supporter0041@example.com,MAT010,Paris United - Lens,2026-12-21,4,4,3,4,2,7,Ambiance exceptionnelle.,False
+SAT00069,SUP0041,supporter0041@example.com,MAT004,Paris United - Monaco,2026-09-28,4,4,3,4,3,8,Entrée rapide et personnel accueillant.,False
+SAT00070,SUP0042,supporter0042@example.com,MAT003,Paris United - Lille,2026-09-14,4,3,4,5,5,9,Très bonne organisation du match.,False
+SAT00071,SUP0042,supporter0042@example.com,MAT005,Paris United - Nantes,2026-10-13,4,3,5,5,4,7,Très bonne ambiance dans le stade.,False
+SAT00072,SUP0043,supporter0043@example.com,MAT006,Paris United - Rennes,2026-10-26,3,2,3,4,2,7,Expérience correcte dans l'ensemble.,False
+SAT00073,SUP0043,supporter0043@example.com,MAT002,Paris United - Marseille,2026-08-30,4,3,5,4,3,9,Très bonne ambiance dans le stade.,False
+SAT00074,SUP0043,supporter0043@example.com,MAT010,Paris United - Lens,2026-12-21,3,3,3,4,1,7,Expérience correcte dans l'ensemble.,False
+SAT00075,SUP0043,supporter0043@example.com,MAT003,Paris United - Lille,2026-09-14,5,5,5,5,5,10,"Super expérience, je reviendrai.",False
+SAT00076,SUP0044,supporter0044@example.com,MAT003,Paris United - Lille,2026-09-14,5,5,4,5,5,9,Très bonne organisation du match.,False
+SAT00077,SUP0044,supporter0044@example.com,MAT010,Paris United - Lens,2026-12-20,4,5,4,4,2,8,Très bonne organisation du match.,False
+SAT00078,SUP0045,supporter0045@example.com,MAT011,Paris United - Bordeaux,2027-01-04,5,5,5,5,5,10,Très bonne organisation du match.,False
+SAT00079,SUP0046,supporter0046@example.com,MAT007,Paris United - Nice,2026-11-10,4,5,4,4,3,7,Très bonne ambiance dans le stade.,False
+SAT00080,SUP0047,supporter0047@example.com,MAT010,Paris United - Lens,2026-12-21,4,5,5,5,4,8,Très bonne organisation du match.,False
+SAT00081,SUP0048,supporter0048@example.com,MAT012,Paris United - Auxerre,2027-01-18,2,1,3,3,1,3,La restauration était trop lente.,True
+SAT00082,SUP0049,supporter0049@example.com,MAT007,Paris United - Nice,2026-11-08,5,5,4,5,5,9,Très bonne organisation du match.,False
+SAT00083,SUP0049,supporter0049@example.com,MAT008,Paris United - Toulouse,2026-11-24,5,5,4,5,4,10,Entrée rapide et personnel accueillant.,False
+SAT00084,SUP0049,supporter0049@example.com,MAT003,Paris United - Lille,2026-09-15,3,3,2,3,1,6,Expérience correcte dans l'ensemble.,False
+SAT00085,SUP0052,supporter0052@example.com,MAT001,Paris United - Lyon,2026-08-18,3,4,3,3,3,7,Bon match mais restauration trop chère.,False
+SAT00086,SUP0053,supporter0053@example.com,MAT002,Paris United - Marseille,2026-08-31,4,5,3,4,5,7,Entrée rapide et personnel accueillant.,False
+SAT00087,SUP0055,supporter0055@example.com,MAT002,Paris United - Marseille,2026-08-31,4,4,5,4,2,9,Très bonne ambiance dans le stade.,False
+SAT00088,SUP0056,supporter0056@example.com,MAT012,Paris United - Auxerre,2027-01-17,4,5,4,4,4,9,"Super expérience, je reviendrai.",False
+SAT00089,SUP0056,supporter0056@example.com,MAT004,Paris United - Monaco,2026-09-27,3,2,4,4,2,5,Ambiance sympa mais accès au stade à améliorer.,True
+SAT00090,SUP0058,supporter0058@example.com,MAT001,Paris United - Lyon,2026-08-16,5,5,5,5,5,9,Très bonne ambiance dans le stade.,False
+SAT00091,SUP0059,supporter0059@example.com,MAT001,Paris United - Lyon,2026-08-17,4,4,3,4,2,7,Ambiance exceptionnelle.,False
+SAT00092,SUP0059,supporter0059@example.com,MAT006,Paris United - Rennes,2026-10-25,5,4,4,5,3,9,Ambiance exceptionnelle.,False
+SAT00093,SUP0060,supporter0060@example.com,MAT007,Paris United - Nice,2026-11-09,5,5,5,5,5,10,Entrée rapide et personnel accueillant.,False
+SAT00094,SUP0060,supporter0060@example.com,MAT009,Paris United - Strasbourg,2026-12-07,5,5,5,5,5,9,Très bonne organisation du match.,False
+SAT00095,SUP0061,supporter0061@example.com,MAT006,Paris United - Rennes,2026-10-27,5,5,5,5,5,10,Très bonne ambiance dans le stade.,False
+SAT00096,SUP0062,supporter0062@example.com,MAT010,Paris United - Lens,2026-12-21,4,5,5,5,3,9,Très bonne ambiance dans le stade.,False
+SAT00097,SUP0063,supporter0063@example.com,MAT005,Paris United - Nantes,2026-10-12,4,3,4,5,4,9,"Super expérience, je reviendrai.",False
+SAT00098,SUP0063,supporter0063@example.com,MAT002,Paris United - Marseille,2026-08-31,4,3,4,4,4,9,Très bonne ambiance dans le stade.,False
+SAT00099,SUP0064,supporter0064@example.com,MAT012,Paris United - Auxerre,2027-01-19,3,3,2,3,3,6,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00100,SUP0065,supporter0065@example.com,MAT009,Paris United - Strasbourg,2026-12-06,5,4,5,5,5,9,"Super expérience, je reviendrai.",False
+SAT00101,SUP0065,supporter0065@example.com,MAT008,Paris United - Toulouse,2026-11-23,5,4,4,5,3,10,"Super expérience, je reviendrai.",False
+SAT00102,SUP0068,supporter0068@example.com,MAT005,Paris United - Nantes,2026-10-13,3,4,2,4,2,5,Expérience correcte dans l'ensemble.,True
+SAT00103,SUP0068,supporter0068@example.com,MAT002,Paris United - Marseille,2026-08-30,3,2,3,3,3,5,Expérience correcte dans l'ensemble.,True
+SAT00104,SUP0069,supporter0069@example.com,MAT007,Paris United - Nice,2026-11-08,3,2,2,3,4,7,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00105,SUP0069,supporter0069@example.com,MAT010,Paris United - Lens,2026-12-20,4,5,3,4,2,9,Ambiance exceptionnelle.,False
+SAT00106,SUP0072,supporter0072@example.com,MAT001,Paris United - Lyon,2026-08-17,4,4,4,4,4,9,Très bonne ambiance dans le stade.,False
+SAT00107,SUP0072,supporter0072@example.com,MAT004,Paris United - Monaco,2026-09-27,5,5,5,5,5,10,"Super expérience, je reviendrai.",False
+SAT00108,SUP0074,supporter0074@example.com,MAT003,Paris United - Lille,2026-09-13,4,3,4,5,5,9,Très bonne organisation du match.,False
+SAT00109,SUP0075,supporter0075@example.com,MAT009,Paris United - Strasbourg,2026-12-08,5,5,4,5,4,9,"Super expérience, je reviendrai.",False
+SAT00110,SUP0077,supporter0077@example.com,MAT005,Paris United - Nantes,2026-10-13,5,5,4,5,5,10,Entrée rapide et personnel accueillant.,False
+SAT00111,SUP0077,supporter0077@example.com,MAT001,Paris United - Lyon,2026-08-18,4,5,5,4,5,8,Entrée rapide et personnel accueillant.,False
+SAT00112,SUP0078,supporter0078@example.com,MAT006,Paris United - Rennes,2026-10-25,2,2,1,3,2,5,Files d'attente beaucoup trop longues.,True
+SAT00113,SUP0079,supporter0079@example.com,MAT002,Paris United - Marseille,2026-09-01,4,4,4,4,3,8,Très bonne ambiance dans le stade.,False
+SAT00114,SUP0079,supporter0079@example.com,MAT003,Paris United - Lille,2026-09-14,5,5,5,5,4,9,Très bonne ambiance dans le stade.,False
+SAT00115,SUP0080,supporter0080@example.com,MAT007,Paris United - Nice,2026-11-08,2,2,3,2,2,0,La restauration était trop lente.,True
+SAT00116,SUP0080,supporter0080@example.com,MAT009,Paris United - Strasbourg,2026-12-07,4,4,5,5,2,9,Très bonne organisation du match.,False
+SAT00117,SUP0080,supporter0080@example.com,MAT011,Paris United - Bordeaux,2027-01-04,4,4,3,4,2,7,Très bonne ambiance dans le stade.,False
+SAT00118,SUP0082,supporter0082@example.com,MAT007,Paris United - Nice,2026-11-09,4,5,4,5,2,7,Ambiance exceptionnelle.,False
+SAT00119,SUP0082,supporter0082@example.com,MAT008,Paris United - Toulouse,2026-11-22,4,5,4,5,3,8,Très bonne ambiance dans le stade.,False
+SAT00120,SUP0083,supporter0083@example.com,MAT008,Paris United - Toulouse,2026-11-22,4,3,5,5,5,8,Ambiance exceptionnelle.,False
+SAT00121,SUP0083,supporter0083@example.com,MAT004,Paris United - Monaco,2026-09-29,4,3,4,5,2,9,"Super expérience, je reviendrai.",False
+SAT00122,SUP0083,supporter0083@example.com,MAT012,Paris United - Auxerre,2027-01-19,4,4,3,4,3,7,Ambiance exceptionnelle.,False
+SAT00123,SUP0083,supporter0083@example.com,MAT003,Paris United - Lille,2026-09-15,4,3,3,4,5,8,Entrée rapide et personnel accueillant.,False
+SAT00124,SUP0084,supporter0084@example.com,MAT005,Paris United - Nantes,2026-10-13,5,4,5,5,3,10,Ambiance exceptionnelle.,False
+SAT00125,SUP0084,supporter0084@example.com,MAT008,Paris United - Toulouse,2026-11-22,3,4,3,4,3,7,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00126,SUP0085,supporter0085@example.com,MAT009,Paris United - Strasbourg,2026-12-06,2,2,2,2,1,4,Expérience décevante au niveau de l'accueil.,True
+SAT00127,SUP0085,supporter0085@example.com,MAT001,Paris United - Lyon,2026-08-18,5,5,4,5,5,10,Entrée rapide et personnel accueillant.,False
+SAT00128,SUP0086,supporter0086@example.com,MAT006,Paris United - Rennes,2026-10-25,2,2,3,3,1,1,Expérience décevante au niveau de l'accueil.,True
+SAT00129,SUP0087,supporter0087@example.com,MAT001,Paris United - Lyon,2026-08-17,4,4,4,5,5,7,Ambiance exceptionnelle.,False
+SAT00130,SUP0087,supporter0087@example.com,MAT003,Paris United - Lille,2026-09-13,5,5,4,5,4,10,Très bonne ambiance dans le stade.,False
+SAT00131,SUP0088,supporter0088@example.com,MAT012,Paris United - Auxerre,2027-01-18,4,5,3,4,2,8,Entrée rapide et personnel accueillant.,False
+SAT00132,SUP0089,supporter0089@example.com,MAT010,Paris United - Lens,2026-12-20,5,5,4,5,5,10,"Super expérience, je reviendrai.",False
+SAT00133,SUP0089,supporter0089@example.com,MAT006,Paris United - Rennes,2026-10-27,4,4,5,4,5,9,Entrée rapide et personnel accueillant.,False
+SAT00134,SUP0092,supporter0092@example.com,MAT003,Paris United - Lille,2026-09-14,5,5,5,5,5,10,Ambiance exceptionnelle.,False
+SAT00135,SUP0092,supporter0092@example.com,MAT006,Paris United - Rennes,2026-10-26,4,4,4,4,4,9,Ambiance exceptionnelle.,False
+SAT00136,SUP0092,supporter0092@example.com,MAT007,Paris United - Nice,2026-11-08,5,5,5,5,5,10,Très bonne organisation du match.,False
+SAT00137,SUP0093,supporter0093@example.com,MAT012,Paris United - Auxerre,2027-01-17,4,5,4,4,4,9,Ambiance exceptionnelle.,False
+SAT00138,SUP0093,supporter0093@example.com,MAT006,Paris United - Rennes,2026-10-27,5,5,5,5,3,9,Très bonne ambiance dans le stade.,False
+SAT00139,SUP0094,supporter0094@example.com,MAT010,Paris United - Lens,2026-12-20,2,1,1,3,2,3,Expérience décevante au niveau de l'accueil.,True
+SAT00140,SUP0095,supporter0095@example.com,MAT007,Paris United - Nice,2026-11-08,4,4,5,4,5,9,Ambiance exceptionnelle.,False
+SAT00141,SUP0096,supporter0096@example.com,MAT012,Paris United - Auxerre,2027-01-19,4,3,5,5,5,7,Entrée rapide et personnel accueillant.,False
+SAT00142,SUP0099,supporter0099@example.com,MAT008,Paris United - Toulouse,2026-11-24,4,4,4,4,2,7,Entrée rapide et personnel accueillant.,False
+SAT00143,SUP0099,supporter0099@example.com,MAT006,Paris United - Rennes,2026-10-27,2,3,3,2,2,2,Trop d'attente à l'entrée du stade.,True
+SAT00144,SUP0099,supporter0099@example.com,MAT004,Paris United - Monaco,2026-09-27,4,3,4,4,4,8,Entrée rapide et personnel accueillant.,False
+SAT00145,SUP0100,supporter0100@example.com,MAT011,Paris United - Bordeaux,2027-01-05,4,5,4,4,5,8,Très bonne ambiance dans le stade.,False
+SAT00146,SUP0101,supporter0101@example.com,MAT006,Paris United - Rennes,2026-10-26,1,2,1,1,1,0,Trop d'attente à l'entrée du stade.,True
+SAT00147,SUP0101,supporter0101@example.com,MAT012,Paris United - Auxerre,2027-01-19,4,3,5,4,3,9,Très bonne ambiance dans le stade.,False
+SAT00148,SUP0102,supporter0102@example.com,MAT006,Paris United - Rennes,2026-10-26,5,4,5,5,5,10,"Super expérience, je reviendrai.",False
+SAT00149,SUP0102,supporter0102@example.com,MAT009,Paris United - Strasbourg,2026-12-06,4,4,4,4,4,7,Très bonne organisation du match.,False
+SAT00150,SUP0102,supporter0102@example.com,MAT010,Paris United - Lens,2026-12-20,4,4,4,4,3,7,Entrée rapide et personnel accueillant.,False
+SAT00151,SUP0102,supporter0102@example.com,MAT002,Paris United - Marseille,2026-08-30,5,4,5,5,4,10,Très bonne organisation du match.,False
+SAT00152,SUP0102,supporter0102@example.com,MAT004,Paris United - Monaco,2026-09-27,4,4,4,4,5,7,Très bonne organisation du match.,False
+SAT00153,SUP0103,supporter0103@example.com,MAT005,Paris United - Nantes,2026-10-13,4,3,4,4,4,9,Très bonne organisation du match.,False
+SAT00154,SUP0103,supporter0103@example.com,MAT009,Paris United - Strasbourg,2026-12-06,4,4,5,4,4,9,"Super expérience, je reviendrai.",False
+SAT00155,SUP0106,supporter0106@example.com,MAT001,Paris United - Lyon,2026-08-17,3,2,3,4,2,5,Expérience correcte dans l'ensemble.,True
+SAT00156,SUP0106,supporter0106@example.com,MAT008,Paris United - Toulouse,2026-11-23,3,3,3,3,2,5,Expérience correcte dans l'ensemble.,True
+SAT00157,SUP0107,supporter0107@example.com,MAT009,Paris United - Strasbourg,2026-12-08,4,3,3,4,4,8,Ambiance exceptionnelle.,False
+SAT00158,SUP0108,supporter0108@example.com,MAT001,Paris United - Lyon,2026-08-16,4,5,3,5,4,8,Très bonne ambiance dans le stade.,False
+SAT00159,SUP0108,supporter0108@example.com,MAT012,Paris United - Auxerre,2027-01-17,3,3,4,3,3,5,Bonne expérience mais beaucoup d'attente à la buvette.,True
+SAT00160,SUP0108,supporter0108@example.com,MAT005,Paris United - Nantes,2026-10-11,4,4,4,4,4,9,Entrée rapide et personnel accueillant.,False
+SAT00161,SUP0108,supporter0108@example.com,MAT004,Paris United - Monaco,2026-09-29,3,4,3,3,3,5,Bonne expérience mais beaucoup d'attente à la buvette.,True
+SAT00162,SUP0108,supporter0108@example.com,MAT008,Paris United - Toulouse,2026-11-24,4,4,4,4,4,9,Ambiance exceptionnelle.,False
+SAT00163,SUP0108,supporter0108@example.com,MAT007,Paris United - Nice,2026-11-10,4,4,5,4,2,9,"Super expérience, je reviendrai.",False
+SAT00164,SUP0110,supporter0110@example.com,MAT001,Paris United - Lyon,2026-08-18,5,5,5,5,5,9,Très bonne ambiance dans le stade.,False
+SAT00165,SUP0110,supporter0110@example.com,MAT006,Paris United - Rennes,2026-10-27,4,4,4,4,3,8,"Super expérience, je reviendrai.",False
+SAT00166,SUP0115,supporter0115@example.com,MAT008,Paris United - Toulouse,2026-11-24,4,3,5,4,4,9,Très bonne organisation du match.,False
+SAT00167,SUP0116,supporter0116@example.com,MAT005,Paris United - Nantes,2026-10-11,3,3,3,3,4,7,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00168,SUP0116,supporter0116@example.com,MAT011,Paris United - Bordeaux,2027-01-04,4,3,4,4,5,9,Très bonne organisation du match.,False
+SAT00169,SUP0117,supporter0117@example.com,MAT002,Paris United - Marseille,2026-09-01,3,3,2,3,4,7,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00170,SUP0118,supporter0118@example.com,MAT010,Paris United - Lens,2026-12-22,5,5,5,5,4,10,Entrée rapide et personnel accueillant.,False
+SAT00171,SUP0119,supporter0119@example.com,MAT003,Paris United - Lille,2026-09-14,3,3,3,3,2,5,Bon match mais restauration trop chère.,True
+SAT00172,SUP0119,supporter0119@example.com,MAT011,Paris United - Bordeaux,2027-01-04,5,5,4,5,5,10,Ambiance exceptionnelle.,False
+SAT00173,SUP0120,supporter0120@example.com,MAT010,Paris United - Lens,2026-12-20,5,5,5,5,5,10,Entrée rapide et personnel accueillant.,False
+SAT00174,SUP0121,supporter0121@example.com,MAT009,Paris United - Strasbourg,2026-12-08,4,4,4,4,2,9,Ambiance exceptionnelle.,False
+SAT00175,SUP0121,supporter0121@example.com,MAT012,Paris United - Auxerre,2027-01-18,5,5,5,5,5,9,Ambiance exceptionnelle.,False
+SAT00176,SUP0122,supporter0122@example.com,MAT010,Paris United - Lens,2026-12-20,3,4,3,3,2,6,Expérience correcte dans l'ensemble.,False
+SAT00177,SUP0122,supporter0122@example.com,MAT009,Paris United - Strasbourg,2026-12-06,3,3,3,3,4,7,Expérience correcte dans l'ensemble.,False
+SAT00178,SUP0123,supporter0123@example.com,MAT010,Paris United - Lens,2026-12-20,3,3,4,4,4,5,Ambiance sympa mais accès au stade à améliorer.,True
+SAT00179,SUP0123,supporter0123@example.com,MAT009,Paris United - Strasbourg,2026-12-06,3,4,2,4,4,7,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00180,SUP0124,supporter0124@example.com,MAT007,Paris United - Nice,2026-11-08,1,1,1,1,1,2,Trop d'attente à l'entrée du stade.,True
+SAT00181,SUP0126,supporter0126@example.com,MAT001,Paris United - Lyon,2026-08-16,5,5,4,5,4,10,Très bonne organisation du match.,False
+SAT00182,SUP0127,supporter0127@example.com,MAT010,Paris United - Lens,2026-12-20,4,4,3,5,4,7,Ambiance exceptionnelle.,False
+SAT00183,SUP0127,supporter0127@example.com,MAT012,Paris United - Auxerre,2027-01-18,3,4,3,3,2,5,Bonne expérience mais beaucoup d'attente à la buvette.,True
+SAT00184,SUP0127,supporter0127@example.com,MAT002,Paris United - Marseille,2026-08-30,4,4,4,5,4,8,Très bonne ambiance dans le stade.,False
+SAT00185,SUP0128,supporter0128@example.com,MAT006,Paris United - Rennes,2026-10-26,5,5,5,5,5,9,Entrée rapide et personnel accueillant.,False
+SAT00186,SUP0130,supporter0130@example.com,MAT010,Paris United - Lens,2026-12-21,4,4,5,4,4,8,Ambiance exceptionnelle.,False
+SAT00187,SUP0130,supporter0130@example.com,MAT001,Paris United - Lyon,2026-08-18,4,4,4,5,2,7,Très bonne ambiance dans le stade.,False
+SAT00188,SUP0131,supporter0131@example.com,MAT007,Paris United - Nice,2026-11-09,3,4,4,3,1,7,Expérience correcte dans l'ensemble.,False
+SAT00189,SUP0131,supporter0131@example.com,MAT010,Paris United - Lens,2026-12-21,4,4,4,4,4,8,Entrée rapide et personnel accueillant.,False
+SAT00190,SUP0132,supporter0132@example.com,MAT007,Paris United - Nice,2026-11-10,5,5,5,5,4,10,Très bonne organisation du match.,False
+SAT00191,SUP0132,supporter0132@example.com,MAT008,Paris United - Toulouse,2026-11-24,4,4,5,4,5,9,Très bonne organisation du match.,False
+SAT00192,SUP0136,supporter0136@example.com,MAT001,Paris United - Lyon,2026-08-17,2,2,1,2,1,4,Signalétique difficile à comprendre.,True
+SAT00193,SUP0137,supporter0137@example.com,MAT008,Paris United - Toulouse,2026-11-22,4,4,4,4,3,8,Ambiance exceptionnelle.,False
+SAT00194,SUP0137,supporter0137@example.com,MAT002,Paris United - Marseille,2026-08-30,3,3,2,4,2,7,Expérience correcte dans l'ensemble.,False
+SAT00195,SUP0138,supporter0138@example.com,MAT005,Paris United - Nantes,2026-10-11,2,1,1,2,3,0,La restauration était trop lente.,True
+SAT00196,SUP0138,supporter0138@example.com,MAT004,Paris United - Monaco,2026-09-28,2,1,1,3,2,1,La restauration était trop lente.,True
+SAT00197,SUP0140,supporter0140@example.com,MAT008,Paris United - Toulouse,2026-11-22,4,4,5,5,2,7,Entrée rapide et personnel accueillant.,False
+SAT00198,SUP0140,supporter0140@example.com,MAT002,Paris United - Marseille,2026-08-31,4,4,4,4,4,9,Très bonne organisation du match.,False
+SAT00199,SUP0141,supporter0141@example.com,MAT002,Paris United - Marseille,2026-08-30,5,5,5,5,3,10,Ambiance exceptionnelle.,False
+SAT00200,SUP0143,supporter0143@example.com,MAT008,Paris United - Toulouse,2026-11-24,2,3,2,3,3,0,Expérience décevante au niveau de l'accueil.,True
+SAT00201,SUP0143,supporter0143@example.com,MAT011,Paris United - Bordeaux,2027-01-04,4,5,5,4,2,9,Entrée rapide et personnel accueillant.,False
+SAT00202,SUP0144,supporter0144@example.com,MAT001,Paris United - Lyon,2026-08-17,3,2,3,4,3,5,Bonne expérience mais beaucoup d'attente à la buvette.,True
+SAT00203,SUP0144,supporter0144@example.com,MAT009,Paris United - Strasbourg,2026-12-06,3,3,2,3,2,7,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00204,SUP0145,supporter0145@example.com,MAT009,Paris United - Strasbourg,2026-12-07,2,1,3,2,1,0,Signalétique difficile à comprendre.,True
+SAT00205,SUP0145,supporter0145@example.com,MAT006,Paris United - Rennes,2026-10-27,4,4,5,5,3,8,Entrée rapide et personnel accueillant.,False
+SAT00206,SUP0145,supporter0145@example.com,MAT004,Paris United - Monaco,2026-09-27,3,2,3,3,4,7,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00207,SUP0145,supporter0145@example.com,MAT007,Paris United - Nice,2026-11-08,5,5,4,5,4,10,"Super expérience, je reviendrai.",False
+SAT00208,SUP0148,supporter0148@example.com,MAT002,Paris United - Marseille,2026-08-31,5,5,5,5,4,10,Ambiance exceptionnelle.,False
+SAT00209,SUP0150,supporter0150@example.com,MAT008,Paris United - Toulouse,2026-11-24,4,5,3,5,4,7,"Super expérience, je reviendrai.",False
+SAT00210,SUP0154,supporter0154@example.com,MAT006,Paris United - Rennes,2026-10-25,1,1,1,1,1,2,Files d'attente beaucoup trop longues.,True
+SAT00211,SUP0154,supporter0154@example.com,MAT005,Paris United - Nantes,2026-10-12,3,3,3,3,1,7,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00212,SUP0156,supporter0156@example.com,MAT007,Paris United - Nice,2026-11-09,4,4,5,5,3,9,Très bonne ambiance dans le stade.,False
+SAT00213,SUP0156,supporter0156@example.com,MAT003,Paris United - Lille,2026-09-15,5,5,5,5,4,10,Très bonne organisation du match.,False
+SAT00214,SUP0159,supporter0159@example.com,MAT012,Paris United - Auxerre,2027-01-17,4,5,4,5,2,9,Ambiance exceptionnelle.,False
+SAT00215,SUP0160,supporter0160@example.com,MAT007,Paris United - Nice,2026-11-10,5,4,5,5,5,9,Très bonne organisation du match.,False
+SAT00216,SUP0161,supporter0161@example.com,MAT011,Paris United - Bordeaux,2027-01-04,2,3,3,3,1,3,Signalétique difficile à comprendre.,True
+SAT00217,SUP0163,supporter0163@example.com,MAT009,Paris United - Strasbourg,2026-12-06,2,1,3,2,1,2,Files d'attente beaucoup trop longues.,True
+SAT00218,SUP0163,supporter0163@example.com,MAT005,Paris United - Nantes,2026-10-12,5,5,5,5,5,10,Très bonne ambiance dans le stade.,False
+SAT00219,SUP0165,supporter0165@example.com,MAT012,Paris United - Auxerre,2027-01-17,3,4,3,4,2,7,Bon match mais restauration trop chère.,False
+SAT00220,SUP0165,supporter0165@example.com,MAT010,Paris United - Lens,2026-12-22,5,5,5,5,3,9,"Super expérience, je reviendrai.",False
+SAT00221,SUP0166,supporter0166@example.com,MAT006,Paris United - Rennes,2026-10-25,3,3,2,3,1,6,Bon match mais restauration trop chère.,False
+SAT00222,SUP0166,supporter0166@example.com,MAT012,Paris United - Auxerre,2027-01-17,5,5,5,5,5,9,"Super expérience, je reviendrai.",False
+SAT00223,SUP0167,supporter0167@example.com,MAT002,Paris United - Marseille,2026-08-31,5,5,5,5,5,10,Très bonne organisation du match.,False
+SAT00224,SUP0168,supporter0168@example.com,MAT008,Paris United - Toulouse,2026-11-24,5,5,5,5,5,9,Très bonne organisation du match.,False
+SAT00225,SUP0168,supporter0168@example.com,MAT012,Paris United - Auxerre,2027-01-18,4,4,4,5,4,7,Très bonne ambiance dans le stade.,False
+SAT00226,SUP0170,supporter0170@example.com,MAT001,Paris United - Lyon,2026-08-18,4,5,4,5,2,7,Très bonne organisation du match.,False
+SAT00227,SUP0170,supporter0170@example.com,MAT006,Paris United - Rennes,2026-10-27,5,4,4,5,4,9,Très bonne organisation du match.,False
+SAT00228,SUP0170,supporter0170@example.com,MAT002,Paris United - Marseille,2026-08-31,4,4,3,4,4,8,Très bonne ambiance dans le stade.,False
+SAT00229,SUP0171,supporter0171@example.com,MAT007,Paris United - Nice,2026-11-10,5,5,5,5,5,10,Entrée rapide et personnel accueillant.,False
+SAT00230,SUP0171,supporter0171@example.com,MAT004,Paris United - Monaco,2026-09-27,5,5,4,5,5,10,Très bonne organisation du match.,False
+SAT00231,SUP0172,supporter0172@example.com,MAT001,Paris United - Lyon,2026-08-16,4,4,5,5,4,7,Ambiance exceptionnelle.,False
+SAT00232,SUP0173,supporter0173@example.com,MAT009,Paris United - Strasbourg,2026-12-08,4,5,3,4,5,7,Ambiance exceptionnelle.,False
+SAT00233,SUP0173,supporter0173@example.com,MAT007,Paris United - Nice,2026-11-10,4,3,4,4,3,8,"Super expérience, je reviendrai.",False
+SAT00234,SUP0174,supporter0174@example.com,MAT010,Paris United - Lens,2026-12-22,3,4,2,3,3,7,Expérience correcte dans l'ensemble.,False
+SAT00235,SUP0175,supporter0175@example.com,MAT011,Paris United - Bordeaux,2027-01-05,5,5,5,5,5,10,Entrée rapide et personnel accueillant.,False
+SAT00236,SUP0176,supporter0176@example.com,MAT008,Paris United - Toulouse,2026-11-24,5,5,4,5,3,10,"Super expérience, je reviendrai.",False
+SAT00237,SUP0177,supporter0177@example.com,MAT008,Paris United - Toulouse,2026-11-22,5,5,5,5,5,10,"Super expérience, je reviendrai.",False
+SAT00238,SUP0179,supporter0179@example.com,MAT002,Paris United - Marseille,2026-08-30,4,4,5,4,5,8,"Super expérience, je reviendrai.",False
+SAT00239,SUP0179,supporter0179@example.com,MAT012,Paris United - Auxerre,2027-01-18,5,4,5,5,5,9,Ambiance exceptionnelle.,False
+SAT00240,SUP0179,supporter0179@example.com,MAT011,Paris United - Bordeaux,2027-01-05,2,3,1,3,3,0,La restauration était trop lente.,True
+SAT00241,SUP0180,supporter0180@example.com,MAT003,Paris United - Lille,2026-09-15,4,4,5,5,4,7,"Super expérience, je reviendrai.",False
+SAT00242,SUP0181,supporter0181@example.com,MAT004,Paris United - Monaco,2026-09-27,4,4,5,4,2,7,Entrée rapide et personnel accueillant.,False
+SAT00243,SUP0183,supporter0183@example.com,MAT004,Paris United - Monaco,2026-09-27,4,3,3,4,4,7,Entrée rapide et personnel accueillant.,False
+SAT00244,SUP0183,supporter0183@example.com,MAT001,Paris United - Lyon,2026-08-16,5,5,5,5,5,10,Très bonne ambiance dans le stade.,False
+SAT00245,SUP0183,supporter0183@example.com,MAT002,Paris United - Marseille,2026-08-30,4,4,5,4,4,7,Très bonne organisation du match.,False
+SAT00246,SUP0184,supporter0184@example.com,MAT010,Paris United - Lens,2026-12-20,5,4,4,5,5,9,Très bonne organisation du match.,False
+SAT00247,SUP0184,supporter0184@example.com,MAT012,Paris United - Auxerre,2027-01-19,3,2,3,4,1,7,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00248,SUP0185,supporter0185@example.com,MAT006,Paris United - Rennes,2026-10-27,4,4,3,4,3,7,"Super expérience, je reviendrai.",False
+SAT00249,SUP0185,supporter0185@example.com,MAT007,Paris United - Nice,2026-11-10,3,3,2,3,4,6,Bon match mais restauration trop chère.,False
+SAT00250,SUP0186,supporter0186@example.com,MAT002,Paris United - Marseille,2026-08-30,5,5,5,5,4,10,Entrée rapide et personnel accueillant.,False
+SAT00251,SUP0187,supporter0187@example.com,MAT009,Paris United - Strasbourg,2026-12-07,5,5,5,5,5,10,Ambiance exceptionnelle.,False
+SAT00252,SUP0189,supporter0189@example.com,MAT005,Paris United - Nantes,2026-10-12,4,4,3,4,3,9,Très bonne ambiance dans le stade.,False
+SAT00253,SUP0191,supporter0191@example.com,MAT005,Paris United - Nantes,2026-10-12,5,5,5,5,3,10,"Super expérience, je reviendrai.",False
+SAT00254,SUP0191,supporter0191@example.com,MAT004,Paris United - Monaco,2026-09-28,2,2,2,2,2,0,Trop d'attente à l'entrée du stade.,True
+SAT00255,SUP0193,supporter0193@example.com,MAT012,Paris United - Auxerre,2027-01-19,4,4,4,5,2,8,Très bonne organisation du match.,False
+SAT00256,SUP0193,supporter0193@example.com,MAT002,Paris United - Marseille,2026-08-31,3,3,2,4,3,6,Expérience correcte dans l'ensemble.,False
+SAT00257,SUP0194,supporter0194@example.com,MAT007,Paris United - Nice,2026-11-08,2,3,3,2,2,0,Files d'attente beaucoup trop longues.,True
+SAT00258,SUP0194,supporter0194@example.com,MAT010,Paris United - Lens,2026-12-22,4,5,4,5,2,7,Entrée rapide et personnel accueillant.,False
+SAT00259,SUP0195,supporter0195@example.com,MAT008,Paris United - Toulouse,2026-11-23,4,4,5,4,5,7,Ambiance exceptionnelle.,False
+SAT00260,SUP0196,supporter0196@example.com,MAT005,Paris United - Nantes,2026-10-11,2,3,2,2,2,3,Signalétique difficile à comprendre.,True
+SAT00261,SUP0197,supporter0197@example.com,MAT012,Paris United - Auxerre,2027-01-17,4,5,4,5,4,9,Très bonne organisation du match.,False
+SAT00262,SUP0199,supporter0199@example.com,MAT008,Paris United - Toulouse,2026-11-22,3,2,3,3,3,5,Expérience correcte dans l'ensemble.,True
+SAT00263,SUP0199,supporter0199@example.com,MAT010,Paris United - Lens,2026-12-20,5,5,4,5,3,9,Entrée rapide et personnel accueillant.,False
+SAT00264,SUP0200,supporter0200@example.com,MAT006,Paris United - Rennes,2026-10-27,4,4,4,5,5,8,Très bonne organisation du match.,False
+SAT00265,SUP0200,supporter0200@example.com,MAT002,Paris United - Marseille,2026-08-31,3,4,2,3,3,7,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00266,SUP0202,supporter0202@example.com,MAT005,Paris United - Nantes,2026-10-11,3,4,4,3,3,5,Expérience correcte dans l'ensemble.,True
+SAT00267,SUP0202,supporter0202@example.com,MAT010,Paris United - Lens,2026-12-20,3,2,3,4,2,7,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00268,SUP0202,supporter0202@example.com,MAT001,Paris United - Lyon,2026-08-16,4,4,3,5,3,8,Très bonne organisation du match.,False
+SAT00269,SUP0203,supporter0203@example.com,MAT004,Paris United - Monaco,2026-09-27,4,4,4,5,4,9,"Super expérience, je reviendrai.",False
+SAT00270,SUP0203,supporter0203@example.com,MAT003,Paris United - Lille,2026-09-14,4,5,4,4,3,8,Très bonne ambiance dans le stade.,False
+SAT00271,SUP0204,supporter0204@example.com,MAT012,Paris United - Auxerre,2027-01-17,4,3,4,4,2,7,Très bonne ambiance dans le stade.,False
+SAT00272,SUP0205,supporter0205@example.com,MAT011,Paris United - Bordeaux,2027-01-04,1,2,1,1,1,0,Expérience décevante au niveau de l'accueil.,True
+SAT00273,SUP0205,supporter0205@example.com,MAT005,Paris United - Nantes,2026-10-11,3,4,3,3,3,6,Bon match mais restauration trop chère.,False
+SAT00274,SUP0205,supporter0205@example.com,MAT006,Paris United - Rennes,2026-10-27,4,5,4,4,3,7,Très bonne organisation du match.,False
+SAT00275,SUP0206,supporter0206@example.com,MAT005,Paris United - Nantes,2026-10-11,4,5,3,5,2,7,"Super expérience, je reviendrai.",False
+SAT00276,SUP0207,supporter0207@example.com,MAT011,Paris United - Bordeaux,2027-01-03,5,5,5,5,5,10,Très bonne ambiance dans le stade.,False
+SAT00277,SUP0209,supporter0209@example.com,MAT002,Paris United - Marseille,2026-08-31,4,4,4,4,3,7,"Super expérience, je reviendrai.",False
+SAT00278,SUP0211,supporter0211@example.com,MAT008,Paris United - Toulouse,2026-11-23,1,1,2,2,1,1,La restauration était trop lente.,True
+SAT00279,SUP0211,supporter0211@example.com,MAT012,Paris United - Auxerre,2027-01-17,4,5,4,4,4,8,Très bonne organisation du match.,False
+SAT00280,SUP0212,supporter0212@example.com,MAT002,Paris United - Marseille,2026-09-01,3,2,3,4,1,6,Bon match mais restauration trop chère.,False
+SAT00281,SUP0213,supporter0213@example.com,MAT003,Paris United - Lille,2026-09-13,5,5,4,5,3,10,Ambiance exceptionnelle.,False
+SAT00282,SUP0213,supporter0213@example.com,MAT001,Paris United - Lyon,2026-08-17,3,3,2,3,3,6,Bon match mais restauration trop chère.,False
+SAT00283,SUP0214,supporter0214@example.com,MAT002,Paris United - Marseille,2026-08-31,4,4,5,4,4,9,Entrée rapide et personnel accueillant.,False
+SAT00284,SUP0218,supporter0218@example.com,MAT007,Paris United - Nice,2026-11-09,4,3,4,4,3,8,"Super expérience, je reviendrai.",False
+SAT00285,SUP0218,supporter0218@example.com,MAT003,Paris United - Lille,2026-09-15,4,5,4,4,2,8,"Super expérience, je reviendrai.",False
+SAT00286,SUP0219,supporter0219@example.com,MAT002,Paris United - Marseille,2026-09-01,3,4,3,3,3,6,Bon match mais restauration trop chère.,False
+SAT00287,SUP0219,supporter0219@example.com,MAT010,Paris United - Lens,2026-12-22,5,5,5,5,5,10,Ambiance exceptionnelle.,False
+SAT00288,SUP0219,supporter0219@example.com,MAT008,Paris United - Toulouse,2026-11-23,5,5,5,5,3,9,Très bonne organisation du match.,False
+SAT00289,SUP0220,supporter0220@example.com,MAT002,Paris United - Marseille,2026-08-30,3,3,3,3,3,6,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00290,SUP0221,supporter0221@example.com,MAT003,Paris United - Lille,2026-09-14,3,2,2,3,3,6,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00291,SUP0223,supporter0223@example.com,MAT004,Paris United - Monaco,2026-09-29,3,3,3,4,4,5,Ambiance sympa mais accès au stade à améliorer.,True
+SAT00292,SUP0224,supporter0224@example.com,MAT007,Paris United - Nice,2026-11-08,5,5,5,5,3,9,Entrée rapide et personnel accueillant.,False
+SAT00293,SUP0224,supporter0224@example.com,MAT008,Paris United - Toulouse,2026-11-24,4,5,5,4,2,8,Entrée rapide et personnel accueillant.,False
+SAT00294,SUP0226,supporter0226@example.com,MAT003,Paris United - Lille,2026-09-14,4,4,4,5,3,7,Entrée rapide et personnel accueillant.,False
+SAT00295,SUP0226,supporter0226@example.com,MAT010,Paris United - Lens,2026-12-22,2,3,2,2,2,1,Trop d'attente à l'entrée du stade.,True
+SAT00296,SUP0227,supporter0227@example.com,MAT002,Paris United - Marseille,2026-08-31,4,4,5,4,4,8,Très bonne organisation du match.,False
+SAT00297,SUP0227,supporter0227@example.com,MAT010,Paris United - Lens,2026-12-20,5,4,5,5,4,10,Ambiance exceptionnelle.,False
+SAT00298,SUP0227,supporter0227@example.com,MAT001,Paris United - Lyon,2026-08-16,4,4,3,4,3,9,Très bonne organisation du match.,False
+SAT00299,SUP0228,supporter0228@example.com,MAT002,Paris United - Marseille,2026-08-31,5,5,4,5,3,9,Entrée rapide et personnel accueillant.,False
+SAT00300,SUP0232,supporter0232@example.com,MAT011,Paris United - Bordeaux,2027-01-04,4,3,4,5,3,9,Ambiance exceptionnelle.,False
+SAT00301,SUP0232,supporter0232@example.com,MAT006,Paris United - Rennes,2026-10-27,5,5,5,5,5,10,Très bonne ambiance dans le stade.,False
+SAT00302,SUP0233,supporter0233@example.com,MAT002,Paris United - Marseille,2026-08-30,1,1,1,1,1,3,Trop d'attente à l'entrée du stade.,True
+SAT00303,SUP0234,supporter0234@example.com,MAT003,Paris United - Lille,2026-09-15,2,1,2,2,2,1,La restauration était trop lente.,True
+SAT00304,SUP0235,supporter0235@example.com,MAT012,Paris United - Auxerre,2027-01-17,4,5,3,4,3,7,Très bonne ambiance dans le stade.,False
+SAT00305,SUP0235,supporter0235@example.com,MAT002,Paris United - Marseille,2026-09-01,5,5,5,5,5,9,Entrée rapide et personnel accueillant.,False
+SAT00306,SUP0236,supporter0236@example.com,MAT007,Paris United - Nice,2026-11-09,4,5,5,5,2,8,Très bonne organisation du match.,False
+SAT00307,SUP0236,supporter0236@example.com,MAT003,Paris United - Lille,2026-09-15,3,2,4,3,4,5,Bon match mais restauration trop chère.,True
+SAT00308,SUP0237,supporter0237@example.com,MAT007,Paris United - Nice,2026-11-08,5,5,5,5,5,9,Entrée rapide et personnel accueillant.,False
+SAT00309,SUP0238,supporter0238@example.com,MAT012,Paris United - Auxerre,2027-01-17,5,5,5,5,5,9,Très bonne organisation du match.,False
+SAT00310,SUP0239,supporter0239@example.com,MAT005,Paris United - Nantes,2026-10-12,5,5,5,5,4,10,Entrée rapide et personnel accueillant.,False
+SAT00311,SUP0240,supporter0240@example.com,MAT008,Paris United - Toulouse,2026-11-22,5,5,5,5,5,10,"Super expérience, je reviendrai.",False
+SAT00312,SUP0242,supporter0242@example.com,MAT009,Paris United - Strasbourg,2026-12-07,1,1,1,1,1,5,Files d'attente beaucoup trop longues.,True
+SAT00313,SUP0242,supporter0242@example.com,MAT010,Paris United - Lens,2026-12-20,3,3,2,3,3,5,Expérience correcte dans l'ensemble.,True
+SAT00314,SUP0242,supporter0242@example.com,MAT011,Paris United - Bordeaux,2027-01-04,5,4,5,5,5,9,Très bonne ambiance dans le stade.,False
+SAT00315,SUP0243,supporter0243@example.com,MAT002,Paris United - Marseille,2026-09-01,4,4,4,4,4,8,Très bonne organisation du match.,False
+SAT00316,SUP0243,supporter0243@example.com,MAT012,Paris United - Auxerre,2027-01-17,3,3,4,4,2,7,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00317,SUP0244,supporter0244@example.com,MAT012,Paris United - Auxerre,2027-01-18,5,4,5,5,5,9,Ambiance exceptionnelle.,False
+SAT00318,SUP0244,supporter0244@example.com,MAT011,Paris United - Bordeaux,2027-01-04,5,5,5,5,5,10,Très bonne organisation du match.,False
+SAT00319,SUP0245,supporter0245@example.com,MAT006,Paris United - Rennes,2026-10-27,2,3,3,2,3,1,Trop d'attente à l'entrée du stade.,True
+SAT00320,SUP0245,supporter0245@example.com,MAT003,Paris United - Lille,2026-09-13,3,3,2,4,4,5,Bon match mais restauration trop chère.,True
+SAT00321,SUP0246,supporter0246@example.com,MAT007,Paris United - Nice,2026-11-10,5,5,5,5,4,9,Entrée rapide et personnel accueillant.,False
+SAT00322,SUP0247,supporter0247@example.com,MAT007,Paris United - Nice,2026-11-08,4,3,3,5,4,9,Entrée rapide et personnel accueillant.,False
+SAT00323,SUP0247,supporter0247@example.com,MAT006,Paris United - Rennes,2026-10-27,4,4,4,4,3,9,"Super expérience, je reviendrai.",False
+SAT00324,SUP0247,supporter0247@example.com,MAT008,Paris United - Toulouse,2026-11-23,5,4,5,5,3,9,Ambiance exceptionnelle.,False
+SAT00325,SUP0249,supporter0249@example.com,MAT011,Paris United - Bordeaux,2027-01-04,4,4,4,5,2,7,Très bonne ambiance dans le stade.,False
+SAT00326,SUP0249,supporter0249@example.com,MAT008,Paris United - Toulouse,2026-11-22,4,5,5,4,3,7,Très bonne ambiance dans le stade.,False
+SAT00327,SUP0250,supporter0250@example.com,MAT007,Paris United - Nice,2026-11-09,5,4,5,5,5,9,Très bonne organisation du match.,False
+SAT00328,SUP0251,supporter0251@example.com,MAT010,Paris United - Lens,2026-12-20,3,2,3,3,2,6,Bon match mais restauration trop chère.,False
+SAT00329,SUP0251,supporter0251@example.com,MAT009,Paris United - Strasbourg,2026-12-06,2,1,2,2,3,0,Expérience décevante au niveau de l'accueil.,True
+SAT00330,SUP0253,supporter0253@example.com,MAT010,Paris United - Lens,2026-12-21,2,1,2,2,1,0,Signalétique difficile à comprendre.,True
+SAT00331,SUP0253,supporter0253@example.com,MAT002,Paris United - Marseille,2026-09-01,4,4,4,4,5,8,Très bonne organisation du match.,False
+SAT00332,SUP0253,supporter0253@example.com,MAT012,Paris United - Auxerre,2027-01-19,2,2,2,2,2,3,La restauration était trop lente.,True
+SAT00333,SUP0253,supporter0253@example.com,MAT011,Paris United - Bordeaux,2027-01-05,4,4,4,5,4,9,Entrée rapide et personnel accueillant.,False
+SAT00334,SUP0254,supporter0254@example.com,MAT011,Paris United - Bordeaux,2027-01-05,2,3,3,2,1,1,La restauration était trop lente.,True
+SAT00335,SUP0256,supporter0256@example.com,MAT005,Paris United - Nantes,2026-10-13,5,5,4,5,4,9,Très bonne ambiance dans le stade.,False
+SAT00336,SUP0256,supporter0256@example.com,MAT012,Paris United - Auxerre,2027-01-19,5,4,4,5,3,10,Entrée rapide et personnel accueillant.,False
+SAT00337,SUP0256,supporter0256@example.com,MAT003,Paris United - Lille,2026-09-13,5,4,4,5,5,10,Très bonne organisation du match.,False
+SAT00338,SUP0257,supporter0257@example.com,MAT005,Paris United - Nantes,2026-10-13,2,2,3,2,2,0,Expérience décevante au niveau de l'accueil.,True
+SAT00339,SUP0257,supporter0257@example.com,MAT002,Paris United - Marseille,2026-08-30,4,4,3,5,4,9,Entrée rapide et personnel accueillant.,False
+SAT00340,SUP0258,supporter0258@example.com,MAT004,Paris United - Monaco,2026-09-29,5,5,5,5,3,10,Très bonne ambiance dans le stade.,False
+SAT00341,SUP0259,supporter0259@example.com,MAT010,Paris United - Lens,2026-12-20,5,5,5,5,5,10,Ambiance exceptionnelle.,False
+SAT00342,SUP0261,supporter0261@example.com,MAT001,Paris United - Lyon,2026-08-16,5,5,5,5,5,9,Entrée rapide et personnel accueillant.,False
+SAT00343,SUP0261,supporter0261@example.com,MAT004,Paris United - Monaco,2026-09-29,4,3,4,4,4,9,Entrée rapide et personnel accueillant.,False
+SAT00344,SUP0261,supporter0261@example.com,MAT008,Paris United - Toulouse,2026-11-23,4,4,4,4,4,7,Très bonne organisation du match.,False
+SAT00345,SUP0262,supporter0262@example.com,MAT001,Paris United - Lyon,2026-08-16,2,2,3,3,3,3,La restauration était trop lente.,True
+SAT00346,SUP0263,supporter0263@example.com,MAT011,Paris United - Bordeaux,2027-01-04,5,5,4,5,4,10,Entrée rapide et personnel accueillant.,False
+SAT00347,SUP0263,supporter0263@example.com,MAT006,Paris United - Rennes,2026-10-27,4,4,3,4,2,7,Très bonne ambiance dans le stade.,False
+SAT00348,SUP0263,supporter0263@example.com,MAT008,Paris United - Toulouse,2026-11-23,4,4,3,5,3,9,Très bonne ambiance dans le stade.,False
+SAT00349,SUP0265,supporter0265@example.com,MAT011,Paris United - Bordeaux,2027-01-03,5,5,4,5,4,9,Entrée rapide et personnel accueillant.,False
+SAT00350,SUP0266,supporter0266@example.com,MAT005,Paris United - Nantes,2026-10-12,3,2,3,3,3,7,Bon match mais restauration trop chère.,False
+SAT00351,SUP0266,supporter0266@example.com,MAT011,Paris United - Bordeaux,2027-01-04,4,4,4,4,4,8,Ambiance exceptionnelle.,False
+SAT00352,SUP0266,supporter0266@example.com,MAT010,Paris United - Lens,2026-12-20,5,5,4,5,5,10,Très bonne ambiance dans le stade.,False
+SAT00353,SUP0267,supporter0267@example.com,MAT003,Paris United - Lille,2026-09-15,4,4,4,4,4,7,Ambiance exceptionnelle.,False
+SAT00354,SUP0267,supporter0267@example.com,MAT006,Paris United - Rennes,2026-10-27,5,4,4,5,5,10,Ambiance exceptionnelle.,False
+SAT00355,SUP0269,supporter0269@example.com,MAT011,Paris United - Bordeaux,2027-01-04,2,3,3,2,2,4,La restauration était trop lente.,True
+SAT00356,SUP0269,supporter0269@example.com,MAT004,Paris United - Monaco,2026-09-28,5,5,5,5,5,9,Très bonne ambiance dans le stade.,False
+SAT00357,SUP0272,supporter0272@example.com,MAT004,Paris United - Monaco,2026-09-28,4,3,4,5,4,7,Ambiance exceptionnelle.,False
+SAT00358,SUP0273,supporter0273@example.com,MAT011,Paris United - Bordeaux,2027-01-04,5,5,5,5,5,10,"Super expérience, je reviendrai.",False
+SAT00359,SUP0273,supporter0273@example.com,MAT003,Paris United - Lille,2026-09-13,3,4,4,4,2,7,Expérience correcte dans l'ensemble.,False
+SAT00360,SUP0275,supporter0275@example.com,MAT010,Paris United - Lens,2026-12-21,3,3,4,4,1,5,Ambiance sympa mais accès au stade à améliorer.,True
+SAT00361,SUP0275,supporter0275@example.com,MAT002,Paris United - Marseille,2026-08-31,3,2,3,4,4,6,Expérience correcte dans l'ensemble.,False
+SAT00362,SUP0276,supporter0276@example.com,MAT008,Paris United - Toulouse,2026-11-24,4,4,4,4,4,9,Entrée rapide et personnel accueillant.,False
+SAT00363,SUP0276,supporter0276@example.com,MAT006,Paris United - Rennes,2026-10-26,5,5,5,5,5,10,Très bonne organisation du match.,False
+SAT00364,SUP0279,supporter0279@example.com,MAT010,Paris United - Lens,2026-12-21,3,2,3,4,3,6,Expérience correcte dans l'ensemble.,False
+SAT00365,SUP0281,supporter0281@example.com,MAT002,Paris United - Marseille,2026-08-30,5,5,4,5,5,10,Très bonne organisation du match.,False
+SAT00366,SUP0282,supporter0282@example.com,MAT009,Paris United - Strasbourg,2026-12-08,4,4,4,4,2,8,"Super expérience, je reviendrai.",False
+SAT00367,SUP0283,supporter0283@example.com,MAT004,Paris United - Monaco,2026-09-28,5,5,4,5,5,9,"Super expérience, je reviendrai.",False
+SAT00368,SUP0284,supporter0284@example.com,MAT012,Paris United - Auxerre,2027-01-19,4,4,4,4,5,7,Très bonne ambiance dans le stade.,False
+SAT00369,SUP0284,supporter0284@example.com,MAT009,Paris United - Strasbourg,2026-12-06,2,2,1,3,1,4,Expérience décevante au niveau de l'accueil.,True
+SAT00370,SUP0284,supporter0284@example.com,MAT010,Paris United - Lens,2026-12-22,5,4,5,5,5,10,Ambiance exceptionnelle.,False
+SAT00371,SUP0284,supporter0284@example.com,MAT002,Paris United - Marseille,2026-08-31,3,4,3,3,1,6,Expérience correcte dans l'ensemble.,False
+SAT00372,SUP0284,supporter0284@example.com,MAT001,Paris United - Lyon,2026-08-17,5,5,4,5,3,9,"Super expérience, je reviendrai.",False
+SAT00373,SUP0285,supporter0285@example.com,MAT002,Paris United - Marseille,2026-08-30,4,5,3,5,4,8,Très bonne ambiance dans le stade.,False
+SAT00374,SUP0286,supporter0286@example.com,MAT002,Paris United - Marseille,2026-08-30,5,4,4,5,4,10,Ambiance exceptionnelle.,False
+SAT00375,SUP0287,supporter0287@example.com,MAT003,Paris United - Lille,2026-09-13,3,3,4,3,2,7,Ambiance sympa mais accès au stade à améliorer.,False
+SAT00376,SUP0290,supporter0290@example.com,MAT010,Paris United - Lens,2026-12-21,2,2,2,2,2,4,Signalétique difficile à comprendre.,True
+SAT00377,SUP0290,supporter0290@example.com,MAT009,Paris United - Strasbourg,2026-12-08,4,4,4,4,4,8,Très bonne organisation du match.,False
+SAT00378,SUP0290,supporter0290@example.com,MAT004,Paris United - Monaco,2026-09-28,4,5,4,4,3,8,Très bonne ambiance dans le stade.,False
+SAT00379,SUP0291,supporter0291@example.com,MAT008,Paris United - Toulouse,2026-11-24,4,3,4,4,4,8,Très bonne ambiance dans le stade.,False
+SAT00380,SUP0291,supporter0291@example.com,MAT012,Paris United - Auxerre,2027-01-18,3,4,4,4,3,5,Ambiance sympa mais accès au stade à améliorer.,True
+SAT00381,SUP0291,supporter0291@example.com,MAT001,Paris United - Lyon,2026-08-17,3,4,2,4,3,7,Bon match mais restauration trop chère.,False
+SAT00382,SUP0292,supporter0292@example.com,MAT007,Paris United - Nice,2026-11-10,5,5,5,5,3,10,Entrée rapide et personnel accueillant.,False
+SAT00383,SUP0292,supporter0292@example.com,MAT001,Paris United - Lyon,2026-08-16,4,3,4,4,4,9,"Super expérience, je reviendrai.",False
+SAT00384,SUP0292,supporter0292@example.com,MAT005,Paris United - Nantes,2026-10-13,5,4,5,5,5,9,Ambiance exceptionnelle.,False
+SAT00385,SUP0292,supporter0292@example.com,MAT010,Paris United - Lens,2026-12-20,4,4,4,5,2,9,Très bonne ambiance dans le stade.,False
+SAT00386,SUP0293,supporter0293@example.com,MAT008,Paris United - Toulouse,2026-11-23,3,3,4,4,2,5,Bon match mais restauration trop chère.,True
+SAT00387,SUP0293,supporter0293@example.com,MAT002,Paris United - Marseille,2026-08-31,3,3,2,3,1,7,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00388,SUP0293,supporter0293@example.com,MAT001,Paris United - Lyon,2026-08-18,3,2,3,4,2,6,Bonne expérience mais beaucoup d'attente à la buvette.,False
+SAT00389,SUP0293,supporter0293@example.com,MAT011,Paris United - Bordeaux,2027-01-03,5,5,5,5,5,9,Très bonne ambiance dans le stade.,False
+SAT00390,SUP0294,supporter0294@example.com,MAT002,Paris United - Marseille,2026-08-30,5,5,4,5,5,9,Ambiance exceptionnelle.,False
+SAT00391,SUP0297,supporter0297@example.com,MAT008,Paris United - Toulouse,2026-11-23,4,4,4,4,5,8,Très bonne ambiance dans le stade.,False
+SAT00392,SUP0297,supporter0297@example.com,MAT001,Paris United - Lyon,2026-08-17,2,3,3,2,2,1,Trop d'attente à l'entrée du stade.,True
+SAT00393,SUP0298,supporter0298@example.com,MAT008,Paris United - Toulouse,2026-11-24,5,5,5,5,5,10,Très bonne organisation du match.,False
+SAT00394,SUP0298,supporter0298@example.com,MAT011,Paris United - Bordeaux,2027-01-05,4,3,5,4,4,8,Entrée rapide et personnel accueillant.,False
+SAT00395,SUP0298,supporter0298@example.com,MAT007,Paris United - Nice,2026-11-09,4,4,3,4,5,7,"Super expérience, je reviendrai.",False
+SAT00396,SUP0299,supporter0299@example.com,MAT010,Paris United - Lens,2026-12-21,4,5,4,4,4,8,Entrée rapide et personnel accueillant.,False
